@@ -1,0 +1,20 @@
+{
+  "pipelines": [
+    {
+      "name": "DataIngestion",
+      "activities": [
+        {
+          "type": "CopyActivity",
+          "source": {
+            "type": "AzureBlobSource",
+            "blobUri": "https://yourstorage.blob.core.windows.net/business-metrics"
+          },
+          "sink": {
+            "type": "AzureSqlSink",
+            "tableName": "transformed_business_metrics"
+          }
+        }
+      ]
+    }
+  ]
+}

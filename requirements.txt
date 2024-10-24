@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+SQLAlchemy
+requests
+scikit-learn
+matplotlib
+psycopg2
