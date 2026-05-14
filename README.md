@@ -1,10 +1,5 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
-[![Daily Metrics Update](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml/badge.svg)](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml)
-<!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--14%2001%3A23%20UTC-blue)
-<!-- LAST_UPDATED_BADGE_END -->
-
 ## Project Overview
 
 This project demonstrates a pipeline for aggregating and analyzing business metrics. The system processes stock data, detects anomalies, and applies data transformation, cleaning, and aggregation techniques using Python and SQL. The project uses PostgreSQL for storing and querying business metrics.
@@ -145,6 +140,10 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
+[![Daily Metrics Update](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml/badge.svg)](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml)
+<!-- LAST_UPDATED_BADGE_START -->
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--14%2001%3A23%20UTC-blue)
+<!-- LAST_UPDATED_BADGE_END -->
 
 - Last refresh (UTC): **2026-05-14 01:23:37**
 - Tickers tracked: **10**
