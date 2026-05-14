@@ -1,5 +1,10 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
+[![Daily Metrics Update](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml/badge.svg)](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml)
+<!-- LAST_UPDATED_BADGE_START -->
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--14%2001%3A23%20UTC-blue)
+<!-- LAST_UPDATED_BADGE_END -->
+
 ## Project Overview
 
 This project demonstrates a pipeline for aggregating and analyzing business metrics. The system processes stock data, detects anomalies, and applies data transformation, cleaning, and aggregation techniques using Python and SQL. The project uses PostgreSQL for storing and querying business metrics.
@@ -41,8 +46,48 @@ real-time-business-metrics-aggregator/
 ├── notebooks/
 │   ├── business_metrics_analysis.ipynb # Jupyter Notebook for analyzing and visualizing business metrics
 │
+├── automation/
+│   ├── generate_daily_report.py         # Generates daily markdown summary + screenshots
+│
+├── .github/workflows/
+│   ├── daily-metrics-update.yml         # Daily scheduled workflow to refresh README
+│
 ├── README.md                          # Project README
 ├── requirements.txt                   # Python dependencies
+```
+
+### 0. Daily GitHub Automation (README + Screenshots)
+
+This repo includes a scheduled GitHub Action that runs every day, regenerates a market summary, updates README content, and refreshes screenshot assets.
+
+The workflow now runs a **data quality preflight** before report generation and fails early when it detects:
+- Schema drift (required source columns missing)
+- Freshness breach (latest market timestamp too old)
+- Excessive null ratios in key numeric fields
+
+- Workflow file: `.github/workflows/daily-metrics-update.yml`
+- Report generator: `automation/generate_daily_report.py`
+- Updated assets:
+  - `README.md`
+  - `images/daily/top_movers.png`
+  - `images/daily/change_distribution.png`
+  - `artifacts/daily_report.json`
+  - `artifacts/data_quality_report.json`
+
+#### Required GitHub Secret
+
+- `RAPIDAPI_KEY`: RapidAPI key for Yahoo Finance endpoint.
+
+#### Run manually (local)
+
+```bash
+python automation/generate_daily_report.py
+```
+
+#### Run in test mode (sample data, no API key)
+
+```bash
+python automation/generate_daily_report.py --use-sample-data
 ```
 
 ### 1. Data Ingestion
@@ -96,4 +141,36 @@ The `business_metrics_analysis.ipynb` Jupyter Notebook is used for visualizing t
 ### Conclusion
 
 This project demonstrates a full pipeline for ingesting, transforming, and analyzing business metrics using Python, SQL, and PostgreSQL. The real-time aggregation capabilities provide insights into stock market data, and the system can be easily extended to include more advanced features like anomaly detection or forecasting.
-![img_5.png](images/img_5.png)
+![clear_tech_workflow_business_metrics.png](images/clear_tech_workflow_business_metrics.png)
+
+<!-- DAILY_REPORT_START -->
+## Daily Automated Market Summary
+
+- Last refresh (UTC): **2026-05-14 01:23:37**
+- Tickers tracked: **10**
+- Average change: **+1.47%**
+- Median change: **+1.35%**
+- Top gainer: **PLTR (+5.00%)**
+- Top loser: **TSLA (-2.60%)**
+
+### Top Movers
+
+| Symbol | Name      |   Price | Change % |
+|--------|-----------|--------:|---------:|
+| PLTR   | Palantir  |   24.60 |   +5.00% |
+| AMD    | AMD       |  160.20 |   +4.10% |
+| NVDA   | NVIDIA    | 1098.40 |   +3.70% |
+| NFLX   | Netflix   |  639.30 |   +2.40% |
+| MSFT   | Microsoft |  431.30 |   +1.50% |
+| GOOGL  | Alphabet  |  173.70 |   +1.20% |
+| AAPL   | Apple     |  197.20 |   +0.80% |
+| AMZN   | Amazon    |  183.10 |   -0.40% |
+| META   | Meta      |  497.80 |   -1.00% |
+| TSLA   | Tesla     |  178.20 |   -2.60% |
+
+### Daily Visuals
+
+![Top Movers](images/daily/top_movers.png)
+
+![Change Distribution](images/daily/change_distribution.png)
+<!-- DAILY_REPORT_END -->

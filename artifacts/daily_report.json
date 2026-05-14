@@ -1,0 +1,16 @@
+{
+  "tickers_tracked": 10,
+  "avg_change_pct": 1.47,
+  "median_change_pct": 1.35,
+  "gainers": 7,
+  "losers": 3,
+  "top_gainer": {
+    "symbol": "PLTR",
+    "change_pct": 5.0
+  },
+  "top_loser": {
+    "symbol": "TSLA",
+    "change_pct": -2.6
+  },
+  "generated_at": "2026-05-14T01:23:37.514972+00:00"
+}
