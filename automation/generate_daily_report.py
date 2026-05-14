@@ -21,9 +21,12 @@ SOURCE_REQUIRED_COLUMNS = {
     "shortName",
     "regularMarketPrice",
     "regularMarketChangePercent",
+    "regularMarketTime",
+}
+
+SOURCE_OPTIONAL_COLUMNS = {
     "regularMarketVolume",
     "marketCap",
-    "regularMarketTime",
 }
 
 SAMPLE_MARKET_TIME = int(datetime.now(timezone.utc).timestamp())
@@ -69,6 +72,9 @@ def build_dataframe(quotes: list[dict]) -> pd.DataFrame:
         "shortName",
         "regularMarketPrice",
         "regularMarketChangePercent",
+    ]
+
+    optional_columns = [
         "regularMarketVolume",
         "marketCap",
     ]
@@ -77,7 +83,11 @@ def build_dataframe(quotes: list[dict]) -> pd.DataFrame:
         if column not in df.columns:
             df[column] = pd.NA
 
-    df = df[required_columns].copy()
+    for column in optional_columns:
+        if column not in df.columns:
+            df[column] = 0
+
+    df = df[required_columns + optional_columns].copy()
 
     numeric_columns = [
         "regularMarketPrice",
@@ -96,12 +106,17 @@ def build_dataframe(quotes: list[dict]) -> pd.DataFrame:
 def run_data_quality_checks(source_df: pd.DataFrame, enforce_freshness: bool) -> dict:
     missing_columns = sorted(SOURCE_REQUIRED_COLUMNS - set(source_df.columns))
     if missing_columns:
-        raise RuntimeError(f"Schema drift detected. Missing source columns: {', '.join(missing_columns)}")
+        raise RuntimeError(f"Schema drift detected. Missing required source columns: {', '.join(missing_columns)}")
 
-    numeric_columns = ["regularMarketPrice", "regularMarketChangePercent", "regularMarketVolume", "marketCap"]
+    numeric_columns = ["regularMarketPrice", "regularMarketChangePercent"]
+    optional_numeric_columns = ["regularMarketVolume", "marketCap"]
+
+    # Check optional numeric columns only if they exist
+    numeric_columns_to_check = numeric_columns + [col for col in optional_numeric_columns if col in source_df.columns]
+
     metrics: dict[str, dict[str, float | int]] = {}
 
-    for column in numeric_columns:
+    for column in numeric_columns_to_check:
         numeric_series = pd.to_numeric(source_df[column], errors="coerce")
         null_ratio = float(numeric_series.isna().mean())
         metrics[column] = {
