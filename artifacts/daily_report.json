@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 25.25513,
-  "median_change_pct": 6.861345,
-  "gainers": 14,
-  "losers": 6,
+  "avg_change_pct": 20.383773735500004,
+  "median_change_pct": 7.0564205,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "QUCY",
-    "change_pct": 315.118
+    "symbol": "SNAL",
+    "change_pct": 179.1262
   },
   "top_loser": {
-    "symbol": "WIX",
-    "change_pct": -27.0954
+    "symbol": "INVZ",
+    "change_pct": -24.00698
   },
-  "generated_at": "2026-05-14T01:55:26.549483+00:00"
+  "generated_at": "2026-05-14T13:32:38.321808+00:00"
 }

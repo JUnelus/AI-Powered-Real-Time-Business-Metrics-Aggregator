@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--14%2001%3A55%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--14%2013%3A32%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-14 01:55:26**
+- Last refresh (UTC): **2026-05-14 13:32:38**
 - Tickers tracked: **20**
-- Average change: **+25.26%**
-- Median change: **+6.86%**
-- Top gainer: **QUCY (+315.12%)**
-- Top loser: **WIX (-27.10%)**
+- Average change: **+20.38%**
+- Median change: **+7.06%**
+- Top gainer: **SNAL (+179.13%)**
+- Top loser: **INVZ (-24.01%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| QUCY | Quantum Cyber N.V. | 1.34 | +315.12% |
-| AIIO | Robo.ai Inc. | 2.61 | +103.91% |
-| FRVO | Fervo Energy Company Class A common stock | 36.54 | +35.33% |
-| AUR | Aurora Innovation, Inc. | 8.40 | +16.34% |
-| NBIS | Nebius Group N.V. | 207.27 | +15.72% |
-| F | Ford Motor Company | 13.57 | +13.18% |
-| NOK | Nokia Corporation Sponsored | 14.71 | +11.69% |
-| BABA | Alibaba Group Holding Limited | 145.81 | +8.18% |
-| MRVL | Marvell Technology, Inc. | 177.95 | +8.18% |
-| NIO | NIO Inc. | 6.54 | +7.57% |
+| SNAL | Snail, Inc. | 1.39 | +179.13% |
+| AIIO | Robo.ai Inc. | 4.09 | +56.68% |
+| ALP | Alpha Compute Corp | 0.40 | +47.67% |
+| QUCY | Quantum Cyber N.V. | 1.86 | +38.81% |
+| POET | POET Technologies Inc. | 18.79 | +30.76% |
+| ONDS | Ondas Inc | 10.48 | +18.27% |
+| KLAR | Klarna Group plc | 16.12 | +17.75% |
+| CSCO | Cisco Systems, Inc. | 118.30 | +16.13% |
+| CRMD | CorMedix Inc. | 8.58 | +14.40% |
+| VSNT | Versant Media Group, Inc. | 44.40 | +9.78% |
 
 ### Daily Visuals
 
