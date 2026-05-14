@@ -140,32 +140,28 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
-[![Daily Metrics Update](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml/badge.svg)](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml)
-<!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--14%2001%3A23%20UTC-blue)
-<!-- LAST_UPDATED_BADGE_END -->
 
-- Last refresh (UTC): **2026-05-14 01:23:37**
-- Tickers tracked: **10**
-- Average change: **+1.47%**
-- Median change: **+1.35%**
-- Top gainer: **PLTR (+5.00%)**
-- Top loser: **TSLA (-2.60%)**
+- Last refresh (UTC): **2026-05-14 01:42:38**
+- Tickers tracked: **20**
+- Average change: **+25.27%**
+- Median change: **+6.86%**
+- Top gainer: **QUCY (+315.12%)**
+- Top loser: **WIX (-27.10%)**
 
 ### Top Movers
 
-| Symbol | Name      |   Price | Change % |
-|--------|-----------|--------:|---------:|
-| PLTR   | Palantir  |   24.60 |   +5.00% |
-| AMD    | AMD       |  160.20 |   +4.10% |
-| NVDA   | NVIDIA    | 1098.40 |   +3.70% |
-| NFLX   | Netflix   |  639.30 |   +2.40% |
-| MSFT   | Microsoft |  431.30 |   +1.50% |
-| GOOGL  | Alphabet  |  173.70 |   +1.20% |
-| AAPL   | Apple     |  197.20 |   +0.80% |
-| AMZN   | Amazon    |  183.10 |   -0.40% |
-| META   | Meta      |  497.80 |   -1.00% |
-| TSLA   | Tesla     |  178.20 |   -2.60% |
+| Symbol | Name | Price | Change % |
+|---|---|---:|---:|
+| QUCY | Quantum Cyber N.V. | 1.34 | +315.12% |
+| AIIO | Robo.ai Inc. | 2.61 | +103.91% |
+| FRVO | Fervo Energy Company Class A common stock | 36.54 | +35.33% |
+| AUR | Aurora Innovation, Inc. | 8.40 | +16.34% |
+| NBIS | Nebius Group N.V. | 207.27 | +15.72% |
+| F | Ford Motor Company | 13.57 | +13.18% |
+| NOK | Nokia Corporation Sponsored | 14.71 | +11.69% |
+| BABA | Alibaba Group Holding Limited | 145.81 | +8.18% |
+| MRVL | Marvell Technology, Inc. | 177.95 | +8.18% |
+| NIO | NIO Inc. | 6.54 | +7.57% |
 
 ### Daily Visuals
 
