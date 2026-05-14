@@ -1,16 +1,16 @@
 {
-  "tickers_tracked": 10,
-  "avg_change_pct": 1.47,
-  "median_change_pct": 1.35,
-  "gainers": 7,
-  "losers": 3,
+  "tickers_tracked": 20,
+  "avg_change_pct": 25.266902115,
+  "median_change_pct": 6.861345,
+  "gainers": 14,
+  "losers": 6,
   "top_gainer": {
-    "symbol": "PLTR",
-    "change_pct": 5.0
+    "symbol": "QUCY",
+    "change_pct": 315.118
   },
   "top_loser": {
-    "symbol": "TSLA",
-    "change_pct": -2.6
+    "symbol": "WIX",
+    "change_pct": -27.0954
   },
-  "generated_at": "2026-05-14T01:40:45.209208+00:00"
+  "generated_at": "2026-05-14T01:42:38.445481+00:00"
 }
