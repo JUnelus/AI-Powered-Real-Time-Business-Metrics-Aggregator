@@ -140,12 +140,8 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
-[![Daily Metrics Update](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml/badge.svg)](https://github.com/JUnelus/AI-Powered-Real-Time-Business-Metrics-Aggregator/actions/workflows/daily-metrics-update.yml)
-<!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--14%2001%3A23%20UTC-blue)
-<!-- LAST_UPDATED_BADGE_END -->
 
-- Last refresh (UTC): **2026-05-14 01:23:37**
+- Last refresh (UTC): **2026-05-14 01:40:45**
 - Tickers tracked: **10**
 - Average change: **+1.47%**
 - Median change: **+1.35%**
