@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 20.383773735500004,
-  "median_change_pct": 7.0564205,
-  "gainers": 16,
-  "losers": 4,
+  "avg_change_pct": 18.441581065499996,
+  "median_change_pct": 0.30560518000000003,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "SNAL",
-    "change_pct": 179.1262
+    "symbol": "HCWB",
+    "change_pct": 229.43622
   },
   "top_loser": {
-    "symbol": "INVZ",
-    "change_pct": -24.00698
+    "symbol": "DVLT",
+    "change_pct": -11.704487
   },
-  "generated_at": "2026-05-14T13:32:38.321808+00:00"
+  "generated_at": "2026-05-15T13:31:55.716626+00:00"
 }

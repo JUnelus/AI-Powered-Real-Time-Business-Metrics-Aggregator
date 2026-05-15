@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--14%2013%3A32%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--15%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-14 13:32:38**
+- Last refresh (UTC): **2026-05-15 13:31:55**
 - Tickers tracked: **20**
-- Average change: **+20.38%**
-- Median change: **+7.06%**
-- Top gainer: **SNAL (+179.13%)**
-- Top loser: **INVZ (-24.01%)**
+- Average change: **+18.44%**
+- Median change: **+0.31%**
+- Top gainer: **HCWB (+229.44%)**
+- Top loser: **DVLT (-11.70%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SNAL | Snail, Inc. | 1.39 | +179.13% |
-| AIIO | Robo.ai Inc. | 4.09 | +56.68% |
-| ALP | Alpha Compute Corp | 0.40 | +47.67% |
-| QUCY | Quantum Cyber N.V. | 1.86 | +38.81% |
-| POET | POET Technologies Inc. | 18.79 | +30.76% |
-| ONDS | Ondas Inc | 10.48 | +18.27% |
-| KLAR | Klarna Group plc | 16.12 | +17.75% |
-| CSCO | Cisco Systems, Inc. | 118.30 | +16.13% |
-| CRMD | CorMedix Inc. | 8.58 | +14.40% |
-| VSNT | Versant Media Group, Inc. | 44.40 | +9.78% |
+| HCWB | HCW Biologics Inc. | 1.11 | +229.44% |
+| SLE | Super League Enterprise, Inc. | 6.71 | +68.38% |
+| AUUD | Auddia Inc. | 2.00 | +64.61% |
+| GEMI | Gemini Space Station, Inc. | 6.75 | +28.33% |
+| SOXS | Direxion Daily Semiconductor Be | 9.20 | +11.18% |
+| ^VIX | CBOE Volatility Index | 19.01 | +10.13% |
+| FIG | Figma, Inc. | 21.78 | +7.61% |
+| SQQQ | ProShares UltraPro Short QQQ | 42.90 | +4.46% |
+| MSFT | Microsoft Corporation | 414.65 | +1.28% |
+| XRP-USD | XRP USD | 1.45 | +0.48% |
 
 ### Daily Visuals
 
