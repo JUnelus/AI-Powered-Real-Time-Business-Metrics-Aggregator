@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--15%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--16%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-15 13:31:55**
+- Last refresh (UTC): **2026-05-16 13:29:12**
 - Tickers tracked: **20**
-- Average change: **+18.44%**
-- Median change: **+0.31%**
-- Top gainer: **HCWB (+229.44%)**
-- Top loser: **DVLT (-11.70%)**
+- Average change: **+0.89%**
+- Median change: **-1.27%**
+- Top gainer: **SEDG (+22.93%)**
+- Top loser: **NASA (-3.90%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| HCWB | HCW Biologics Inc. | 1.11 | +229.44% |
-| SLE | Super League Enterprise, Inc. | 6.71 | +68.38% |
-| AUUD | Auddia Inc. | 2.00 | +64.61% |
-| GEMI | Gemini Space Station, Inc. | 6.75 | +28.33% |
-| SOXS | Direxion Daily Semiconductor Be | 9.20 | +11.18% |
-| ^VIX | CBOE Volatility Index | 19.01 | +10.13% |
-| FIG | Figma, Inc. | 21.78 | +7.61% |
-| SQQQ | ProShares UltraPro Short QQQ | 42.90 | +4.46% |
-| MSFT | Microsoft Corporation | 414.65 | +1.28% |
-| XRP-USD | XRP USD | 1.45 | +0.48% |
+| SEDG | SolarEdge Technologies, Inc. | 61.76 | +22.93% |
+| TEAM | Atlassian Corporation | 87.46 | +8.16% |
+| PATH | UiPath, Inc. | 10.27 | +6.20% |
+| DVN | Devon Energy Corporation | 49.49 | +4.76% |
+| M | Macy's Inc | 18.41 | +0.55% |
+| SBUX | Starbucks Corporation | 106.81 | +0.39% |
+| SPAX.PVT | SpaceX | 646.78 | +0.25% |
+| BTC-USD | Bitcoin USD | 77899.98 | -1.03% |
+| ^DJI | Dow Jones Industrial Average | 49526.17 | -1.07% |
+| ^GSPC | S&P 500 | 7408.50 | -1.24% |
 
 ### Daily Visuals
 

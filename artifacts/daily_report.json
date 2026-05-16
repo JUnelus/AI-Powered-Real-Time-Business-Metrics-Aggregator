@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 18.441581065499996,
-  "median_change_pct": 0.30560518000000003,
-  "gainers": 11,
-  "losers": 9,
+  "avg_change_pct": 0.8930094449999999,
+  "median_change_pct": -1.274656,
+  "gainers": 7,
+  "losers": 13,
   "top_gainer": {
-    "symbol": "HCWB",
-    "change_pct": 229.43622
+    "symbol": "SEDG",
+    "change_pct": 22.9299
   },
   "top_loser": {
-    "symbol": "DVLT",
-    "change_pct": -11.704487
+    "symbol": "NASA",
+    "change_pct": -3.89864
   },
-  "generated_at": "2026-05-15T13:31:55.716626+00:00"
+  "generated_at": "2026-05-16T13:29:12.603842+00:00"
 }
