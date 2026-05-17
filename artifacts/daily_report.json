@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.8930094449999999,
-  "median_change_pct": -1.274656,
-  "gainers": 7,
-  "losers": 13,
+  "avg_change_pct": -0.2461655725000001,
+  "median_change_pct": 0.26331252,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "SEDG",
-    "change_pct": 22.9299
+    "symbol": "ENPH",
+    "change_pct": 10.1646
   },
   "top_loser": {
-    "symbol": "NASA",
-    "change_pct": -3.89864
+    "symbol": "APLD",
+    "change_pct": -8.88461
   },
-  "generated_at": "2026-05-16T13:29:12.603842+00:00"
+  "generated_at": "2026-05-17T13:29:13.548527+00:00"
 }

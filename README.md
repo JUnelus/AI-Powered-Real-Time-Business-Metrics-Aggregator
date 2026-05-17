@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--16%2013%3A29%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--17%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-16 13:29:12**
+- Last refresh (UTC): **2026-05-17 13:29:13**
 - Tickers tracked: **20**
-- Average change: **+0.89%**
-- Median change: **-1.27%**
-- Top gainer: **SEDG (+22.93%)**
-- Top loser: **NASA (-3.90%)**
+- Average change: **-0.25%**
+- Median change: **+0.26%**
+- Top gainer: **ENPH (+10.16%)**
+- Top loser: **APLD (-8.88%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SEDG | SolarEdge Technologies, Inc. | 61.76 | +22.93% |
-| TEAM | Atlassian Corporation | 87.46 | +8.16% |
-| PATH | UiPath, Inc. | 10.27 | +6.20% |
-| DVN | Devon Energy Corporation | 49.49 | +4.76% |
-| M | Macy's Inc | 18.41 | +0.55% |
-| SBUX | Starbucks Corporation | 106.81 | +0.39% |
-| SPAX.PVT | SpaceX | 646.78 | +0.25% |
-| BTC-USD | Bitcoin USD | 77899.98 | -1.03% |
-| ^DJI | Dow Jones Industrial Average | 49526.17 | -1.07% |
-| ^GSPC | S&P 500 | 7408.50 | -1.24% |
+| ENPH | Enphase Energy, Inc. | 52.89 | +10.16% |
+| INTU | Intuit Inc. | 393.00 | +3.89% |
+| ZETA | Zeta Global Holdings Corp. | 17.19 | +3.68% |
+| DOGE-USD | Dogecoin USD | 0.11 | +2.25% |
+| ALAB | Astera Labs, Inc. | 232.68 | +1.77% |
+| ETH-USD | Ethereum USD | 2190.16 | +0.64% |
+| XRP-USD | XRP USD | 1.42 | +0.55% |
+| MCD | McDonald's Corporation | 276.39 | +0.52% |
+| BTC-CAD | Bitcoin CAD | 107569.39 | +0.44% |
+| BTC-USD | Bitcoin USD | 78229.74 | +0.32% |
 
 ### Daily Visuals
 
