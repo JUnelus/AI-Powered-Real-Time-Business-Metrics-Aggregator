@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--17%2013%3A29%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--18%2014%3A10%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-17 13:29:13**
+- Last refresh (UTC): **2026-05-18 14:10:12**
 - Tickers tracked: **20**
-- Average change: **-0.25%**
-- Median change: **+0.26%**
-- Top gainer: **ENPH (+10.16%)**
-- Top loser: **APLD (-8.88%)**
+- Average change: **+43.58%**
+- Median change: **+7.15%**
+- Top gainer: **SBFM (+403.34%)**
+- Top loser: **LABT (-24.41%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ENPH | Enphase Energy, Inc. | 52.89 | +10.16% |
-| INTU | Intuit Inc. | 393.00 | +3.89% |
-| ZETA | Zeta Global Holdings Corp. | 17.19 | +3.68% |
-| DOGE-USD | Dogecoin USD | 0.11 | +2.25% |
-| ALAB | Astera Labs, Inc. | 232.68 | +1.77% |
-| ETH-USD | Ethereum USD | 2190.16 | +0.64% |
-| XRP-USD | XRP USD | 1.42 | +0.55% |
-| MCD | McDonald's Corporation | 276.39 | +0.52% |
-| BTC-CAD | Bitcoin CAD | 107569.39 | +0.44% |
-| BTC-USD | Bitcoin USD | 78229.74 | +0.32% |
+| SBFM | Sunshine Biopharma Inc. | 1.43 | +403.34% |
+| GOVX | GeoVax Labs, Inc. | 3.57 | +190.25% |
+| VRAX | Virax Biolabs Group Limited | 0.32 | +109.34% |
+| NXXT | NextNRG, Inc. | 0.45 | +60.52% |
+| HCAI | Huachen AI Parking Management T | 8.15 | +47.11% |
+| HIVE | HIVE Digital Technologies Ltd | 3.58 | +33.20% |
+| GCTS | GCT Semiconductor Holding, Inc. | 2.40 | +31.14% |
+| TE | T1 Energy Inc. | 6.88 | +21.34% |
+| D | Dominion Energy, Inc. | 68.50 | +10.97% |
+| NOW | ServiceNow, Inc. | 103.14 | +8.48% |
 
 ### Daily Visuals
 
