@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--18%2014%3A10%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--19%2013%3A59%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-18 14:10:12**
+- Last refresh (UTC): **2026-05-19 13:59:10**
 - Tickers tracked: **20**
-- Average change: **+43.58%**
-- Median change: **+7.15%**
-- Top gainer: **SBFM (+403.34%)**
-- Top loser: **LABT (-24.41%)**
+- Average change: **+27.00%**
+- Median change: **+5.39%**
+- Top gainer: **AMST (+183.32%)**
+- Top loser: **WGRX (-16.70%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SBFM | Sunshine Biopharma Inc. | 1.43 | +403.34% |
-| GOVX | GeoVax Labs, Inc. | 3.57 | +190.25% |
-| VRAX | Virax Biolabs Group Limited | 0.32 | +109.34% |
-| NXXT | NextNRG, Inc. | 0.45 | +60.52% |
-| HCAI | Huachen AI Parking Management T | 8.15 | +47.11% |
-| HIVE | HIVE Digital Technologies Ltd | 3.58 | +33.20% |
-| GCTS | GCT Semiconductor Holding, Inc. | 2.40 | +31.14% |
-| TE | T1 Energy Inc. | 6.88 | +21.34% |
-| D | Dominion Energy, Inc. | 68.50 | +10.97% |
-| NOW | ServiceNow, Inc. | 103.14 | +8.48% |
+| AMST | Amesite Inc. | 2.23 | +183.32% |
+| INM | InMed Pharmaceuticals Inc. | 1.55 | +127.71% |
+| WNW | Meiwu Technology Company Limite | 4.33 | +79.46% |
+| MTVA | MetaVia Inc. | 1.64 | +47.30% |
+| RUBI | Rubico Inc. | 2.53 | +46.51% |
+| AGYS | Agilysys, Inc. | 91.12 | +29.80% |
+| BKKT | Bakkt, Inc. | 10.29 | +17.95% |
+| EVO.ST | Evolution AB | 714.20 | +7.63% |
+| SAP | SAP  SE | 184.73 | +5.76% |
+| RLAY | Relay Therapeutics, Inc. | 12.76 | +5.45% |
 
 ### Daily Visuals
 
