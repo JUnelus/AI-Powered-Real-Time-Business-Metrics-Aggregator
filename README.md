@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--19%2013%3A59%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--20%2013%3A51%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-19 13:59:10**
+- Last refresh (UTC): **2026-05-20 13:51:02**
 - Tickers tracked: **20**
-- Average change: **+27.00%**
-- Median change: **+5.39%**
-- Top gainer: **AMST (+183.32%)**
-- Top loser: **WGRX (-16.70%)**
+- Average change: **+22.41%**
+- Median change: **+7.08%**
+- Top gainer: **MWC (+136.44%)**
+- Top loser: **TGT (-7.13%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| AMST | Amesite Inc. | 2.23 | +183.32% |
-| INM | InMed Pharmaceuticals Inc. | 1.55 | +127.71% |
-| WNW | Meiwu Technology Company Limite | 4.33 | +79.46% |
-| MTVA | MetaVia Inc. | 1.64 | +47.30% |
-| RUBI | Rubico Inc. | 2.53 | +46.51% |
-| AGYS | Agilysys, Inc. | 91.12 | +29.80% |
-| BKKT | Bakkt, Inc. | 10.29 | +17.95% |
-| EVO.ST | Evolution AB | 714.20 | +7.63% |
-| SAP | SAP  SE | 184.73 | +5.76% |
-| RLAY | Relay Therapeutics, Inc. | 12.76 | +5.45% |
+| MWC | Micware Co., Ltd. | 11.16 | +136.44% |
+| SLXN | Silexion Therapeutics Corp | 0.59 | +117.92% |
+| GCL | GCL Global Holdings Ltd | 0.75 | +73.69% |
+| JUNS | Jupiter Neurosciences, Inc. | 0.47 | +47.34% |
+| IMVT | Immunovant, Inc. | 32.37 | +23.13% |
+| SLS | SELLAS Life Sciences Group, Inc | 8.65 | +14.04% |
+| POET | POET Technologies Inc. | 14.36 | +9.83% |
+| ALAB | Astera Labs, Inc. | 267.61 | +9.56% |
+| IBRX | ImmunityBio, Inc. | 8.39 | +8.18% |
+| MRVL | Marvell Technology, Inc. | 189.56 | +7.54% |
 
 ### Daily Visuals
 
