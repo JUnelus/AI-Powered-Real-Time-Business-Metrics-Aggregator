@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--20%2013%3A51%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--21%2014%3A05%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-20 13:51:02**
+- Last refresh (UTC): **2026-05-21 14:05:10**
 - Tickers tracked: **20**
-- Average change: **+22.41%**
-- Median change: **+7.08%**
-- Top gainer: **MWC (+136.44%)**
-- Top loser: **TGT (-7.13%)**
+- Average change: **+13.72%**
+- Median change: **+11.34%**
+- Top gainer: **LIMN (+63.21%)**
+- Top loser: **INTU (-19.75%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| MWC | Micware Co., Ltd. | 11.16 | +136.44% |
-| SLXN | Silexion Therapeutics Corp | 0.59 | +117.92% |
-| GCL | GCL Global Holdings Ltd | 0.75 | +73.69% |
-| JUNS | Jupiter Neurosciences, Inc. | 0.47 | +47.34% |
-| IMVT | Immunovant, Inc. | 32.37 | +23.13% |
-| SLS | SELLAS Life Sciences Group, Inc | 8.65 | +14.04% |
-| POET | POET Technologies Inc. | 14.36 | +9.83% |
-| ALAB | Astera Labs, Inc. | 267.61 | +9.56% |
-| IBRX | ImmunityBio, Inc. | 8.39 | +8.18% |
-| MRVL | Marvell Technology, Inc. | 189.56 | +7.54% |
+| LIMN | Liminatus Pharma, Inc. | 0.31 | +63.21% |
+| ATPC | Agape ATP Corporation | 3.31 | +58.75% |
+| INFQ | Infleqtion, Inc. | 15.93 | +42.49% |
+| QBTS | D-Wave Quantum Inc. | 24.27 | +25.75% |
+| RGTI | Rigetti Computing, Inc. | 21.11 | +25.09% |
+| QUBT | Quantum Computing Inc. | 11.06 | +15.71% |
+| APLD | Applied Digital Corporation | 45.47 | +15.04% |
+| NBIS | Nebius Group N.V. | 220.48 | +14.94% |
+| IONQ | IonQ, Inc. | 59.34 | +13.09% |
+| GFS | GlobalFoundries Inc. | 79.65 | +12.52% |
 
 ### Daily Visuals
 
