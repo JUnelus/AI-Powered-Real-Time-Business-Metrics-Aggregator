@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--21%2014%3A05%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--21%2014%3A06%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-21 14:05:10**
+- Last refresh (UTC): **2026-05-21 14:06:36**
 - Tickers tracked: **20**
-- Average change: **+13.72%**
-- Median change: **+11.34%**
-- Top gainer: **LIMN (+63.21%)**
-- Top loser: **INTU (-19.75%)**
+- Average change: **+14.28%**
+- Median change: **+11.66%**
+- Top gainer: **LIMN (+67.89%)**
+- Top loser: **INTU (-19.97%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| LIMN | Liminatus Pharma, Inc. | 0.31 | +63.21% |
-| ATPC | Agape ATP Corporation | 3.31 | +58.75% |
-| INFQ | Infleqtion, Inc. | 15.93 | +42.49% |
-| QBTS | D-Wave Quantum Inc. | 24.27 | +25.75% |
-| RGTI | Rigetti Computing, Inc. | 21.11 | +25.09% |
-| QUBT | Quantum Computing Inc. | 11.06 | +15.71% |
-| APLD | Applied Digital Corporation | 45.47 | +15.04% |
-| NBIS | Nebius Group N.V. | 220.48 | +14.94% |
-| IONQ | IonQ, Inc. | 59.34 | +13.09% |
-| GFS | GlobalFoundries Inc. | 79.65 | +12.52% |
+| LIMN | Liminatus Pharma, Inc. | 0.32 | +67.89% |
+| ATPC | Agape ATP Corporation | 3.35 | +60.12% |
+| INFQ | Infleqtion, Inc. | 15.91 | +42.31% |
+| QBTS | D-Wave Quantum Inc. | 24.49 | +26.89% |
+| RGTI | Rigetti Computing, Inc. | 21.29 | +26.13% |
+| QUBT | Quantum Computing Inc. | 11.13 | +16.47% |
+| APLD | Applied Digital Corporation | 45.67 | +15.56% |
+| NBIS | Nebius Group N.V. | 220.74 | +15.08% |
+| IONQ | IonQ, Inc. | 59.71 | +13.80% |
+| GFS | GlobalFoundries Inc. | 79.84 | +12.79% |
 
 ### Daily Visuals
 
