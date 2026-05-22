@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--21%2014%3A06%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--22%2013%3A45%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-21 14:06:36**
+- Last refresh (UTC): **2026-05-22 13:45:12**
 - Tickers tracked: **20**
-- Average change: **+14.28%**
-- Median change: **+11.66%**
-- Top gainer: **LIMN (+67.89%)**
-- Top loser: **INTU (-19.97%)**
+- Average change: **+26.56%**
+- Median change: **+8.72%**
+- Top gainer: **PCLA (+177.46%)**
+- Top loser: **FUTU (-28.56%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| LIMN | Liminatus Pharma, Inc. | 0.32 | +67.89% |
-| ATPC | Agape ATP Corporation | 3.35 | +60.12% |
-| INFQ | Infleqtion, Inc. | 15.91 | +42.31% |
-| QBTS | D-Wave Quantum Inc. | 24.49 | +26.89% |
-| RGTI | Rigetti Computing, Inc. | 21.29 | +26.13% |
-| QUBT | Quantum Computing Inc. | 11.13 | +16.47% |
-| APLD | Applied Digital Corporation | 45.67 | +15.56% |
-| NBIS | Nebius Group N.V. | 220.74 | +15.08% |
-| IONQ | IonQ, Inc. | 59.71 | +13.80% |
-| GFS | GlobalFoundries Inc. | 79.84 | +12.79% |
+| PCLA | PicoCELA Inc. | 6.26 | +177.46% |
+| LFS | LEIFRAS Co., Ltd. | 4.03 | +114.89% |
+| QTEX | unknown | 0.60 | +96.80% |
+| AKTX | Akari Therapeutics Plc | 8.97 | +74.51% |
+| GOVX | GeoVax Labs, Inc. | 3.92 | +42.52% |
+| ZM | Zoom Communications, Inc. | 110.52 | +14.23% |
+| AKAN | Akanda Corp. | 26.55 | +13.17% |
+| DELL | Dell Technologies Inc. | 281.88 | +11.48% |
+| EL | Estee Lauder Companies, Inc. (T | 87.91 | +11.38% |
+| WDAY | Workday, Inc. | 133.39 | +9.47% |
 
 ### Daily Visuals
 

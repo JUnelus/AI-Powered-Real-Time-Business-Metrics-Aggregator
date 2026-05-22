@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 14.279019850000001,
-  "median_change_pct": 11.6631105,
-  "gainers": 15,
-  "losers": 5,
+  "avg_change_pct": 26.5627492874,
+  "median_change_pct": 8.7201715,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "LIMN",
-    "change_pct": 67.889404
+    "symbol": "PCLA",
+    "change_pct": 177.45721
   },
   "top_loser": {
-    "symbol": "INTU",
-    "change_pct": -19.967127
+    "symbol": "FUTU",
+    "change_pct": -28.56047
   },
-  "generated_at": "2026-05-21T14:06:36.388173+00:00"
+  "generated_at": "2026-05-22T13:45:12.505731+00:00"
 }
