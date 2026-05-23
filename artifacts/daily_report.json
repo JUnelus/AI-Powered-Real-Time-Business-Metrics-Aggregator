@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 26.5627492874,
-  "median_change_pct": 8.7201715,
-  "gainers": 16,
-  "losers": 4,
+  "avg_change_pct": 11.7662612965,
+  "median_change_pct": 0.74555825,
+  "gainers": 13,
+  "losers": 7,
   "top_gainer": {
-    "symbol": "PCLA",
-    "change_pct": 177.45721
+    "symbol": "QTEX",
+    "change_pct": 140.01321
   },
   "top_loser": {
-    "symbol": "FUTU",
-    "change_pct": -28.56047
+    "symbol": "DOGE-USD",
+    "change_pct": -5.8193116
   },
-  "generated_at": "2026-05-22T13:45:12.505731+00:00"
+  "generated_at": "2026-05-23T13:29:25.791359+00:00"
 }

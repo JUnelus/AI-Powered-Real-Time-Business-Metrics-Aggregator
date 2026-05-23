@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--22%2013%3A45%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--23%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-22 13:45:12**
+- Last refresh (UTC): **2026-05-23 13:29:25**
 - Tickers tracked: **20**
-- Average change: **+26.56%**
-- Median change: **+8.72%**
-- Top gainer: **PCLA (+177.46%)**
-- Top loser: **FUTU (-28.56%)**
+- Average change: **+11.77%**
+- Median change: **+0.75%**
+- Top gainer: **QTEX (+140.01%)**
+- Top loser: **DOGE-USD (-5.82%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| PCLA | PicoCELA Inc. | 6.26 | +177.46% |
-| LFS | LEIFRAS Co., Ltd. | 4.03 | +114.89% |
-| QTEX | unknown | 0.60 | +96.80% |
-| AKTX | Akari Therapeutics Plc | 8.97 | +74.51% |
-| GOVX | GeoVax Labs, Inc. | 3.92 | +42.52% |
-| ZM | Zoom Communications, Inc. | 110.52 | +14.23% |
-| AKAN | Akanda Corp. | 26.55 | +13.17% |
-| DELL | Dell Technologies Inc. | 281.88 | +11.48% |
-| EL | Estee Lauder Companies, Inc. (T | 87.91 | +11.38% |
-| WDAY | Workday, Inc. | 133.39 | +9.47% |
+| QTEX | unknown | 0.73 | +140.01% |
+| HYLN | Hyliion Holdings Corp. | 5.99 | +42.62% |
+| BB | BlackBerry Limited | 7.91 | +18.95% |
+| FLY | Firefly Aerospace Inc. | 49.50 | +15.49% |
+| HPQ | HP Inc. | 25.24 | +15.25% |
+| SWKS | Skyworks Solutions, Inc. | 82.42 | +12.08% |
+| F | Ford Motor Company | 14.93 | +9.22% |
+| CPB | The Campbell's Company | 20.58 | +2.64% |
+| CIBR | First Trust NASDAQ Cybersecurit | 84.28 | +2.59% |
+| ^RUT | Russell 2000 | 2869.22 | +0.91% |
 
 ### Daily Visuals
 
