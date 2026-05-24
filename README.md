@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--23%2013%3A29%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--24%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-23 13:29:25**
+- Last refresh (UTC): **2026-05-24 13:29:20**
 - Tickers tracked: **20**
-- Average change: **+11.77%**
-- Median change: **+0.75%**
-- Top gainer: **QTEX (+140.01%)**
-- Top loser: **DOGE-USD (-5.82%)**
+- Average change: **+4.78%**
+- Median change: **+2.28%**
+- Top gainer: **SIVE.ST (+23.45%)**
+- Top loser: **COST (-2.11%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| QTEX | unknown | 0.73 | +140.01% |
-| HYLN | Hyliion Holdings Corp. | 5.99 | +42.62% |
-| BB | BlackBerry Limited | 7.91 | +18.95% |
-| FLY | Firefly Aerospace Inc. | 49.50 | +15.49% |
-| HPQ | HP Inc. | 25.24 | +15.25% |
-| SWKS | Skyworks Solutions, Inc. | 82.42 | +12.08% |
-| F | Ford Motor Company | 14.93 | +9.22% |
-| CPB | The Campbell's Company | 20.58 | +2.64% |
-| CIBR | First Trust NASDAQ Cybersecurit | 84.28 | +2.59% |
-| ^RUT | Russell 2000 | 2869.22 | +0.91% |
+| SIVE.ST | Sivers Semiconductors AB | 72.90 | +23.45% |
+| SIVEF | SIVERS SEMICONDUCTORS AB | 7.42 | +17.78% |
+| HYPE32196-USD | Hyperliquid USD | 63.97 | +15.95% |
+| ZEC-USD | Zcash USD | 659.40 | +13.25% |
+| NNE | Nano Nuclear Energy Inc. | 26.73 | +6.58% |
+| SOL-USD | Solana USD | 86.09 | +3.55% |
+| ETH-USD | Ethereum USD | 2114.68 | +3.54% |
+| MRVL | Marvell Technology, Inc. | 196.33 | +2.96% |
+| BTC-CAD | Bitcoin CAD | 106454.06 | +2.77% |
+| BTC-USD | Bitcoin USD | 76882.79 | +2.34% |
 
 ### Daily Visuals
 
