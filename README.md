@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--24%2013%3A29%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--25%2014%3A00%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-24 13:29:20**
+- Last refresh (UTC): **2026-05-25 14:00:50**
 - Tickers tracked: **20**
-- Average change: **+4.78%**
-- Median change: **+2.28%**
-- Top gainer: **SIVE.ST (+23.45%)**
-- Top loser: **COST (-2.11%)**
+- Average change: **+1.60%**
+- Median change: **+0.65%**
+- Top gainer: **SIVE.ST (+14.06%)**
+- Top loser: **NOKIA.HE (-1.40%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SIVE.ST | Sivers Semiconductors AB | 72.90 | +23.45% |
-| SIVEF | SIVERS SEMICONDUCTORS AB | 7.42 | +17.78% |
-| HYPE32196-USD | Hyperliquid USD | 63.97 | +15.95% |
-| ZEC-USD | Zcash USD | 659.40 | +13.25% |
-| NNE | Nano Nuclear Energy Inc. | 26.73 | +6.58% |
-| SOL-USD | Solana USD | 86.09 | +3.55% |
-| ETH-USD | Ethereum USD | 2114.68 | +3.54% |
-| MRVL | Marvell Technology, Inc. | 196.33 | +2.96% |
-| BTC-CAD | Bitcoin CAD | 106454.06 | +2.77% |
-| BTC-USD | Bitcoin USD | 76882.79 | +2.34% |
+| SIVE.ST | Sivers Semiconductors AB | 83.15 | +14.06% |
+| HOD.TO | BETAPRO CRUDE OIL INV LVGD DLY  | 28.66 | +9.18% |
+| ^N225 | Nikkei 225 | 65158.19 | +2.87% |
+| ^FCHI | CAC 40 | 8258.17 | +1.75% |
+| ^GDAXI | DAX                           P | 25298.35 | +1.65% |
+| BTC-USD | Bitcoin USD | 77253.06 | +1.17% |
+| JPM | JP Morgan Chase & Co. | 306.38 | +1.12% |
+| ETH-USD | Ethereum USD | 2114.14 | +0.89% |
+| BTC-CAD | Bitcoin CAD | 106690.20 | +0.80% |
+| BZ=F | Brent Crude Oil Last Day Financ | 100.21 | +0.71% |
 
 ### Daily Visuals
 
