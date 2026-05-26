@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--25%2014%3A00%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--26%2013%3A59%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-25 14:00:50**
+- Last refresh (UTC): **2026-05-26 13:59:25**
 - Tickers tracked: **20**
-- Average change: **+1.60%**
-- Median change: **+0.65%**
-- Top gainer: **SIVE.ST (+14.06%)**
-- Top loser: **NOKIA.HE (-1.40%)**
+- Average change: **+16.73%**
+- Median change: **+6.69%**
+- Top gainer: **MNTS (+88.08%)**
+- Top loser: **NVDA (+0.03%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SIVE.ST | Sivers Semiconductors AB | 83.15 | +14.06% |
-| HOD.TO | BETAPRO CRUDE OIL INV LVGD DLY  | 28.66 | +9.18% |
-| ^N225 | Nikkei 225 | 65158.19 | +2.87% |
-| ^FCHI | CAC 40 | 8258.17 | +1.75% |
-| ^GDAXI | DAX                           P | 25298.35 | +1.65% |
-| BTC-USD | Bitcoin USD | 77253.06 | +1.17% |
-| JPM | JP Morgan Chase & Co. | 306.38 | +1.12% |
-| ETH-USD | Ethereum USD | 2114.14 | +0.89% |
-| BTC-CAD | Bitcoin CAD | 106690.20 | +0.80% |
-| BZ=F | Brent Crude Oil Last Day Financ | 100.21 | +0.71% |
+| MNTS | Momentus Inc. | 13.88 | +88.08% |
+| QTEX | QTREX Quantum Ltd. | 1.36 | +86.48% |
+| OTLK | Outlook Therapeutics, Inc. | 0.42 | +35.85% |
+| RDW | Redwire Corporation | 21.45 | +22.78% |
+| SOXL | Direxion Daily Semiconductor Bu | 219.19 | +14.99% |
+| MU | Micron Technology, Inc. | 860.24 | +14.55% |
+| ASTS | AST SpaceMobile, Inc. | 119.55 | +12.93% |
+| DRAM | Roundhill Memory ETF | 59.18 | +12.19% |
+| MRVL | Marvell Technology, Inc. | 212.62 | +8.29% |
+| SNDK | Sandisk Corporation | 1583.02 | +7.06% |
 
 ### Daily Visuals
 
