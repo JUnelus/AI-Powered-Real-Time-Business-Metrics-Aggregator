@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 16.731324559999997,
-  "median_change_pct": 6.68587255,
-  "gainers": 20,
-  "losers": 0,
+  "avg_change_pct": 31.635231675,
+  "median_change_pct": 8.3874557,
+  "gainers": 14,
+  "losers": 6,
   "top_gainer": {
-    "symbol": "MNTS",
-    "change_pct": 88.07588
+    "symbol": "ASTC",
+    "change_pct": 174.17465
   },
   "top_loser": {
-    "symbol": "NVDA",
-    "change_pct": 0.03199435
+    "symbol": "ZS",
+    "change_pct": -30.186892
   },
-  "generated_at": "2026-05-26T13:59:25.032260+00:00"
+  "generated_at": "2026-05-27T14:06:57.316822+00:00"
 }

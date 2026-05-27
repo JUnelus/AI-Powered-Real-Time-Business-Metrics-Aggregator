@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--26%2013%3A59%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--27%2014%3A06%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-26 13:59:25**
+- Last refresh (UTC): **2026-05-27 14:06:57**
 - Tickers tracked: **20**
-- Average change: **+16.73%**
-- Median change: **+6.69%**
-- Top gainer: **MNTS (+88.08%)**
-- Top loser: **NVDA (+0.03%)**
+- Average change: **+31.64%**
+- Median change: **+8.39%**
+- Top gainer: **ASTC (+174.17%)**
+- Top loser: **ZS (-30.19%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| MNTS | Momentus Inc. | 13.88 | +88.08% |
-| QTEX | QTREX Quantum Ltd. | 1.36 | +86.48% |
-| OTLK | Outlook Therapeutics, Inc. | 0.42 | +35.85% |
-| RDW | Redwire Corporation | 21.45 | +22.78% |
-| SOXL | Direxion Daily Semiconductor Bu | 219.19 | +14.99% |
-| MU | Micron Technology, Inc. | 860.24 | +14.55% |
-| ASTS | AST SpaceMobile, Inc. | 119.55 | +12.93% |
-| DRAM | Roundhill Memory ETF | 59.18 | +12.19% |
-| MRVL | Marvell Technology, Inc. | 212.62 | +8.29% |
-| SNDK | Sandisk Corporation | 1583.02 | +7.06% |
+| ASTC | Astrotech Corporation | 6.78 | +174.17% |
+| BRTX | BioRestorative Therapies, Inc. | 0.56 | +123.34% |
+| SNGX | Soligenix, Inc. | 1.06 | +106.48% |
+| AMSS | AMASS Brands Inc. Common Stock | 7.17 | +100.28% |
+| APPS | Digital Turbine, Inc. | 6.94 | +44.28% |
+| MNTS | Momentus Inc. | 21.16 | +36.72% |
+| XFAB.PA | X-FAB SILICON FOUNDRIES SE | 11.70 | +30.22% |
+| DY | Dycom Industries, Inc. | 545.95 | +29.84% |
+| CPSH | CPS Technologies Corp. | 13.96 | +25.25% |
+| ANF | Abercrombie & Fitch Company | 83.28 | +11.36% |
 
 ### Daily Visuals
 
