@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--27%2014%3A06%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--28%2014%3A13%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-27 14:06:57**
+- Last refresh (UTC): **2026-05-28 14:13:43**
 - Tickers tracked: **20**
-- Average change: **+31.64%**
-- Median change: **+8.39%**
-- Top gainer: **ASTC (+174.17%)**
-- Top loser: **ZS (-30.19%)**
+- Average change: **+22.47%**
+- Median change: **+14.03%**
+- Top gainer: **NCT (+104.91%)**
+- Top loser: **PLAB (-33.12%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ASTC | Astrotech Corporation | 6.78 | +174.17% |
-| BRTX | BioRestorative Therapies, Inc. | 0.56 | +123.34% |
-| SNGX | Soligenix, Inc. | 1.06 | +106.48% |
-| AMSS | AMASS Brands Inc. Common Stock | 7.17 | +100.28% |
-| APPS | Digital Turbine, Inc. | 6.94 | +44.28% |
-| MNTS | Momentus Inc. | 21.16 | +36.72% |
-| XFAB.PA | X-FAB SILICON FOUNDRIES SE | 11.70 | +30.22% |
-| DY | Dycom Industries, Inc. | 545.95 | +29.84% |
-| CPSH | CPS Technologies Corp. | 13.96 | +25.25% |
-| ANF | Abercrombie & Fitch Company | 83.28 | +11.36% |
+| NCT | Intercont (Cayman) Limited | 5.02 | +104.91% |
+| ATPC | Agape ATP Corporation | 5.82 | +104.21% |
+| ASTC | Astrotech Corporation | 21.81 | +57.68% |
+| UMAC | Unusual Machines, Inc. | 28.43 | +50.96% |
+| SNOW | Snowflake Inc. | 239.17 | +36.47% |
+| RCAT | Red Cat Holdings, Inc. | 13.30 | +24.65% |
+| ONDS | Ondas Inc | 13.02 | +20.51% |
+| DLTR | Dollar Tree, Inc. | 112.50 | +17.34% |
+| KSS | Kohl's Corporation | 15.14 | +17.09% |
+| BBY | Best Buy Co., Inc. | 73.70 | +14.19% |
 
 ### Daily Visuals
 
