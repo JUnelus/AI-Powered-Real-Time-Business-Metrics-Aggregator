@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--28%2014%3A13%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--29%2014%3A05%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-28 14:13:43**
+- Last refresh (UTC): **2026-05-29 14:05:27**
 - Tickers tracked: **20**
-- Average change: **+22.47%**
-- Median change: **+14.03%**
-- Top gainer: **NCT (+104.91%)**
-- Top loser: **PLAB (-33.12%)**
+- Average change: **+50.85%**
+- Median change: **+8.80%**
+- Top gainer: **HUBC (+455.78%)**
+- Top loser: **ASTS (-18.02%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| NCT | Intercont (Cayman) Limited | 5.02 | +104.91% |
-| ATPC | Agape ATP Corporation | 5.82 | +104.21% |
-| ASTC | Astrotech Corporation | 21.81 | +57.68% |
-| UMAC | Unusual Machines, Inc. | 28.43 | +50.96% |
-| SNOW | Snowflake Inc. | 239.17 | +36.47% |
-| RCAT | Red Cat Holdings, Inc. | 13.30 | +24.65% |
-| ONDS | Ondas Inc | 13.02 | +20.51% |
-| DLTR | Dollar Tree, Inc. | 112.50 | +17.34% |
-| KSS | Kohl's Corporation | 15.14 | +17.09% |
-| BBY | Best Buy Co., Inc. | 73.70 | +14.19% |
+| HUBC | Hub Cyber Security Ltd. | 0.61 | +455.78% |
+| PRFX | PRF Technologies Ltd. | 4.78 | +248.54% |
+| OLOX | Olenox Industries Inc. | 9.76 | +98.37% |
+| REPL | Replimune Group, Inc. | 8.23 | +75.85% |
+| NTAP | NetApp, Inc. | 189.84 | +33.31% |
+| DELL | Dell Technologies Inc. | 422.12 | +33.14% |
+| OKTA | Okta, Inc. | 117.58 | +24.13% |
+| SMCI | Super Micro Computer, Inc. | 48.05 | +16.34% |
+| HPE | Hewlett Packard Enterprise Comp | 43.46 | +13.74% |
+| PENG | Penguin Solutions, Inc. | 59.04 | +9.19% |
 
 ### Daily Visuals
 
