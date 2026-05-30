@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 50.849523364999996,
-  "median_change_pct": 8.8040755,
-  "gainers": 17,
-  "losers": 3,
+  "avg_change_pct": 3.5817424094999994,
+  "median_change_pct": 2.099752,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "HUBC",
-    "change_pct": 455.77997
+    "symbol": "XLM-USD",
+    "change_pct": 20.815283
   },
   "top_loser": {
-    "symbol": "ASTS",
-    "change_pct": -18.01788
+    "symbol": "AMBA",
+    "change_pct": -21.4068
   },
-  "generated_at": "2026-05-29T14:05:27.303496+00:00"
+  "generated_at": "2026-05-30T13:29:49.555366+00:00"
 }

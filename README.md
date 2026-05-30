@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--29%2014%3A05%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--30%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-29 14:05:27**
+- Last refresh (UTC): **2026-05-30 13:29:49**
 - Tickers tracked: **20**
-- Average change: **+50.85%**
-- Median change: **+8.80%**
-- Top gainer: **HUBC (+455.78%)**
-- Top loser: **ASTS (-18.02%)**
+- Average change: **+3.58%**
+- Median change: **+2.10%**
+- Top gainer: **XLM-USD (+20.82%)**
+- Top loser: **AMBA (-21.41%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| HUBC | Hub Cyber Security Ltd. | 0.61 | +455.78% |
-| PRFX | PRF Technologies Ltd. | 4.78 | +248.54% |
-| OLOX | Olenox Industries Inc. | 9.76 | +98.37% |
-| REPL | Replimune Group, Inc. | 8.23 | +75.85% |
-| NTAP | NetApp, Inc. | 189.84 | +33.31% |
-| DELL | Dell Technologies Inc. | 422.12 | +33.14% |
-| OKTA | Okta, Inc. | 117.58 | +24.13% |
-| SMCI | Super Micro Computer, Inc. | 48.05 | +16.34% |
-| HPE | Hewlett Packard Enterprise Comp | 43.46 | +13.74% |
-| PENG | Penguin Solutions, Inc. | 59.04 | +9.19% |
+| XLM-USD | Stellar USD | 0.25 | +20.82% |
+| TEAM | Atlassian Corporation | 107.61 | +15.35% |
+| HBAR-USD | Hedera USD | 0.10 | +11.65% |
+| DDOG | Datadog, Inc. | 247.35 | +9.82% |
+| PANW | Palo Alto Networks, Inc. | 281.69 | +9.28% |
+| HYPE32196-USD | Hyperliquid USD | 67.90 | +8.19% |
+| ADBE | Adobe Inc. | 259.21 | +7.36% |
+| RIVN | Rivian Automotive, Inc. | 16.30 | +7.24% |
+| F | Ford Motor Company | 17.44 | +4.74% |
+| XRP-USD | XRP USD | 1.34 | +2.92% |
 
 ### Daily Visuals
 
