@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 3.5817424094999994,
-  "median_change_pct": 2.099752,
+  "avg_change_pct": 1.4805674735000003,
+  "median_change_pct": 0.519310435,
   "gainers": 16,
   "losers": 4,
   "top_gainer": {
-    "symbol": "XLM-USD",
-    "change_pct": 20.815283
+    "symbol": "IBM",
+    "change_pct": 12.7091
   },
   "top_loser": {
-    "symbol": "AMBA",
-    "change_pct": -21.4068
+    "symbol": "NOKIA.HE",
+    "change_pct": -6.2664165
   },
-  "generated_at": "2026-05-30T13:29:49.555366+00:00"
+  "generated_at": "2026-05-31T13:30:14.843746+00:00"
 }
