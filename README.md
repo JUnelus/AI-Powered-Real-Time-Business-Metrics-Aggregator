@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--31%2013%3A30%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--01%2015%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-05-31 13:30:14**
+- Last refresh (UTC): **2026-06-01 15:02:13**
 - Tickers tracked: **20**
-- Average change: **+1.48%**
-- Median change: **+0.52%**
-- Top gainer: **IBM (+12.71%)**
-- Top loser: **NOKIA.HE (-6.27%)**
+- Average change: **+40.04%**
+- Median change: **+12.88%**
+- Top gainer: **TGHL (+345.66%)**
+- Top loser: **INTC (-2.94%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| IBM | International Business Machines | 297.80 | +12.71% |
-| HPE | Hewlett Packard Enterprise Comp | 43.04 | +12.64% |
-| XLM-USD | Stellar USD | 0.26 | +4.98% |
-| SMR | NuScale Power Corporation | 12.67 | +3.94% |
-| 000660.KS | SK hynix | 2333000.00 | +1.92% |
-| RVMD | Revolution Medicines, Inc. | 157.48 | +1.84% |
-| HIVE | HIVE Digital Technologies Ltd | 4.52 | +1.57% |
-| SMMT | Summit Therapeutics Inc. | 17.54 | +0.75% |
-| SOL-USD | Solana USD | 82.89 | +0.63% |
-| NU | Nu Holdings Ltd. | 13.13 | +0.61% |
+| TGHL | The GrowHub Limited | 1.55 | +345.66% |
+| SOAR | Volato Group, Inc. | 0.37 | +119.99% |
+| GNTA | Genenta Science S.p.A. | 1.93 | +87.38% |
+| ANY | Sphere 3D Corp. | 3.21 | +68.68% |
+| NAMM | Namib Minerals | 2.27 | +49.34% |
+| FLNC | Fluence Energy, Inc. | 24.93 | +32.02% |
+| TMHC | Taylor Morrison Home Corporatio | 71.67 | +22.52% |
+| NBIS | Nebius Group N.V. | 272.37 | +17.86% |
+| MGM | MGM Resorts International | 50.65 | +15.97% |
+| ARM | Arm Holdings plc | 407.36 | +15.32% |
 
 ### Daily Visuals
 
