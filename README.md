@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--01%2015%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--02%2014%3A24%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-01 15:02:13**
+- Last refresh (UTC): **2026-06-02 14:24:11**
 - Tickers tracked: **20**
-- Average change: **+40.04%**
-- Median change: **+12.88%**
-- Top gainer: **TGHL (+345.66%)**
-- Top loser: **INTC (-2.94%)**
+- Average change: **+21.07%**
+- Median change: **+4.71%**
+- Top gainer: **BJDX (+160.45%)**
+- Top loser: **ABVX (-39.79%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| TGHL | The GrowHub Limited | 1.55 | +345.66% |
-| SOAR | Volato Group, Inc. | 0.37 | +119.99% |
-| GNTA | Genenta Science S.p.A. | 1.93 | +87.38% |
-| ANY | Sphere 3D Corp. | 3.21 | +68.68% |
-| NAMM | Namib Minerals | 2.27 | +49.34% |
-| FLNC | Fluence Energy, Inc. | 24.93 | +32.02% |
-| TMHC | Taylor Morrison Home Corporatio | 71.67 | +22.52% |
-| NBIS | Nebius Group N.V. | 272.37 | +17.86% |
-| MGM | MGM Resorts International | 50.65 | +15.97% |
-| ARM | Arm Holdings plc | 407.36 | +15.32% |
+| BJDX | Bluejay Diagnostics, Inc. | 5.68 | +160.45% |
+| PMI | Picard Medical, Inc. | 0.31 | +85.21% |
+| GXAI | Gaxos.ai Inc. | 1.99 | +67.26% |
+| SIVE.ST | Sivers Semiconductors AB | 94.20 | +54.81% |
+| DBGI | Digital Brands Group, Inc. | 1.09 | +29.77% |
+| LASE | Laser Photonics Corporation | 1.19 | +28.30% |
+| HPE | Hewlett Packard Enterprise Comp | 58.91 | +25.34% |
+| MRVL | Marvell Technology, Inc. | 272.84 | +24.34% |
+| LAC | Lithium Americas Corp. | 5.96 | +8.08% |
+| BABA | Alibaba Group Holding Limited | 131.69 | +5.02% |
 
 ### Daily Visuals
 

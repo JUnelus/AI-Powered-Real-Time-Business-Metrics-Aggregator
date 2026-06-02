@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 40.0371374935,
-  "median_change_pct": 12.877137999999999,
-  "gainers": 17,
-  "losers": 3,
+  "avg_change_pct": 21.07230478,
+  "median_change_pct": 4.713374,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "TGHL",
-    "change_pct": 345.6584
+    "symbol": "BJDX",
+    "change_pct": 160.44582
   },
   "top_loser": {
-    "symbol": "INTC",
-    "change_pct": -2.9391086
+    "symbol": "ABVX",
+    "change_pct": -39.791676
   },
-  "generated_at": "2026-06-01T15:02:13.220999+00:00"
+  "generated_at": "2026-06-02T14:24:11.588248+00:00"
 }
