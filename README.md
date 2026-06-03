@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--02%2014%3A24%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--03%2014%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-02 14:24:11**
+- Last refresh (UTC): **2026-06-03 14:31:53**
 - Tickers tracked: **20**
-- Average change: **+21.07%**
-- Median change: **+4.71%**
-- Top gainer: **BJDX (+160.45%)**
-- Top loser: **ABVX (-39.79%)**
+- Average change: **+22.12%**
+- Median change: **+3.32%**
+- Top gainer: **XOS (+182.11%)**
+- Top loser: **PANW (-6.30%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BJDX | Bluejay Diagnostics, Inc. | 5.68 | +160.45% |
-| PMI | Picard Medical, Inc. | 0.31 | +85.21% |
-| GXAI | Gaxos.ai Inc. | 1.99 | +67.26% |
-| SIVE.ST | Sivers Semiconductors AB | 94.20 | +54.81% |
-| DBGI | Digital Brands Group, Inc. | 1.09 | +29.77% |
-| LASE | Laser Photonics Corporation | 1.19 | +28.30% |
-| HPE | Hewlett Packard Enterprise Comp | 58.91 | +25.34% |
-| MRVL | Marvell Technology, Inc. | 272.84 | +24.34% |
-| LAC | Lithium Americas Corp. | 5.96 | +8.08% |
-| BABA | Alibaba Group Holding Limited | 131.69 | +5.02% |
+| XOS | Xos, Inc. | 6.29 | +182.11% |
+| SDOT | Sadot Group Inc. | 7.39 | +125.30% |
+| LASE | Laser Photonics Corporation | 3.64 | +50.33% |
+| SELX | Semilux International Ltd. | 0.40 | +39.96% |
+| NVTS | Navitas Semiconductor Corporati | 32.16 | +24.38% |
+| MSAI | MultiSensor AI Holdings, Inc. | 6.27 | +14.88% |
+| GME | GameStop Corporation | 22.46 | +7.39% |
+| INTC | Intel Corporation | 114.17 | +5.78% |
+| MDT | Medtronic plc. | 77.53 | +5.12% |
+| ZENA | ZenaTech, Inc. | 1.55 | +3.34% |
 
 ### Daily Visuals
 
