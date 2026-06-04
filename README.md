@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--03%2014%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--04%2013%3A59%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-03 14:31:53**
+- Last refresh (UTC): **2026-06-04 13:59:41**
 - Tickers tracked: **20**
-- Average change: **+22.12%**
-- Median change: **+3.32%**
-- Top gainer: **XOS (+182.11%)**
-- Top loser: **PANW (-6.30%)**
+- Average change: **+34.34%**
+- Median change: **+1.81%**
+- Top gainer: **STI (+510.66%)**
+- Top loser: **VIVK (-39.98%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| XOS | Xos, Inc. | 6.29 | +182.11% |
-| SDOT | Sadot Group Inc. | 7.39 | +125.30% |
-| LASE | Laser Photonics Corporation | 3.64 | +50.33% |
-| SELX | Semilux International Ltd. | 0.40 | +39.96% |
-| NVTS | Navitas Semiconductor Corporati | 32.16 | +24.38% |
-| MSAI | MultiSensor AI Holdings, Inc. | 6.27 | +14.88% |
-| GME | GameStop Corporation | 22.46 | +7.39% |
-| INTC | Intel Corporation | 114.17 | +5.78% |
-| MDT | Medtronic plc. | 77.53 | +5.12% |
-| ZENA | ZenaTech, Inc. | 1.55 | +3.34% |
+| STI | Solidion Technology, Inc. | 30.35 | +510.66% |
+| FOXX | Foxx Development Holdings Inc. | 6.19 | +105.76% |
+| CXAI | CXApp Inc. | 0.28 | +76.64% |
+| SPRC | SciSparc Ltd. | 13.02 | +37.91% |
+| SBEV | Splash Beverage Group, Inc. (NV | 0.33 | +31.70% |
+| MOBX | Mobix Labs, Inc. | 2.47 | +10.77% |
+| BURU | Nuburu, Inc. | 0.20 | +6.18% |
+| UNH | UnitedHealth Group Incorporated | 397.56 | +5.46% |
+| AADX | unknown | 19.47 | +2.42% |
+| COST | Costco Wholesale Corporation | 984.12 | +2.32% |
 
 ### Daily Visuals
 
