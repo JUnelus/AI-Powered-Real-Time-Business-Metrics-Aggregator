@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--04%2013%3A59%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--05%2013%3A56%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-04 13:59:41**
+- Last refresh (UTC): **2026-06-05 13:56:44**
 - Tickers tracked: **20**
-- Average change: **+34.34%**
-- Median change: **+1.81%**
-- Top gainer: **STI (+510.66%)**
-- Top loser: **VIVK (-39.98%)**
+- Average change: **+29.60%**
+- Median change: **+2.34%**
+- Top gainer: **CURLF (+220.23%)**
+- Top loser: **ETH-USD (-9.10%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| STI | Solidion Technology, Inc. | 30.35 | +510.66% |
-| FOXX | Foxx Development Holdings Inc. | 6.19 | +105.76% |
-| CXAI | CXApp Inc. | 0.28 | +76.64% |
-| SPRC | SciSparc Ltd. | 13.02 | +37.91% |
-| SBEV | Splash Beverage Group, Inc. (NV | 0.33 | +31.70% |
-| MOBX | Mobix Labs, Inc. | 2.47 | +10.77% |
-| BURU | Nuburu, Inc. | 0.20 | +6.18% |
-| UNH | UnitedHealth Group Incorporated | 397.56 | +5.46% |
-| AADX | unknown | 19.47 | +2.42% |
-| COST | Costco Wholesale Corporation | 984.12 | +2.32% |
+| CURLF | Curaleaf Holdings, Inc. | 10.92 | +220.23% |
+| RMSG | Real Messenger Corporation | 2.77 | +151.82% |
+| STI | Solidion Technology, Inc. | 41.91 | +84.54% |
+| BCDA | BioCardia, Inc. | 1.52 | +65.39% |
+| SMTK | SmartKem, Inc. | 0.50 | +55.09% |
+| CMND | Clearmind Medicine Inc. | 4.02 | +38.01% |
+| MRLN | Merlin, Inc. | 8.40 | +16.99% |
+| TTAN | ServiceTitan, Inc. | 80.61 | +8.45% |
+| MSOS | AdvisorShares Pure US Cannabis  | 5.48 | +7.50% |
+| CELH | Celsius Holdings, Inc. | 29.17 | +5.12% |
 
 ### Daily Visuals
 

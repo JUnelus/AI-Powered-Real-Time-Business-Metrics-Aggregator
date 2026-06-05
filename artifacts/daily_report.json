@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 34.33731783500001,
-  "median_change_pct": 1.8063270999999999,
-  "gainers": 11,
-  "losers": 9,
+  "avg_change_pct": 29.603913178000006,
+  "median_change_pct": 2.33726038,
+  "gainers": 10,
+  "losers": 10,
   "top_gainer": {
-    "symbol": "STI",
-    "change_pct": 510.66406
+    "symbol": "CURLF",
+    "change_pct": 220.23462
   },
   "top_loser": {
-    "symbol": "VIVK",
-    "change_pct": -39.977444
+    "symbol": "ETH-USD",
+    "change_pct": -9.098498
   },
-  "generated_at": "2026-06-04T13:59:41.014193+00:00"
+  "generated_at": "2026-06-05T13:56:44.601900+00:00"
 }
