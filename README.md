@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--05%2013%3A56%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--06%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-05 13:56:44**
+- Last refresh (UTC): **2026-06-06 13:29:52**
 - Tickers tracked: **20**
-- Average change: **+29.60%**
-- Median change: **+2.34%**
-- Top gainer: **CURLF (+220.23%)**
-- Top loser: **ETH-USD (-9.10%)**
+- Average change: **+0.99%**
+- Median change: **-1.66%**
+- Top gainer: **^VIX (+39.68%)**
+- Top loser: **^SOX (-10.26%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| CURLF | Curaleaf Holdings, Inc. | 10.92 | +220.23% |
-| RMSG | Real Messenger Corporation | 2.77 | +151.82% |
-| STI | Solidion Technology, Inc. | 41.91 | +84.54% |
-| BCDA | BioCardia, Inc. | 1.52 | +65.39% |
-| SMTK | SmartKem, Inc. | 0.50 | +55.09% |
-| CMND | Clearmind Medicine Inc. | 4.02 | +38.01% |
-| MRLN | Merlin, Inc. | 8.40 | +16.99% |
-| TTAN | ServiceTitan, Inc. | 80.61 | +8.45% |
-| MSOS | AdvisorShares Pure US Cannabis  | 5.48 | +7.50% |
-| CELH | Celsius Holdings, Inc. | 29.17 | +5.12% |
+| ^VIX | CBOE Volatility Index | 21.51 | +39.68% |
+| ZEC-USD | Zcash USD | 363.20 | +19.03% |
+| XLM-USD | Stellar USD | 0.20 | +6.48% |
+| BTC-EUR | Bitcoin EUR | 52894.61 | +0.83% |
+| BTC-USD | Bitcoin USD | 60850.89 | +0.28% |
+| SPCX | Space Exploration Technologies Corp. | 135.00 | +0.00% |
+| DOGE-USD | Dogecoin USD | 0.08 | -0.27% |
+| XRP-USD | XRP USD | 1.09 | -0.59% |
+| ADA-USD | Cardano USD | 0.16 | -0.69% |
+| ^DJI | Dow Jones Industrial Average | 50866.78 | -1.35% |
 
 ### Daily Visuals
 

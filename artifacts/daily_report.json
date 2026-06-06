@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 29.603913178000006,
-  "median_change_pct": 2.33726038,
-  "gainers": 10,
-  "losers": 10,
+  "avg_change_pct": 0.99404638,
+  "median_change_pct": -1.66472585,
+  "gainers": 5,
+  "losers": 14,
   "top_gainer": {
-    "symbol": "CURLF",
-    "change_pct": 220.23462
+    "symbol": "^VIX",
+    "change_pct": 39.67533
   },
   "top_loser": {
-    "symbol": "ETH-USD",
-    "change_pct": -9.098498
+    "symbol": "^SOX",
+    "change_pct": -10.256918
   },
-  "generated_at": "2026-06-05T13:56:44.601900+00:00"
+  "generated_at": "2026-06-06T13:29:52.300497+00:00"
 }
