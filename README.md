@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--06%2013%3A29%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--07%2013%3A30%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-06 13:29:52**
+- Last refresh (UTC): **2026-06-07 13:30:56**
 - Tickers tracked: **20**
-- Average change: **+0.99%**
-- Median change: **-1.66%**
-- Top gainer: **^VIX (+39.68%)**
-- Top loser: **^SOX (-10.26%)**
+- Average change: **+0.80%**
+- Median change: **+1.70%**
+- Top gainer: **ZEC-USD (+16.08%)**
+- Top loser: **AXTI (-15.99%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ^VIX | CBOE Volatility Index | 21.51 | +39.68% |
-| ZEC-USD | Zcash USD | 363.20 | +19.03% |
-| XLM-USD | Stellar USD | 0.20 | +6.48% |
-| BTC-EUR | Bitcoin EUR | 52894.61 | +0.83% |
-| BTC-USD | Bitcoin USD | 60850.89 | +0.28% |
-| SPCX | Space Exploration Technologies Corp. | 135.00 | +0.00% |
-| DOGE-USD | Dogecoin USD | 0.08 | -0.27% |
-| XRP-USD | XRP USD | 1.09 | -0.59% |
-| ADA-USD | Cardano USD | 0.16 | -0.69% |
-| ^DJI | Dow Jones Industrial Average | 50866.78 | -1.35% |
+| ZEC-USD | Zcash USD | 413.73 | +16.08% |
+| ETH-USD | Ethereum USD | 1618.85 | +4.02% |
+| ETH-CAD | Ethereum CAD | 2255.61 | +3.43% |
+| SOL-USD | Solana USD | 64.30 | +3.01% |
+| XRP-CAD | XRP CAD | 1.56 | +2.55% |
+| DOGE-USD | Dogecoin USD | 0.08 | +2.33% |
+| XRP-USD | XRP USD | 1.12 | +2.23% |
+| ADA-USD | Cardano USD | 0.16 | +1.83% |
+| O | Realty Income Corporation | 60.84 | +1.82% |
+| BTC-EUR | Bitcoin EUR | 53765.60 | +1.76% |
 
 ### Daily Visuals
 

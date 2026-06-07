@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.99404638,
-  "median_change_pct": -1.66472585,
-  "gainers": 5,
-  "losers": 14,
+  "avg_change_pct": 0.8029955650000001,
+  "median_change_pct": 1.7019555,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "^VIX",
-    "change_pct": 39.67533
+    "symbol": "ZEC-USD",
+    "change_pct": 16.082603
   },
   "top_loser": {
-    "symbol": "^SOX",
-    "change_pct": -10.256918
+    "symbol": "AXTI",
+    "change_pct": -15.9921
   },
-  "generated_at": "2026-06-06T13:29:52.300497+00:00"
+  "generated_at": "2026-06-07T13:30:56.943652+00:00"
 }
