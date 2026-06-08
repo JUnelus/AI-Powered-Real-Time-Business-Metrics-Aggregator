@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--07%2013%3A30%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--08%2014%3A23%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-07 13:30:56**
+- Last refresh (UTC): **2026-06-08 14:23:46**
 - Tickers tracked: **20**
-- Average change: **+0.80%**
-- Median change: **+1.70%**
-- Top gainer: **ZEC-USD (+16.08%)**
-- Top loser: **AXTI (-15.99%)**
+- Average change: **+31.15%**
+- Median change: **+10.64%**
+- Top gainer: **INHD (+220.03%)**
+- Top loser: **WIX (-4.89%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ZEC-USD | Zcash USD | 413.73 | +16.08% |
-| ETH-USD | Ethereum USD | 1618.85 | +4.02% |
-| ETH-CAD | Ethereum CAD | 2255.61 | +3.43% |
-| SOL-USD | Solana USD | 64.30 | +3.01% |
-| XRP-CAD | XRP CAD | 1.56 | +2.55% |
-| DOGE-USD | Dogecoin USD | 0.08 | +2.33% |
-| XRP-USD | XRP USD | 1.12 | +2.23% |
-| ADA-USD | Cardano USD | 0.16 | +1.83% |
-| O | Realty Income Corporation | 60.84 | +1.82% |
-| BTC-EUR | Bitcoin EUR | 53765.60 | +1.76% |
+| INHD | Inno Holdings Inc. | 3.36 | +220.03% |
+| SUNE | SUNation Energy, Inc. | 2.69 | +138.06% |
+| OCC | Optical Cable Corporation | 20.41 | +65.96% |
+| TDIC | Dreamland Limited | 0.33 | +47.24% |
+| TNGX | Tango Therapeutics, Inc. | 27.09 | +33.98% |
+| NEXR | Nexera Technologies Ltd | 1.52 | +25.72% |
+| ABAT | American Battery Technology Com | 3.71 | +19.29% |
+| FRSX | Foresight Autonomous Holdings L | 2.14 | +13.83% |
+| NCRA | Nocera, Inc. | 0.18 | +11.81% |
+| GGD.TO | GOGOLD RESOURCES INC | 3.38 | +11.40% |
 
 ### Daily Visuals
 
