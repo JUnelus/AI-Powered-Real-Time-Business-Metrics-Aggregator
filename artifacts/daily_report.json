@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 31.151490335,
-  "median_change_pct": 10.6365625,
-  "gainers": 17,
-  "losers": 2,
+  "avg_change_pct": 108.29996300999998,
+  "median_change_pct": 25.9665095,
+  "gainers": 16,
+  "losers": 3,
   "top_gainer": {
-    "symbol": "INHD",
-    "change_pct": 220.03053
+    "symbol": "CCTG",
+    "change_pct": 910.01697
   },
   "top_loser": {
-    "symbol": "WIX",
-    "change_pct": -4.886424
+    "symbol": "RDW",
+    "change_pct": -7.53904
   },
-  "generated_at": "2026-06-08T14:23:46.368870+00:00"
+  "generated_at": "2026-06-09T13:49:48.618991+00:00"
 }

@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--08%2014%3A23%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--09%2013%3A49%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-08 14:23:46**
+- Last refresh (UTC): **2026-06-09 13:49:48**
 - Tickers tracked: **20**
-- Average change: **+31.15%**
-- Median change: **+10.64%**
-- Top gainer: **INHD (+220.03%)**
-- Top loser: **WIX (-4.89%)**
+- Average change: **+108.30%**
+- Median change: **+25.97%**
+- Top gainer: **CCTG (+910.02%)**
+- Top loser: **RDW (-7.54%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| INHD | Inno Holdings Inc. | 3.36 | +220.03% |
-| SUNE | SUNation Energy, Inc. | 2.69 | +138.06% |
-| OCC | Optical Cable Corporation | 20.41 | +65.96% |
-| TDIC | Dreamland Limited | 0.33 | +47.24% |
-| TNGX | Tango Therapeutics, Inc. | 27.09 | +33.98% |
-| NEXR | Nexera Technologies Ltd | 1.52 | +25.72% |
-| ABAT | American Battery Technology Com | 3.71 | +19.29% |
-| FRSX | Foresight Autonomous Holdings L | 2.14 | +13.83% |
-| NCRA | Nocera, Inc. | 0.18 | +11.81% |
-| GGD.TO | GOGOLD RESOURCES INC | 3.38 | +11.40% |
+| CCTG | CCSC Technology International H | 4.84 | +910.02% |
+| AZI | Autozi Internet Technology (Glo | 5.33 | +371.55% |
+| CHAI | Core AI Holdings, Inc. | 3.35 | +307.93% |
+| GMM | Global Mofy AI Limited | 0.19 | +109.56% |
+| SLGB | Smart Logistics Global Limited | 1.04 | +103.34% |
+| RGNT | Regentis Biomaterials Ltd. | 2.59 | +102.35% |
+| JZXN | Jiuzi Holdings, Inc. | 2.10 | +66.67% |
+| ELPW | Elong Power Holding Limited | 1.22 | +58.32% |
+| FAC | Cartesian Growth Corporation II | 21.68 | +57.14% |
+| NUVL | Nuvalent, Inc. | 122.93 | +38.92% |
 
 ### Daily Visuals
 
