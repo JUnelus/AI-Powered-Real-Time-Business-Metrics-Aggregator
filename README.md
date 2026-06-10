@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--09%2013%3A49%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--10%2014%3A06%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-09 13:49:48**
+- Last refresh (UTC): **2026-06-10 14:06:22**
 - Tickers tracked: **20**
-- Average change: **+108.30%**
-- Median change: **+25.97%**
-- Top gainer: **CCTG (+910.02%)**
-- Top loser: **RDW (-7.54%)**
+- Average change: **+49.87%**
+- Median change: **+0.40%**
+- Top gainer: **DSY (+502.12%)**
+- Top loser: **PAVS (-37.54%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| CCTG | CCSC Technology International H | 4.84 | +910.02% |
-| AZI | Autozi Internet Technology (Glo | 5.33 | +371.55% |
-| CHAI | Core AI Holdings, Inc. | 3.35 | +307.93% |
-| GMM | Global Mofy AI Limited | 0.19 | +109.56% |
-| SLGB | Smart Logistics Global Limited | 1.04 | +103.34% |
-| RGNT | Regentis Biomaterials Ltd. | 2.59 | +102.35% |
-| JZXN | Jiuzi Holdings, Inc. | 2.10 | +66.67% |
-| ELPW | Elong Power Holding Limited | 1.22 | +58.32% |
-| FAC | Cartesian Growth Corporation II | 21.68 | +57.14% |
-| NUVL | Nuvalent, Inc. | 122.93 | +38.92% |
+| DSY | Big Tree Cloud Holdings Limited | 11.39 | +502.12% |
+| VSME | VS Media Holdings Limited | 3.78 | +359.07% |
+| CHOW | ChowChow Cloud International Ho | 0.68 | +91.68% |
+| GCDT | Green Circle Decarbonize Techno | 0.90 | +34.33% |
+| CBRL | Cracker Barrel Old Country Stor | 47.30 | +30.24% |
+| YYGH | YY Group Holding Limited | 0.15 | +20.59% |
+| DKNG | DraftKings Inc. | 29.66 | +7.51% |
+| ^VIX | CBOE Volatility Index | 20.54 | +3.37% |
+| BTC-USD | Bitcoin USD | 62165.79 | +1.08% |
+| ETH-USD | Ethereum USD | 1653.03 | +0.50% |
 
 ### Daily Visuals
 

@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 108.29996300999998,
-  "median_change_pct": 25.9665095,
-  "gainers": 16,
-  "losers": 3,
+  "avg_change_pct": 49.871034984000005,
+  "median_change_pct": 0.39622622,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "CCTG",
-    "change_pct": 910.01697
+    "symbol": "DSY",
+    "change_pct": 502.12454
   },
   "top_loser": {
-    "symbol": "RDW",
-    "change_pct": -7.53904
+    "symbol": "PAVS",
+    "change_pct": -37.53922
   },
-  "generated_at": "2026-06-09T13:49:48.618991+00:00"
+  "generated_at": "2026-06-10T14:06:22.409130+00:00"
 }
