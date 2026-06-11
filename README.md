@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--10%2014%3A06%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--11%2014%3A16%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-10 14:06:22**
+- Last refresh (UTC): **2026-06-11 14:16:10**
 - Tickers tracked: **20**
-- Average change: **+49.87%**
-- Median change: **+0.40%**
-- Top gainer: **DSY (+502.12%)**
-- Top loser: **PAVS (-37.54%)**
+- Average change: **+52.14%**
+- Median change: **+9.43%**
+- Top gainer: **PPCB (+360.01%)**
+- Top loser: **DBGI (-28.42%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| DSY | Big Tree Cloud Holdings Limited | 11.39 | +502.12% |
-| VSME | VS Media Holdings Limited | 3.78 | +359.07% |
-| CHOW | ChowChow Cloud International Ho | 0.68 | +91.68% |
-| GCDT | Green Circle Decarbonize Techno | 0.90 | +34.33% |
-| CBRL | Cracker Barrel Old Country Stor | 47.30 | +30.24% |
-| YYGH | YY Group Holding Limited | 0.15 | +20.59% |
-| DKNG | DraftKings Inc. | 29.66 | +7.51% |
-| ^VIX | CBOE Volatility Index | 20.54 | +3.37% |
-| BTC-USD | Bitcoin USD | 62165.79 | +1.08% |
-| ETH-USD | Ethereum USD | 1653.03 | +0.50% |
+| PPCB | Propanc Biopharma, Inc. | 6.21 | +360.01% |
+| GLXG | Galaxy Payroll Group Limited | 3.26 | +233.98% |
+| EDHL | Everbright Digital Holding Limi | 9.93 | +183.71% |
+| CCHH | CCH Holdings Ltd | 0.80 | +132.06% |
+| WTO | UTime Limited | 1.76 | +76.88% |
+| TOVX | Theriva Biologics, Inc. | 0.40 | +64.60% |
+| LASE | Laser Photonics Corporation | 2.60 | +20.88% |
+| OTLK | Outlook Therapeutics, Inc. | 1.02 | +14.61% |
+| NAVN | Navan, Inc. | 23.18 | +11.09% |
+| CPNG | Coupang, Inc. | 16.64 | +10.02% |
 
 ### Daily Visuals
 
