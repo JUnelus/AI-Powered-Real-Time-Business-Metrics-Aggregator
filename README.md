@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--11%2014%3A16%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--12%2014%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-11 14:16:10**
+- Last refresh (UTC): **2026-06-12 14:01:27**
 - Tickers tracked: **20**
-- Average change: **+52.14%**
-- Median change: **+9.43%**
-- Top gainer: **PPCB (+360.01%)**
-- Top loser: **DBGI (-28.42%)**
+- Average change: **+13.09%**
+- Median change: **+0.01%**
+- Top gainer: **BYAH (+144.29%)**
+- Top loser: **SPCE (-23.91%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| PPCB | Propanc Biopharma, Inc. | 6.21 | +360.01% |
-| GLXG | Galaxy Payroll Group Limited | 3.26 | +233.98% |
-| EDHL | Everbright Digital Holding Limi | 9.93 | +183.71% |
-| CCHH | CCH Holdings Ltd | 0.80 | +132.06% |
-| WTO | UTime Limited | 1.76 | +76.88% |
-| TOVX | Theriva Biologics, Inc. | 0.40 | +64.60% |
-| LASE | Laser Photonics Corporation | 2.60 | +20.88% |
-| OTLK | Outlook Therapeutics, Inc. | 1.02 | +14.61% |
-| NAVN | Navan, Inc. | 23.18 | +11.09% |
-| CPNG | Coupang, Inc. | 16.64 | +10.02% |
+| BYAH | Park Ha Biological Technology C | 2.56 | +144.29% |
+| UBXG | U-BX Technology Ltd. | 8.22 | +71.61% |
+| AKAN | Akanda Corp. | 22.60 | +46.85% |
+| GMM | Global Mofy AI Limited | 3.77 | +30.91% |
+| RUBI | Rubico Inc. | 0.78 | +26.26% |
+| DFNS | T3 Defense Inc. | 0.31 | +19.84% |
+| RZLV | Rezolve AI PLC | 2.89 | +14.23% |
+| SHAZ | SharonAI Holdings, Inc. | 73.15 | +2.29% |
+| ALAB | Astera Labs, Inc. | 369.81 | +0.64% |
+| SPAX.PVT | SpaceX | 129.01 | +0.02% |
 
 ### Daily Visuals
 
