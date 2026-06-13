@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--12%2014%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--13%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-12 14:01:27**
+- Last refresh (UTC): **2026-06-13 13:31:10**
 - Tickers tracked: **20**
-- Average change: **+13.09%**
-- Median change: **+0.01%**
-- Top gainer: **BYAH (+144.29%)**
-- Top loser: **SPCE (-23.91%)**
+- Average change: **+12.87%**
+- Median change: **+1.38%**
+- Top gainer: **CAST (+140.68%)**
+- Top loser: **PSKY (-0.19%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BYAH | Park Ha Biological Technology C | 2.56 | +144.29% |
-| UBXG | U-BX Technology Ltd. | 8.22 | +71.61% |
-| AKAN | Akanda Corp. | 22.60 | +46.85% |
-| GMM | Global Mofy AI Limited | 3.77 | +30.91% |
-| RUBI | Rubico Inc. | 0.78 | +26.26% |
-| DFNS | T3 Defense Inc. | 0.31 | +19.84% |
-| RZLV | Rezolve AI PLC | 2.89 | +14.23% |
-| SHAZ | SharonAI Holdings, Inc. | 73.15 | +2.29% |
-| ALAB | Astera Labs, Inc. | 369.81 | +0.64% |
-| SPAX.PVT | SpaceX | 129.01 | +0.02% |
+| CAST | FreeCast, Inc. | 1.55 | +140.68% |
+| SPCL | Defiance Pure Space Daily 2X St | 51.26 | +56.56% |
+| ROKU | Roku, Inc. | 143.66 | +20.08% |
+| SPCX | Space Exploration Technologies Corp. Class A Common Stock | 160.95 | +19.22% |
+| BPTRX | Baron Partners Fund | 276.24 | +5.49% |
+| XRP-USD | XRP USD | 1.15 | +1.94% |
+| SOL-USD | Solana USD | 67.88 | +1.85% |
+| BTC-EUR | Bitcoin EUR | 55477.11 | +1.59% |
+| BTC-USD | Bitcoin USD | 64135.88 | +1.56% |
+| ETH-USD | Ethereum USD | 1678.27 | +1.38% |
 
 ### Daily Visuals
 
