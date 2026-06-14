@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--13%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--14%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-13 13:31:10**
+- Last refresh (UTC): **2026-06-14 13:31:26**
 - Tickers tracked: **20**
-- Average change: **+12.87%**
-- Median change: **+1.38%**
-- Top gainer: **CAST (+140.68%)**
-- Top loser: **PSKY (-0.19%)**
+- Average change: **-0.24%**
+- Median change: **-0.26%**
+- Top gainer: **SMR (+3.34%)**
+- Top loser: **BZ=F (-3.37%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| CAST | FreeCast, Inc. | 1.55 | +140.68% |
-| SPCL | Defiance Pure Space Daily 2X St | 51.26 | +56.56% |
-| ROKU | Roku, Inc. | 143.66 | +20.08% |
-| SPCX | Space Exploration Technologies Corp. Class A Common Stock | 160.95 | +19.22% |
-| BPTRX | Baron Partners Fund | 276.24 | +5.49% |
-| XRP-USD | XRP USD | 1.15 | +1.94% |
-| SOL-USD | Solana USD | 67.88 | +1.85% |
-| BTC-EUR | Bitcoin EUR | 55477.11 | +1.59% |
-| BTC-USD | Bitcoin USD | 64135.88 | +1.56% |
-| ETH-USD | Ethereum USD | 1678.27 | +1.38% |
+| SMR | NuScale Power Corporation | 9.89 | +3.34% |
+| CEG | Constellation Energy Corporatio | 253.76 | +2.86% |
+| HYPE32196-USD | Hyperliquid USD | 60.65 | +2.78% |
+| VZ | Verizon Communications Inc. | 48.11 | +2.49% |
+| PYPL | PayPal Holdings, Inc. | 41.53 | +0.70% |
+| JEPQ | JPMorgan Nasdaq Equity Premium  | 59.86 | +0.62% |
+| VTI | Vanguard Total Stock Market ETF | 366.36 | +0.57% |
+| BTC-USD | Bitcoin USD | 64232.63 | +0.27% |
+| KO | Coca-Cola Company (The) | 82.62 | +0.11% |
+| BTC-CAD | Bitcoin CAD | 89917.45 | +0.11% |
 
 ### Daily Visuals
 

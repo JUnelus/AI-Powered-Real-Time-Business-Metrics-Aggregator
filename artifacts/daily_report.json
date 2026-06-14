@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 12.868326265499999,
-  "median_change_pct": 1.3783009000000002,
-  "gainers": 19,
-  "losers": 1,
+  "avg_change_pct": -0.2384277475,
+  "median_change_pct": -0.263195075,
+  "gainers": 10,
+  "losers": 10,
   "top_gainer": {
-    "symbol": "CAST",
-    "change_pct": 140.683
+    "symbol": "SMR",
+    "change_pct": 3.34379
   },
   "top_loser": {
-    "symbol": "PSKY",
-    "change_pct": -0.190653
+    "symbol": "BZ=F",
+    "change_pct": -3.3746355
   },
-  "generated_at": "2026-06-13T13:31:10.842706+00:00"
+  "generated_at": "2026-06-14T13:31:26.153192+00:00"
 }
