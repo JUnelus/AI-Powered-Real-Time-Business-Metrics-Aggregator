@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--14%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--15%2015%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-14 13:31:26**
+- Last refresh (UTC): **2026-06-15 15:01:33**
 - Tickers tracked: **20**
-- Average change: **-0.24%**
-- Median change: **-0.26%**
-- Top gainer: **SMR (+3.34%)**
-- Top loser: **BZ=F (-3.37%)**
+- Average change: **+19.68%**
+- Median change: **+9.18%**
+- Top gainer: **CAST (+199.35%)**
+- Top loser: **FOXA (-16.80%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SMR | NuScale Power Corporation | 9.89 | +3.34% |
-| CEG | Constellation Energy Corporatio | 253.76 | +2.86% |
-| HYPE32196-USD | Hyperliquid USD | 60.65 | +2.78% |
-| VZ | Verizon Communications Inc. | 48.11 | +2.49% |
-| PYPL | PayPal Holdings, Inc. | 41.53 | +0.70% |
-| JEPQ | JPMorgan Nasdaq Equity Premium  | 59.86 | +0.62% |
-| VTI | Vanguard Total Stock Market ETF | 366.36 | +0.57% |
-| BTC-USD | Bitcoin USD | 64232.63 | +0.27% |
-| KO | Coca-Cola Company (The) | 82.62 | +0.11% |
-| BTC-CAD | Bitcoin CAD | 89917.45 | +0.11% |
+| CAST | FreeCast, Inc. | 4.64 | +199.35% |
+| PAVS | Paranovus Entertainment Technol | 0.39 | +89.81% |
+| GPUS | Hyperscale Data, Inc. | 0.20 | +28.91% |
+| JRSH | Jerash Holdings (US), Inc. | 4.13 | +19.48% |
+| WDC | Western Digital Corporation | 646.00 | +14.76% |
+| NIXX | Nixxy, Inc. | 0.99 | +14.34% |
+| CTM | Castellum, Inc. | 0.80 | +14.27% |
+| AXTI | AXT Inc | 110.17 | +13.37% |
+| XRP-USD | XRP USD | 1.25 | +10.17% |
+| ETH-USD | Ethereum USD | 1815.37 | +9.23% |
 
 ### Daily Visuals
 
