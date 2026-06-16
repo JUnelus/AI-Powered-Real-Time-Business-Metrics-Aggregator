@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--15%2015%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--16%2014%3A35%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-15 15:01:33**
+- Last refresh (UTC): **2026-06-16 14:35:41**
 - Tickers tracked: **20**
-- Average change: **+19.68%**
-- Median change: **+9.18%**
-- Top gainer: **CAST (+199.35%)**
-- Top loser: **FOXA (-16.80%)**
+- Average change: **+31.43%**
+- Median change: **+9.65%**
+- Top gainer: **SLBT (+246.50%)**
+- Top loser: **RGNT (-20.69%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| CAST | FreeCast, Inc. | 4.64 | +199.35% |
-| PAVS | Paranovus Entertainment Technol | 0.39 | +89.81% |
-| GPUS | Hyperscale Data, Inc. | 0.20 | +28.91% |
-| JRSH | Jerash Holdings (US), Inc. | 4.13 | +19.48% |
-| WDC | Western Digital Corporation | 646.00 | +14.76% |
-| NIXX | Nixxy, Inc. | 0.99 | +14.34% |
-| CTM | Castellum, Inc. | 0.80 | +14.27% |
-| AXTI | AXT Inc | 110.17 | +13.37% |
-| XRP-USD | XRP USD | 1.25 | +10.17% |
-| ETH-USD | Ethereum USD | 1815.37 | +9.23% |
+| SLBT | SL Science Holding Limited Ordinary Shares | 11.54 | +246.50% |
+| SUGP | SU Group Holdings Limited | 1.73 | +96.52% |
+| IVDA | Iveda Solutions, Inc. | 0.60 | +90.99% |
+| TDIC | Dreamland Limited | 9.03 | +66.34% |
+| OBAI | Our Bond, Inc. | 0.85 | +59.69% |
+| CRE | Cre8 Enterprise Limited | 4.22 | +34.73% |
+| CRVO | CervoMed Inc. | 3.09 | +24.60% |
+| RXT | Rackspace Technology, Inc. | 6.75 | +14.12% |
+| NIVF | NewGenIvf Group Limited | 0.66 | +13.45% |
+| LASE | Laser Photonics Corporation | 2.23 | +12.91% |
 
 ### Daily Visuals
 

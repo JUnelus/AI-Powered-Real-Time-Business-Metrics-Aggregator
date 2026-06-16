@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 19.680953387,
-  "median_change_pct": 9.1793535,
+  "avg_change_pct": 31.430989535,
+  "median_change_pct": 9.6540915,
   "gainers": 14,
   "losers": 6,
   "top_gainer": {
-    "symbol": "CAST",
-    "change_pct": 199.35484
+    "symbol": "SLBT",
+    "change_pct": 246.5045
   },
   "top_loser": {
-    "symbol": "FOXA",
-    "change_pct": -16.803339
+    "symbol": "RGNT",
+    "change_pct": -20.691486
   },
-  "generated_at": "2026-06-15T15:01:33.616767+00:00"
+  "generated_at": "2026-06-16T14:35:41.339438+00:00"
 }
