@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--16%2014%3A35%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--17%2014%3A11%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-16 14:35:41**
+- Last refresh (UTC): **2026-06-17 14:11:16**
 - Tickers tracked: **20**
-- Average change: **+31.43%**
-- Median change: **+9.65%**
-- Top gainer: **SLBT (+246.50%)**
-- Top loser: **RGNT (-20.69%)**
+- Average change: **+30.24%**
+- Median change: **+5.35%**
+- Top gainer: **ICCM (+267.18%)**
+- Top loser: **KMX (-6.68%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SLBT | SL Science Holding Limited Ordinary Shares | 11.54 | +246.50% |
-| SUGP | SU Group Holdings Limited | 1.73 | +96.52% |
-| IVDA | Iveda Solutions, Inc. | 0.60 | +90.99% |
-| TDIC | Dreamland Limited | 9.03 | +66.34% |
-| OBAI | Our Bond, Inc. | 0.85 | +59.69% |
-| CRE | Cre8 Enterprise Limited | 4.22 | +34.73% |
-| CRVO | CervoMed Inc. | 3.09 | +24.60% |
-| RXT | Rackspace Technology, Inc. | 6.75 | +14.12% |
-| NIVF | NewGenIvf Group Limited | 0.66 | +13.45% |
-| LASE | Laser Photonics Corporation | 2.23 | +12.91% |
+| ICCM | IceCure Medical Ltd. | 7.82 | +267.18% |
+| CLWT | Euro Tech Holdings Company Limi | 2.15 | +79.48% |
+| QURE | uniQure N.V. | 47.80 | +77.08% |
+| LNAI | Lunai Bioworks Inc. | 4.44 | +56.16% |
+| AZTR | Azitra Inc | 0.27 | +45.41% |
+| CLPT | ClearPoint Neuro Inc. | 17.88 | +34.00% |
+| OBAI | Our Bond, Inc. | 1.32 | +19.00% |
+| AEHR | Aehr Test Systems | 115.45 | +10.13% |
+| FRMI | Fermi Inc. | 8.46 | +7.42% |
+| JBL | Jabil Inc. | 399.67 | +6.43% |
 
 ### Daily Visuals
 
