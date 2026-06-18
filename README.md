@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--17%2014%3A11%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--18%2014%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-17 14:11:16**
+- Last refresh (UTC): **2026-06-18 14:01:19**
 - Tickers tracked: **20**
-- Average change: **+30.24%**
-- Median change: **+5.35%**
-- Top gainer: **ICCM (+267.18%)**
-- Top loser: **KMX (-6.68%)**
+- Average change: **+31.68%**
+- Median change: **+8.40%**
+- Top gainer: **ADTX (+215.91%)**
+- Top loser: **ACN (-16.66%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ICCM | IceCure Medical Ltd. | 7.82 | +267.18% |
-| CLWT | Euro Tech Holdings Company Limi | 2.15 | +79.48% |
-| QURE | uniQure N.V. | 47.80 | +77.08% |
-| LNAI | Lunai Bioworks Inc. | 4.44 | +56.16% |
-| AZTR | Azitra Inc | 0.27 | +45.41% |
-| CLPT | ClearPoint Neuro Inc. | 17.88 | +34.00% |
-| OBAI | Our Bond, Inc. | 1.32 | +19.00% |
-| AEHR | Aehr Test Systems | 115.45 | +10.13% |
-| FRMI | Fermi Inc. | 8.46 | +7.42% |
-| JBL | Jabil Inc. | 399.67 | +6.43% |
+| ADTX | Aditxt, Inc. | 0.01 | +215.91% |
+| CDT | CDT Equity Inc. | 1.50 | +117.80% |
+| CAST | FreeCast, Inc. | 10.28 | +99.51% |
+| LNKS | Linkers Industries Limited | 2.53 | +58.12% |
+| WKSP | Worksport, Ltd. | 0.86 | +43.92% |
+| BFLY | Butterfly Network, Inc. | 7.22 | +26.49% |
+| GPUS | Hyperscale Data, Inc. | 0.50 | +26.31% |
+| QTEX | QTREX Quantum Ltd. | 2.32 | +22.11% |
+| BIRD | Allbirds, Inc. | 6.08 | +10.95% |
+| WPRT | Westport Fuel Systems Inc | 2.03 | +9.07% |
 
 ### Daily Visuals
 
