@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--18%2014%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--19%2014%3A00%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-18 14:01:19**
+- Last refresh (UTC): **2026-06-19 14:00:51**
 - Tickers tracked: **20**
-- Average change: **+31.68%**
-- Median change: **+8.40%**
-- Top gainer: **ADTX (+215.91%)**
-- Top loser: **ACN (-16.66%)**
+- Average change: **+3.78%**
+- Median change: **-0.13%**
+- Top gainer: **BFLY (+55.87%)**
+- Top loser: **XLM-USD (-10.81%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ADTX | Aditxt, Inc. | 0.01 | +215.91% |
-| CDT | CDT Equity Inc. | 1.50 | +117.80% |
-| CAST | FreeCast, Inc. | 10.28 | +99.51% |
-| LNKS | Linkers Industries Limited | 2.53 | +58.12% |
-| WKSP | Worksport, Ltd. | 0.86 | +43.92% |
-| BFLY | Butterfly Network, Inc. | 7.22 | +26.49% |
-| GPUS | Hyperscale Data, Inc. | 0.50 | +26.31% |
-| QTEX | QTREX Quantum Ltd. | 2.32 | +22.11% |
-| BIRD | Allbirds, Inc. | 6.08 | +10.95% |
-| WPRT | Westport Fuel Systems Inc | 2.03 | +9.07% |
+| BFLY | Butterfly Network, Inc. | 8.90 | +55.87% |
+| QS | QuantumScape Corporation | 8.04 | +16.52% |
+| Q | Qnity Electronics, Inc. | 168.98 | +7.82% |
+| TTWO | Take-Two Interactive Software,  | 239.28 | +4.93% |
+| NOVO-B.CO | Novo Nordisk B A/S | 293.20 | +4.68% |
+| MDA.TO | MDA SPACE LTD | 57.85 | +4.03% |
+| ^RUT | Russell 2000 | 2979.77 | +2.12% |
+| ^IXIC | NASDAQ Composite | 26517.93 | +1.91% |
+| ^GSPC | S&P 500 | 7500.58 | +1.08% |
+| ^DJI | Dow Jones Industrial Average | 51564.70 | +0.14% |
 
 ### Daily Visuals
 

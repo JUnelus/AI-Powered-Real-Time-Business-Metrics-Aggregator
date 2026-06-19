@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 31.675494085500002,
-  "median_change_pct": 8.3983492,
-  "gainers": 16,
-  "losers": 4,
+  "avg_change_pct": 3.7844394645,
+  "median_change_pct": -0.12683948,
+  "gainers": 10,
+  "losers": 10,
   "top_gainer": {
-    "symbol": "ADTX",
-    "change_pct": 215.90909
+    "symbol": "BFLY",
+    "change_pct": 55.8669
   },
   "top_loser": {
-    "symbol": "ACN",
-    "change_pct": -16.659184
+    "symbol": "XLM-USD",
+    "change_pct": -10.814855
   },
-  "generated_at": "2026-06-18T14:01:19.468403+00:00"
+  "generated_at": "2026-06-19T14:00:51.944789+00:00"
 }
