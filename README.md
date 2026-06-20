@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--19%2014%3A00%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--20%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-19 14:00:51**
+- Last refresh (UTC): **2026-06-20 13:31:22**
 - Tickers tracked: **20**
-- Average change: **+3.78%**
-- Median change: **-0.13%**
-- Top gainer: **BFLY (+55.87%)**
-- Top loser: **XLM-USD (-10.81%)**
+- Average change: **+2.33%**
+- Median change: **+0.80%**
+- Top gainer: **KEEL.TO (+12.33%)**
+- Top loser: **KO (-0.68%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BFLY | Butterfly Network, Inc. | 8.90 | +55.87% |
-| QS | QuantumScape Corporation | 8.04 | +16.52% |
-| Q | Qnity Electronics, Inc. | 168.98 | +7.82% |
-| TTWO | Take-Two Interactive Software,  | 239.28 | +4.93% |
-| NOVO-B.CO | Novo Nordisk B A/S | 293.20 | +4.68% |
-| MDA.TO | MDA SPACE LTD | 57.85 | +4.03% |
-| ^RUT | Russell 2000 | 2979.77 | +2.12% |
-| ^IXIC | NASDAQ Composite | 26517.93 | +1.91% |
-| ^GSPC | S&P 500 | 7500.58 | +1.08% |
-| ^DJI | Dow Jones Industrial Average | 51564.70 | +0.14% |
+| KEEL.TO | KEEL INFRASTRUCTURE CORP | 9.93 | +12.33% |
+| ALAB | Astera Labs, Inc. | 417.07 | +11.31% |
+| KEEL | Keel Infrastructure Corp. | 6.29 | +5.36% |
+| VRT | Vertiv Holdings, LLC | 333.05 | +4.87% |
+| ANET | Arista Networks, Inc. | 169.67 | +2.87% |
+| SOL-USD | Solana USD | 70.86 | +2.40% |
+| QQQM | Invesco NASDAQ 100 ETF | 304.52 | +2.34% |
+| APLD | Applied Digital Corporation | 46.59 | +2.24% |
+| PYPL | PayPal Holdings, Inc. | 42.51 | +1.02% |
+| BTC-CAD | Bitcoin CAD | 89631.81 | +0.87% |
 
 ### Daily Visuals
 
