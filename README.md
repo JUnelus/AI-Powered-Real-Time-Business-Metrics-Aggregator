@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--20%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--21%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-20 13:31:22**
+- Last refresh (UTC): **2026-06-21 13:31:58**
 - Tickers tracked: **20**
-- Average change: **+2.33%**
-- Median change: **+0.80%**
-- Top gainer: **KEEL.TO (+12.33%)**
-- Top loser: **KO (-0.68%)**
+- Average change: **+7.87%**
+- Median change: **+1.21%**
+- Top gainer: **ADTX (+127.27%)**
+- Top loser: **AXTI (-8.19%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| KEEL.TO | KEEL INFRASTRUCTURE CORP | 9.93 | +12.33% |
-| ALAB | Astera Labs, Inc. | 417.07 | +11.31% |
-| KEEL | Keel Infrastructure Corp. | 6.29 | +5.36% |
-| VRT | Vertiv Holdings, LLC | 333.05 | +4.87% |
-| ANET | Arista Networks, Inc. | 169.67 | +2.87% |
-| SOL-USD | Solana USD | 70.86 | +2.40% |
-| QQQM | Invesco NASDAQ 100 ETF | 304.52 | +2.34% |
-| APLD | Applied Digital Corporation | 46.59 | +2.24% |
-| PYPL | PayPal Holdings, Inc. | 42.51 | +1.02% |
-| BTC-CAD | Bitcoin CAD | 89631.81 | +0.87% |
+| ADTX | Aditxt, Inc. | 0.01 | +127.27% |
+| SMR | NuScale Power Corporation | 11.74 | +13.54% |
+| GEV | GE Vernova Inc. | 1109.73 | +5.80% |
+| AMKR | Amkor Technology, Inc. | 90.46 | +4.66% |
+| SOL-USD | Solana USD | 73.60 | +3.49% |
+| VST | Vistra Corp. | 163.75 | +3.10% |
+| COHR | Coherent Corp. | 389.57 | +2.83% |
+| QQQ | Invesco QQQ Trust, Series 1 | 740.62 | +2.51% |
+| RIVN | Rivian Automotive, Inc. | 16.52 | +1.60% |
+| BTC-CAD | Bitcoin CAD | 90768.39 | +1.33% |
 
 ### Daily Visuals
 

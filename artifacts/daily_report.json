@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 2.3298789847500005,
-  "median_change_pct": 0.79565975,
+  "avg_change_pct": 7.872665638000001,
+  "median_change_pct": 1.2056772,
   "gainers": 16,
   "losers": 4,
   "top_gainer": {
-    "symbol": "KEEL.TO",
-    "change_pct": 12.330318
+    "symbol": "ADTX",
+    "change_pct": 127.27273
   },
   "top_loser": {
-    "symbol": "KO",
-    "change_pct": -0.675592
+    "symbol": "AXTI",
+    "change_pct": -8.185865
   },
-  "generated_at": "2026-06-20T13:31:22.011503+00:00"
+  "generated_at": "2026-06-21T13:31:58.982239+00:00"
 }
