@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 7.872665638000001,
-  "median_change_pct": 1.2056772,
+  "avg_change_pct": 13.107144130000004,
+  "median_change_pct": 5.04650075,
   "gainers": 16,
   "losers": 4,
   "top_gainer": {
-    "symbol": "ADTX",
-    "change_pct": 127.27273
+    "symbol": "GETY",
+    "change_pct": 111.13867
   },
   "top_loser": {
-    "symbol": "AXTI",
-    "change_pct": -8.185865
+    "symbol": "GOOG",
+    "change_pct": -5.916288
   },
-  "generated_at": "2026-06-21T13:31:58.982239+00:00"
+  "generated_at": "2026-06-22T14:51:45.923060+00:00"
 }
