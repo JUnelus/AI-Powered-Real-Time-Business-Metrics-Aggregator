@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--22%2014%3A51%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--23%2013%3A49%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-22 14:51:45**
+- Last refresh (UTC): **2026-06-23 13:49:12**
 - Tickers tracked: **20**
-- Average change: **+13.11%**
-- Median change: **+5.05%**
-- Top gainer: **GETY (+111.14%)**
-- Top loser: **GOOG (-5.92%)**
+- Average change: **+19.96%**
+- Median change: **+4.93%**
+- Top gainer: **ATLN (+135.33%)**
+- Top loser: **PRIM (-34.49%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| GETY | Getty Images Holdings, Inc. | 1.28 | +111.14% |
-| DFTX | Definium Therapeutics, Inc. | 36.47 | +48.90% |
-| APGE | Apogee Therapeutics, Inc. | 132.70 | +46.82% |
-| KEEL | Keel Infrastructure Corp. | 7.06 | +12.18% |
-| SMCI | Super Micro Computer, Inc. | 34.31 | +11.90% |
-| CRDO | Credo Technology Group Holding  | 299.37 | +10.13% |
-| SNDK | Sandisk Corporation | 2325.01 | +6.42% |
-| ABBV | AbbVie Inc. | 228.61 | +5.60% |
-| PENG | Penguin Solutions, Inc. | 70.76 | +5.38% |
-| SOXL | Direxion Daily Semiconductor Bu | 293.79 | +5.19% |
+| ATLN | Atlantic International Corp. | 1.03 | +135.33% |
+| HSCS | HeartSciences Inc. | 3.46 | +95.42% |
+| BOLD | Boundless Bio, Inc. | 2.26 | +61.45% |
+| RDGT | Ridgetech, Inc. | 2.07 | +51.09% |
+| CIIT | Tianci International, Inc. | 0.73 | +48.33% |
+| VTAK | Catheter Precision, Inc. | 1.09 | +23.45% |
+| SOXS | Direxion Daily Semiconductor Be | 3.96 | +21.23% |
+| INFQ | Infleqtion, Inc. | 15.55 | +9.46% |
+| SQQQ | ProShares UltraPro Short QQQ | 39.79 | +7.74% |
+| ZETA | Zeta Global Holdings Corp. | 19.50 | +5.72% |
 
 ### Daily Visuals
 
