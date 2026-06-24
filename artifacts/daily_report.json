@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 19.959738644999998,
-  "median_change_pct": 4.9286963,
-  "gainers": 13,
-  "losers": 7,
+  "avg_change_pct": 5.327772001,
+  "median_change_pct": -1.71006515,
+  "gainers": 5,
+  "losers": 14,
   "top_gainer": {
-    "symbol": "ATLN",
-    "change_pct": 135.33421
+    "symbol": "FRTT",
+    "change_pct": 88.705345
   },
   "top_loser": {
-    "symbol": "PRIM",
-    "change_pct": -34.49024
+    "symbol": "HTZ",
+    "change_pct": -24.407114
   },
-  "generated_at": "2026-06-23T13:49:12.425382+00:00"
+  "generated_at": "2026-06-24T13:41:16.923511+00:00"
 }

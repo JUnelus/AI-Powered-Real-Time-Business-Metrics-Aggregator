@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--23%2013%3A49%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--24%2013%3A41%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-23 13:49:12**
+- Last refresh (UTC): **2026-06-24 13:41:16**
 - Tickers tracked: **20**
-- Average change: **+19.96%**
-- Median change: **+4.93%**
-- Top gainer: **ATLN (+135.33%)**
-- Top loser: **PRIM (-34.49%)**
+- Average change: **+5.33%**
+- Median change: **-1.71%**
+- Top gainer: **FRTT (+88.71%)**
+- Top loser: **HTZ (-24.41%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ATLN | Atlantic International Corp. | 1.03 | +135.33% |
-| HSCS | HeartSciences Inc. | 3.46 | +95.42% |
-| BOLD | Boundless Bio, Inc. | 2.26 | +61.45% |
-| RDGT | Ridgetech, Inc. | 2.07 | +51.09% |
-| CIIT | Tianci International, Inc. | 0.73 | +48.33% |
-| VTAK | Catheter Precision, Inc. | 1.09 | +23.45% |
-| SOXS | Direxion Daily Semiconductor Be | 3.96 | +21.23% |
-| INFQ | Infleqtion, Inc. | 15.55 | +9.46% |
-| SQQQ | ProShares UltraPro Short QQQ | 39.79 | +7.74% |
-| ZETA | Zeta Global Holdings Corp. | 19.50 | +5.72% |
+| FRTT | Fort Technology Inc. | 3.35 | +88.71% |
+| ABSI | Absci Corporation | 10.19 | +37.52% |
+| WEN | Wendy's Company (The) | 8.46 | +35.25% |
+| RUN | Sunrun Inc. | 15.99 | +24.86% |
+| GPUS | Hyperscale Data, Inc. | 0.29 | +11.88% |
+| ATLN | Atlantic International Corp. | 1.33 | +0.00% |
+| VZ | Verizon Communications Inc. | 46.41 | -0.66% |
+| ETH-USD | Ethereum USD | 1649.21 | -0.70% |
+| FDX | FedEx Corporation | 314.43 | -0.76% |
+| DD | DuPont de Nemours, Inc. | 137.72 | -1.64% |
 
 ### Daily Visuals
 
