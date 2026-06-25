@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--24%2013%3A41%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--25%2013%3A40%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-24 13:41:16**
+- Last refresh (UTC): **2026-06-25 13:40:19**
 - Tickers tracked: **20**
-- Average change: **+5.33%**
-- Median change: **-1.71%**
-- Top gainer: **FRTT (+88.71%)**
-- Top loser: **HTZ (-24.41%)**
+- Average change: **+15.80%**
+- Median change: **+14.30%**
+- Top gainer: **KUST (+59.43%)**
+- Top loser: **NNOX (-34.39%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FRTT | Fort Technology Inc. | 3.35 | +88.71% |
-| ABSI | Absci Corporation | 10.19 | +37.52% |
-| WEN | Wendy's Company (The) | 8.46 | +35.25% |
-| RUN | Sunrun Inc. | 15.99 | +24.86% |
-| GPUS | Hyperscale Data, Inc. | 0.29 | +11.88% |
-| ATLN | Atlantic International Corp. | 1.33 | +0.00% |
-| VZ | Verizon Communications Inc. | 46.41 | -0.66% |
-| ETH-USD | Ethereum USD | 1649.21 | -0.70% |
-| FDX | FedEx Corporation | 314.43 | -0.76% |
-| DD | DuPont de Nemours, Inc. | 137.72 | -1.64% |
+| KUST | Kustom Entertainment, Inc. | 2.24 | +59.43% |
+| AZI | Autozi Internet Technology (Glo | 1.75 | +53.07% |
+| NEXR | Nexera Technologies Ltd | 0.79 | +41.26% |
+| MIMI | Mint Incorporation Limited | 3.87 | +38.46% |
+| IQST | iQSTEL Inc. | 1.45 | +33.80% |
+| WYY | WidePoint Corporation | 22.31 | +28.56% |
+| BB | BlackBerry Limited | 10.31 | +19.65% |
+| TECH | Bio-Techne Corp | 70.26 | +19.33% |
+| SNDK | Sandisk Corporation | 2288.28 | +19.09% |
+| MU | Micron Technology, Inc. | 1246.90 | +18.99% |
 
 ### Daily Visuals
 
