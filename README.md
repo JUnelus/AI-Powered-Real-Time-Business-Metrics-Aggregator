@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--25%2013%3A40%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--26%2013%3A37%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-25 13:40:19**
+- Last refresh (UTC): **2026-06-26 13:37:55**
 - Tickers tracked: **20**
-- Average change: **+15.80%**
-- Median change: **+14.30%**
-- Top gainer: **KUST (+59.43%)**
-- Top loser: **NNOX (-34.39%)**
+- Average change: **+17.25%**
+- Median change: **+1.55%**
+- Top gainer: **INLF (+103.38%)**
+- Top loser: **ON (-19.08%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| KUST | Kustom Entertainment, Inc. | 2.24 | +59.43% |
-| AZI | Autozi Internet Technology (Glo | 1.75 | +53.07% |
-| NEXR | Nexera Technologies Ltd | 0.79 | +41.26% |
-| MIMI | Mint Incorporation Limited | 3.87 | +38.46% |
-| IQST | iQSTEL Inc. | 1.45 | +33.80% |
-| WYY | WidePoint Corporation | 22.31 | +28.56% |
-| BB | BlackBerry Limited | 10.31 | +19.65% |
-| TECH | Bio-Techne Corp | 70.26 | +19.33% |
-| SNDK | Sandisk Corporation | 2288.28 | +19.09% |
-| MU | Micron Technology, Inc. | 1246.90 | +18.99% |
+| INLF | INLIF LIMITED | 0.06 | +103.38% |
+| SDOT | Sadot Group Inc. | 11.11 | +80.04% |
+| IVF | INVO Fertility, Inc. | 1.93 | +55.22% |
+| ILLR | Triller Group Inc. | 4.69 | +53.77% |
+| SHPH | Shuttle Pharmaceuticals Holding | 5.25 | +39.29% |
+| CANF | Can-Fite Biopharma Ltd | 3.43 | +14.33% |
+| TII | Titan Mining Corporation | 2.48 | +12.93% |
+| SOL-USD | Solana USD | 69.12 | +7.81% |
+| SLS | SELLAS Life Sciences Group, Inc | 10.93 | +3.80% |
+| MSFT | Microsoft Corporation | 358.66 | +1.65% |
 
 ### Daily Visuals
 
