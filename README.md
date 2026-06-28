@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--26%2013%3A37%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--28%2013%3A30%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-26 13:37:55**
+- Last refresh (UTC): **2026-06-28 13:30:14**
 - Tickers tracked: **20**
-- Average change: **+17.25%**
-- Median change: **+1.55%**
-- Top gainer: **INLF (+103.38%)**
-- Top loser: **ON (-19.08%)**
+- Average change: **-0.90%**
+- Median change: **-0.72%**
+- Top gainer: **XLV (+3.03%)**
+- Top loser: **000660.KS (-8.36%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| INLF | INLIF LIMITED | 0.06 | +103.38% |
-| SDOT | Sadot Group Inc. | 11.11 | +80.04% |
-| IVF | INVO Fertility, Inc. | 1.93 | +55.22% |
-| ILLR | Triller Group Inc. | 4.69 | +53.77% |
-| SHPH | Shuttle Pharmaceuticals Holding | 5.25 | +39.29% |
-| CANF | Can-Fite Biopharma Ltd | 3.43 | +14.33% |
-| TII | Titan Mining Corporation | 2.48 | +12.93% |
-| SOL-USD | Solana USD | 69.12 | +7.81% |
-| SLS | SELLAS Life Sciences Group, Inc | 10.93 | +3.80% |
-| MSFT | Microsoft Corporation | 358.66 | +1.65% |
+| XLV | State Street Health Care Select | 160.34 | +3.03% |
+| KO | Coca-Cola Company (The) | 82.63 | +2.75% |
+| CAG | ConAgra Brands, Inc. | 14.08 | +2.18% |
+| SHAZ | SharonAI Holdings, Inc. | 82.05 | +1.58% |
+| PEP | Pepsico, Inc. | 141.39 | +1.34% |
+| DIS | Walt Disney Company (The) | 98.79 | +0.75% |
+| NKE | Nike, Inc. | 40.75 | -0.37% |
+| BTC-CAD | Bitcoin CAD | 85222.35 | -0.56% |
+| BTC-EUR | Bitcoin EUR | 52735.63 | -0.62% |
+| CVX | Chevron Corporation | 171.06 | -0.69% |
 
 ### Daily Visuals
 
