@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--28%2013%3A30%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--29%2014%3A21%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-28 13:30:14**
+- Last refresh (UTC): **2026-06-29 14:21:31**
 - Tickers tracked: **20**
-- Average change: **-0.90%**
-- Median change: **-0.72%**
-- Top gainer: **XLV (+3.03%)**
-- Top loser: **000660.KS (-8.36%)**
+- Average change: **+38.82%**
+- Median change: **+11.05%**
+- Top gainer: **UPC (+423.38%)**
+- Top loser: **VZ (-6.58%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| XLV | State Street Health Care Select | 160.34 | +3.03% |
-| KO | Coca-Cola Company (The) | 82.63 | +2.75% |
-| CAG | ConAgra Brands, Inc. | 14.08 | +2.18% |
-| SHAZ | SharonAI Holdings, Inc. | 82.05 | +1.58% |
-| PEP | Pepsico, Inc. | 141.39 | +1.34% |
-| DIS | Walt Disney Company (The) | 98.79 | +0.75% |
-| NKE | Nike, Inc. | 40.75 | -0.37% |
-| BTC-CAD | Bitcoin CAD | 85222.35 | -0.56% |
-| BTC-EUR | Bitcoin EUR | 52735.63 | -0.62% |
-| CVX | Chevron Corporation | 171.06 | -0.69% |
+| UPC | Universe Pharmaceuticals Inc | 15.49 | +423.38% |
+| DCOY | Decoy Therapeutics Inc. | 11.28 | +104.42% |
+| TNMG | TNL Mediagene | 0.87 | +80.11% |
+| NNBR | NN, Inc. | 3.75 | +35.87% |
+| PETS | PetMed Express, Inc. | 2.15 | +22.16% |
+| IRDM | Iridium Communications Inc | 52.80 | +21.34% |
+| CHTR | Charter Communications, Inc. | 152.66 | +14.23% |
+| OUST | Ouster, Inc. | 47.95 | +14.10% |
+| SLS | SELLAS Life Sciences Group, Inc | 13.96 | +12.63% |
+| RBLX | Roblox Corporation | 53.54 | +12.57% |
 
 ### Daily Visuals
 
