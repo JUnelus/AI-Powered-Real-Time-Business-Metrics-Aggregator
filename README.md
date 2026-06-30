@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--29%2014%3A21%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--30%2013%3A32%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-29 14:21:31**
+- Last refresh (UTC): **2026-06-30 13:32:18**
 - Tickers tracked: **20**
-- Average change: **+38.82%**
-- Median change: **+11.05%**
-- Top gainer: **UPC (+423.38%)**
-- Top loser: **VZ (-6.58%)**
+- Average change: **+21.41%**
+- Median change: **+5.43%**
+- Top gainer: **JEM (+305.56%)**
+- Top loser: **UNCY (-45.97%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| UPC | Universe Pharmaceuticals Inc | 15.49 | +423.38% |
-| DCOY | Decoy Therapeutics Inc. | 11.28 | +104.42% |
-| TNMG | TNL Mediagene | 0.87 | +80.11% |
-| NNBR | NN, Inc. | 3.75 | +35.87% |
-| PETS | PetMed Express, Inc. | 2.15 | +22.16% |
-| IRDM | Iridium Communications Inc | 52.80 | +21.34% |
-| CHTR | Charter Communications, Inc. | 152.66 | +14.23% |
-| OUST | Ouster, Inc. | 47.95 | +14.10% |
-| SLS | SELLAS Life Sciences Group, Inc | 13.96 | +12.63% |
-| RBLX | Roblox Corporation | 53.54 | +12.57% |
+| JEM | 707 Cayman Holdings Limited | 4.38 | +305.56% |
+| BTCT | BTC Digital Ltd. | 1.03 | +51.96% |
+| ABVX | Abivax SA | 130.55 | +35.78% |
+| INTZ | Intrusion Inc. | 0.88 | +29.32% |
+| AVAV | AeroVironment, Inc. | 171.47 | +23.36% |
+| DGNX | Diginex Limited | 1.61 | +15.01% |
+| UMAC | Unusual Machines, Inc. | 20.88 | +8.35% |
+| ENPH | Enphase Energy, Inc. | 52.38 | +8.34% |
+| KTOS | Kratos Defense & Security Solut | 50.18 | +6.88% |
+| SEDG | SolarEdge Technologies, Inc. | 59.16 | +6.86% |
 
 ### Daily Visuals
 

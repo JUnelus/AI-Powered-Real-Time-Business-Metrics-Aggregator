@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 38.8240857449,
-  "median_change_pct": 11.050903,
-  "gainers": 18,
-  "losers": 2,
+  "avg_change_pct": 21.414151882000006,
+  "median_change_pct": 5.42709075,
+  "gainers": 14,
+  "losers": 6,
   "top_gainer": {
-    "symbol": "UPC",
-    "change_pct": 423.37836
+    "symbol": "JEM",
+    "change_pct": 305.56482
   },
   "top_loser": {
-    "symbol": "VZ",
-    "change_pct": -6.5756984
+    "symbol": "UNCY",
+    "change_pct": -45.974026
   },
-  "generated_at": "2026-06-29T14:21:31.962877+00:00"
+  "generated_at": "2026-06-30T13:32:18.278822+00:00"
 }
