@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 21.414151882000006,
-  "median_change_pct": 5.42709075,
-  "gainers": 14,
-  "losers": 6,
+  "avg_change_pct": 27.892393652499997,
+  "median_change_pct": 4.7569965,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "JEM",
-    "change_pct": 305.56482
+    "symbol": "DXF",
+    "change_pct": 192.9794
   },
   "top_loser": {
-    "symbol": "UNCY",
-    "change_pct": -45.974026
+    "symbol": "NBIS",
+    "change_pct": -13.100629
   },
-  "generated_at": "2026-06-30T13:32:18.278822+00:00"
+  "generated_at": "2026-07-01T13:45:06.306489+00:00"
 }

@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--30%2013%3A32%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--01%2013%3A45%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-06-30 13:32:18**
+- Last refresh (UTC): **2026-07-01 13:45:06**
 - Tickers tracked: **20**
-- Average change: **+21.41%**
-- Median change: **+5.43%**
-- Top gainer: **JEM (+305.56%)**
-- Top loser: **UNCY (-45.97%)**
+- Average change: **+27.89%**
+- Median change: **+4.76%**
+- Top gainer: **DXF (+192.98%)**
+- Top loser: **NBIS (-13.10%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| JEM | 707 Cayman Holdings Limited | 4.38 | +305.56% |
-| BTCT | BTC Digital Ltd. | 1.03 | +51.96% |
-| ABVX | Abivax SA | 130.55 | +35.78% |
-| INTZ | Intrusion Inc. | 0.88 | +29.32% |
-| AVAV | AeroVironment, Inc. | 171.47 | +23.36% |
-| DGNX | Diginex Limited | 1.61 | +15.01% |
-| UMAC | Unusual Machines, Inc. | 20.88 | +8.35% |
-| ENPH | Enphase Energy, Inc. | 52.38 | +8.34% |
-| KTOS | Kratos Defense & Security Solut | 50.18 | +6.88% |
-| SEDG | SolarEdge Technologies, Inc. | 59.16 | +6.86% |
+| DXF | Dunxin Financial Holdings Limit | 1.01 | +192.98% |
+| LHAI | Linkhome Holdings Inc. | 1.59 | +140.91% |
+| JEM | 707 Cayman Holdings Limited | 7.82 | +96.85% |
+| CANF | Can-Fite Biopharma Ltd | 4.90 | +71.83% |
+| GSUN | Golden Sun Technology Group Lim | 0.43 | +28.42% |
+| DVLT | Datavault AI Inc. | 0.40 | +15.20% |
+| GIS | General Mills, Inc. | 37.17 | +6.79% |
+| META | Meta Platforms, Inc. | 601.38 | +6.76% |
+| PLTR | Palantir Technologies Inc. | 123.59 | +5.93% |
+| CRM | Salesforce, Inc. | 164.81 | +5.18% |
 
 ### Daily Visuals
 
