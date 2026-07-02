@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--01%2013%3A45%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--02%2013%3A32%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-01 13:45:06**
+- Last refresh (UTC): **2026-07-02 13:32:00**
 - Tickers tracked: **20**
-- Average change: **+27.89%**
-- Median change: **+4.76%**
-- Top gainer: **DXF (+192.98%)**
-- Top loser: **NBIS (-13.10%)**
+- Average change: **+25.08%**
+- Median change: **+6.58%**
+- Top gainer: **CWD (+130.84%)**
+- Top loser: **CETX (-7.89%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| DXF | Dunxin Financial Holdings Limit | 1.01 | +192.98% |
-| LHAI | Linkhome Holdings Inc. | 1.59 | +140.91% |
-| JEM | 707 Cayman Holdings Limited | 7.82 | +96.85% |
-| CANF | Can-Fite Biopharma Ltd | 4.90 | +71.83% |
-| GSUN | Golden Sun Technology Group Lim | 0.43 | +28.42% |
-| DVLT | Datavault AI Inc. | 0.40 | +15.20% |
-| GIS | General Mills, Inc. | 37.17 | +6.79% |
-| META | Meta Platforms, Inc. | 601.38 | +6.76% |
-| PLTR | Palantir Technologies Inc. | 123.59 | +5.93% |
-| CRM | Salesforce, Inc. | 164.81 | +5.18% |
+| CWD | CaliberCos Inc. | 1.47 | +130.84% |
+| USDE | StablecoinX Inc. | 3.90 | +87.50% |
+| LIMN | Liminatus Pharma, Inc. | 0.17 | +80.79% |
+| DSY | Big Tree Cloud Holdings Limited | 4.25 | +47.86% |
+| SURG | SurgePays, Inc. | 0.58 | +40.37% |
+| BSP | Bending Spoons S.p.A. Ordinary Shares | 40.50 | +39.66% |
+| RGC | Regencell Bioscience Holdings L | 8.03 | +31.86% |
+| WHLR | Wheeler Real Estate Investment  | 1.16 | +17.22% |
+| CELH | Celsius Holdings, Inc. | 31.87 | +8.85% |
+| MSTR | Strategy Inc | 99.58 | +6.63% |
 
 ### Daily Visuals
 
