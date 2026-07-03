@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 25.077003519999998,
-  "median_change_pct": 6.5754623,
-  "gainers": 15,
-  "losers": 5,
+  "avg_change_pct": 5.019675189757001,
+  "median_change_pct": 1.67194165,
+  "gainers": 18,
+  "losers": 2,
   "top_gainer": {
-    "symbol": "CWD",
-    "change_pct": 130.84247
+    "symbol": "SLBT",
+    "change_pct": 34.6067
   },
   "top_loser": {
-    "symbol": "CETX",
-    "change_pct": -7.89474
+    "symbol": "ZCMD",
+    "change_pct": -0.892856
   },
-  "generated_at": "2026-07-02T13:32:00.276906+00:00"
+  "generated_at": "2026-07-03T13:31:33.865602+00:00"
 }

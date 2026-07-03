@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--02%2013%3A32%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-02 13:32:00**
+- Last refresh (UTC): **2026-07-03 13:31:33**
 - Tickers tracked: **20**
-- Average change: **+25.08%**
-- Median change: **+6.58%**
-- Top gainer: **CWD (+130.84%)**
-- Top loser: **CETX (-7.89%)**
+- Average change: **+5.02%**
+- Median change: **+1.67%**
+- Top gainer: **SLBT (+34.61%)**
+- Top loser: **ZCMD (-0.89%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| CWD | CaliberCos Inc. | 1.47 | +130.84% |
-| USDE | StablecoinX Inc. | 3.90 | +87.50% |
-| LIMN | Liminatus Pharma, Inc. | 0.17 | +80.79% |
-| DSY | Big Tree Cloud Holdings Limited | 4.25 | +47.86% |
-| SURG | SurgePays, Inc. | 0.58 | +40.37% |
-| BSP | Bending Spoons S.p.A. Ordinary Shares | 40.50 | +39.66% |
-| RGC | Regencell Bioscience Holdings L | 8.03 | +31.86% |
-| WHLR | Wheeler Real Estate Investment  | 1.16 | +17.22% |
-| CELH | Celsius Holdings, Inc. | 31.87 | +8.85% |
-| MSTR | Strategy Inc | 99.58 | +6.63% |
+| SLBT | SL Science Holding Limited | 5.99 | +34.61% |
+| SIVE.ST | Sivers Semiconductors AB | 56.35 | +15.00% |
+| GPC | Genuine Parts Company | 132.57 | +12.92% |
+| 000660.KS | SK hynix | 2425000.00 | +10.88% |
+| ADA-USD | Cardano USD | 0.17 | +5.32% |
+| HYPE32196-USD | Hyperliquid USD | 69.34 | +5.24% |
+| AAPL | Apple Inc. | 308.63 | +4.84% |
+| NOKIA.HE | Nokia Corporation | 11.12 | +3.06% |
+| IQMX | IQM Quantum Computers Oyj American Depositary Shares | 13.03 | +2.12% |
+| ETH-USD | Ethereum USD | 1741.97 | +1.93% |
 
 ### Daily Visuals
 
