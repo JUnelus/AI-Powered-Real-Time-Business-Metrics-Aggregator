@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--04%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-03 13:31:33**
+- Last refresh (UTC): **2026-07-04 13:29:07**
 - Tickers tracked: **20**
-- Average change: **+5.02%**
-- Median change: **+1.67%**
-- Top gainer: **SLBT (+34.61%)**
-- Top loser: **ZCMD (-0.89%)**
+- Average change: **+0.40%**
+- Median change: **+0.73%**
+- Top gainer: **ADA-USD (+4.63%)**
+- Top loser: **HIMX (-7.65%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SLBT | SL Science Holding Limited | 5.99 | +34.61% |
-| SIVE.ST | Sivers Semiconductors AB | 56.35 | +15.00% |
-| GPC | Genuine Parts Company | 132.57 | +12.92% |
-| 000660.KS | SK hynix | 2425000.00 | +10.88% |
-| ADA-USD | Cardano USD | 0.17 | +5.32% |
-| HYPE32196-USD | Hyperliquid USD | 69.34 | +5.24% |
-| AAPL | Apple Inc. | 308.63 | +4.84% |
-| NOKIA.HE | Nokia Corporation | 11.12 | +3.06% |
-| IQMX | IQM Quantum Computers Oyj American Depositary Shares | 13.03 | +2.12% |
-| ETH-USD | Ethereum USD | 1741.97 | +1.93% |
+| ADA-USD | Cardano USD | 0.18 | +4.63% |
+| XRP-CAD | XRP CAD | 1.64 | +4.04% |
+| XRP-USD | XRP USD | 1.15 | +3.82% |
+| KO | Coca-Cola Company (The) | 84.14 | +3.51% |
+| CVX | Chevron Corporation | 169.20 | +2.12% |
+| SCHD | Schwab US Dividend Equity ETF | 32.39 | +1.70% |
+| CEG | Constellation Energy Corporatio | 239.25 | +1.16% |
+| ETH-USD | Ethereum USD | 1766.32 | +1.15% |
+| BTC-CAD | Bitcoin CAD | 88932.09 | +1.09% |
+| BTC-USD | Bitcoin USD | 62587.43 | +0.86% |
 
 ### Daily Visuals
 

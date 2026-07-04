@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 5.019675189757001,
-  "median_change_pct": 1.67194165,
-  "gainers": 18,
-  "losers": 2,
+  "avg_change_pct": 0.39582705400000007,
+  "median_change_pct": 0.72930987,
+  "gainers": 13,
+  "losers": 7,
   "top_gainer": {
-    "symbol": "SLBT",
-    "change_pct": 34.6067
+    "symbol": "ADA-USD",
+    "change_pct": 4.630715
   },
   "top_loser": {
-    "symbol": "ZCMD",
-    "change_pct": -0.892856
+    "symbol": "HIMX",
+    "change_pct": -7.6545
   },
-  "generated_at": "2026-07-03T13:31:33.865602+00:00"
+  "generated_at": "2026-07-04T13:29:07.806335+00:00"
 }
