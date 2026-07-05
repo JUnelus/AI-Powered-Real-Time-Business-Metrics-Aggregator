@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.39582705400000007,
-  "median_change_pct": 0.72930987,
-  "gainers": 13,
-  "losers": 7,
+  "avg_change_pct": -1.9227925604,
+  "median_change_pct": -0.58394545,
+  "gainers": 7,
+  "losers": 12,
   "top_gainer": {
     "symbol": "ADA-USD",
-    "change_pct": 4.630715
+    "change_pct": 5.033559
   },
   "top_loser": {
-    "symbol": "HIMX",
-    "change_pct": -7.6545
+    "symbol": "AAOI",
+    "change_pct": -12.9856
   },
-  "generated_at": "2026-07-04T13:29:07.806335+00:00"
+  "generated_at": "2026-07-05T13:29:33.865504+00:00"
 }

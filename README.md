@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--04%2013%3A29%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--05%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-04 13:29:07**
+- Last refresh (UTC): **2026-07-05 13:29:33**
 - Tickers tracked: **20**
-- Average change: **+0.40%**
-- Median change: **+0.73%**
-- Top gainer: **ADA-USD (+4.63%)**
-- Top loser: **HIMX (-7.65%)**
+- Average change: **-1.92%**
+- Median change: **-0.58%**
+- Top gainer: **ADA-USD (+5.03%)**
+- Top loser: **AAOI (-12.99%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ADA-USD | Cardano USD | 0.18 | +4.63% |
-| XRP-CAD | XRP CAD | 1.64 | +4.04% |
-| XRP-USD | XRP USD | 1.15 | +3.82% |
-| KO | Coca-Cola Company (The) | 84.14 | +3.51% |
-| CVX | Chevron Corporation | 169.20 | +2.12% |
-| SCHD | Schwab US Dividend Equity ETF | 32.39 | +1.70% |
-| CEG | Constellation Energy Corporatio | 239.25 | +1.16% |
-| ETH-USD | Ethereum USD | 1766.32 | +1.15% |
-| BTC-CAD | Bitcoin CAD | 88932.09 | +1.09% |
-| BTC-USD | Bitcoin USD | 62587.43 | +0.86% |
+| ADA-USD | Cardano USD | 0.19 | +5.03% |
+| NVO | Novo Nordisk A/S | 50.43 | +3.40% |
+| PYPL | PayPal Holdings, Inc. | 45.47 | +3.18% |
+| CRM | Salesforce, Inc. | 166.11 | +1.76% |
+| MELI | MercadoLibre, Inc. | 1763.36 | +1.22% |
+| BTC-USD | Bitcoin USD | 62642.00 | +0.17% |
+| BTC-CAD | Bitcoin CAD | 89005.78 | +0.09% |
+| PLUG | Plug Power, Inc. | 2.64 | +0.00% |
+| ETH-USD | Ethereum USD | 1762.25 | -0.02% |
+| VTI | Vanguard Total Stock Market ETF | 368.76 | -0.14% |
 
 ### Daily Visuals
 
