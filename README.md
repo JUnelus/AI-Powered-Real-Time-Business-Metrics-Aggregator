@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--05%2013%3A29%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--06%2014%3A10%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-05 13:29:33**
+- Last refresh (UTC): **2026-07-06 14:10:37**
 - Tickers tracked: **20**
-- Average change: **-1.92%**
-- Median change: **-0.58%**
-- Top gainer: **ADA-USD (+5.03%)**
-- Top loser: **AAOI (-12.99%)**
+- Average change: **+23.10%**
+- Median change: **+4.83%**
+- Top gainer: **LHSW (+226.92%)**
+- Top loser: **BTC-USD (-1.45%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ADA-USD | Cardano USD | 0.19 | +5.03% |
-| NVO | Novo Nordisk A/S | 50.43 | +3.40% |
-| PYPL | PayPal Holdings, Inc. | 45.47 | +3.18% |
-| CRM | Salesforce, Inc. | 166.11 | +1.76% |
-| MELI | MercadoLibre, Inc. | 1763.36 | +1.22% |
-| BTC-USD | Bitcoin USD | 62642.00 | +0.17% |
-| BTC-CAD | Bitcoin CAD | 89005.78 | +0.09% |
-| PLUG | Plug Power, Inc. | 2.64 | +0.00% |
-| ETH-USD | Ethereum USD | 1762.25 | -0.02% |
-| VTI | Vanguard Total Stock Market ETF | 368.76 | -0.14% |
+| LHSW | Lianhe Sowell International Gro | 5.93 | +226.92% |
+| KIDZ | KIDZ AI Inc. | 1.43 | +108.79% |
+| LUCY | Innovative Eyewear, Inc. | 1.11 | +45.84% |
+| SOXL | Direxion Daily Semiconductor Bu | 207.96 | +14.60% |
+| IREN | IREN LIMITED | 43.95 | +13.21% |
+| WULF | TeraWulf Inc. | 23.78 | +12.28% |
+| AMD | Advanced Micro Devices, Inc. | 567.83 | +9.66% |
+| DRAM | Roundhill Memory ETF | 65.41 | +7.88% |
+| AVGO | Broadcom Inc. | 379.89 | +5.39% |
+| MRVL | Marvell Technology, Inc. | 257.47 | +4.97% |
 
 ### Daily Visuals
 
