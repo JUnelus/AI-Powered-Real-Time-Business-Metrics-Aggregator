@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--06%2014%3A10%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--07%2013%3A41%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-06 14:10:37**
+- Last refresh (UTC): **2026-07-07 13:41:29**
 - Tickers tracked: **20**
-- Average change: **+23.10%**
-- Median change: **+4.83%**
-- Top gainer: **LHSW (+226.92%)**
-- Top loser: **BTC-USD (-1.45%)**
+- Average change: **+7.87%**
+- Median change: **+0.16%**
+- Top gainer: **TDTH (+53.71%)**
+- Top loser: **TNMG (-12.81%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| LHSW | Lianhe Sowell International Gro | 5.93 | +226.92% |
-| KIDZ | KIDZ AI Inc. | 1.43 | +108.79% |
-| LUCY | Innovative Eyewear, Inc. | 1.11 | +45.84% |
-| SOXL | Direxion Daily Semiconductor Bu | 207.96 | +14.60% |
-| IREN | IREN LIMITED | 43.95 | +13.21% |
-| WULF | TeraWulf Inc. | 23.78 | +12.28% |
-| AMD | Advanced Micro Devices, Inc. | 567.83 | +9.66% |
-| DRAM | Roundhill Memory ETF | 65.41 | +7.88% |
-| AVGO | Broadcom Inc. | 379.89 | +5.39% |
-| MRVL | Marvell Technology, Inc. | 257.47 | +4.97% |
+| TDTH | Trident Digital Tech Holdings L | 2.80 | +53.71% |
+| BJDX | Bluejay Diagnostics, Inc. | 1.71 | +47.42% |
+| CCHH | CCH Holdings Ltd | 0.66 | +46.72% |
+| CPOP | Pop Culture Group Co., Ltd | 0.11 | +19.61% |
+| AMPG | Amplitech Group, Inc. | 7.00 | +18.24% |
+| SKYQ | Sky Quarry Inc. | 2.44 | +15.21% |
+| FISV | Fiserv, Inc. | 54.59 | +5.43% |
+| NOW | ServiceNow, Inc. | 110.82 | +2.70% |
+| SUGP | SU Group Holdings Limited | 0.84 | +2.06% |
+| SOL-USD | Solana USD | 80.75 | +0.80% |
 
 ### Daily Visuals
 

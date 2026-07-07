@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 23.098053852000003,
-  "median_change_pct": 4.8304434999999994,
-  "gainers": 17,
-  "losers": 3,
+  "avg_change_pct": 7.870602115999999,
+  "median_change_pct": 0.16265096,
+  "gainers": 10,
+  "losers": 10,
   "top_gainer": {
-    "symbol": "LHSW",
-    "change_pct": 226.92311
+    "symbol": "TDTH",
+    "change_pct": 53.714283
   },
   "top_loser": {
-    "symbol": "BTC-USD",
-    "change_pct": -1.4516996
+    "symbol": "TNMG",
+    "change_pct": -12.807591
   },
-  "generated_at": "2026-07-06T14:10:37.372834+00:00"
+  "generated_at": "2026-07-07T13:41:29.077497+00:00"
 }
