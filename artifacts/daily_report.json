@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 7.870602115999999,
-  "median_change_pct": 0.16265096,
-  "gainers": 10,
-  "losers": 10,
+  "avg_change_pct": 11.532614485,
+  "median_change_pct": 4.98962135,
+  "gainers": 18,
+  "losers": 2,
   "top_gainer": {
-    "symbol": "TDTH",
-    "change_pct": 53.714283
+    "symbol": "VTAK",
+    "change_pct": 83.838936
   },
   "top_loser": {
-    "symbol": "TNMG",
-    "change_pct": -12.807591
+    "symbol": "FCEL",
+    "change_pct": -16.79477
   },
-  "generated_at": "2026-07-07T13:41:29.077497+00:00"
+  "generated_at": "2026-07-08T13:31:24.547567+00:00"
 }

@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--07%2013%3A41%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--08%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-07 13:41:29**
+- Last refresh (UTC): **2026-07-08 13:31:24**
 - Tickers tracked: **20**
-- Average change: **+7.87%**
-- Median change: **+0.16%**
-- Top gainer: **TDTH (+53.71%)**
-- Top loser: **TNMG (-12.81%)**
+- Average change: **+11.53%**
+- Median change: **+4.99%**
+- Top gainer: **VTAK (+83.84%)**
+- Top loser: **FCEL (-16.79%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| TDTH | Trident Digital Tech Holdings L | 2.80 | +53.71% |
-| BJDX | Bluejay Diagnostics, Inc. | 1.71 | +47.42% |
-| CCHH | CCH Holdings Ltd | 0.66 | +46.72% |
-| CPOP | Pop Culture Group Co., Ltd | 0.11 | +19.61% |
-| AMPG | Amplitech Group, Inc. | 7.00 | +18.24% |
-| SKYQ | Sky Quarry Inc. | 2.44 | +15.21% |
-| FISV | Fiserv, Inc. | 54.59 | +5.43% |
-| NOW | ServiceNow, Inc. | 110.82 | +2.70% |
-| SUGP | SU Group Holdings Limited | 0.84 | +2.06% |
-| SOL-USD | Solana USD | 80.75 | +0.80% |
+| VTAK | Catheter Precision, Inc. | 1.31 | +83.84% |
+| EDBL | Edible Garden AG Incorporated | 0.13 | +46.41% |
+| ONFO | Onfolio Holdings Inc. | 0.51 | +29.85% |
+| BATL | Battalion Oil Corporation | 2.29 | +29.65% |
+| TVRD | Tvardi Therapeutics, Inc. | 3.51 | +13.23% |
+| BABA | Alibaba Group Holding Limited | 107.42 | +9.49% |
+| NCRA | Nocera, Inc. | 2.17 | +8.50% |
+| LHAI | Linkhome Holdings Inc. | 1.40 | +8.43% |
+| ^VIX | CBOE Volatility Index | 17.39 | +7.82% |
+| BZ=F | Brent Crude Oil Last Day Financ | 77.96 | +5.12% |
 
 ### Daily Visuals
 
