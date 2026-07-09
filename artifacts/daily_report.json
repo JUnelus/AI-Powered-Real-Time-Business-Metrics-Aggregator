@@ -1,16 +1,16 @@
 {
-  "tickers_tracked": 20,
-  "avg_change_pct": 11.532614485,
-  "median_change_pct": 4.98962135,
-  "gainers": 18,
-  "losers": 2,
+  "tickers_tracked": 19,
+  "avg_change_pct": 19.88306095789474,
+  "median_change_pct": 2.7810018,
+  "gainers": 14,
+  "losers": 5,
   "top_gainer": {
-    "symbol": "VTAK",
-    "change_pct": 83.838936
+    "symbol": "VRAX",
+    "change_pct": 262.4811
   },
   "top_loser": {
-    "symbol": "FCEL",
-    "change_pct": -16.79477
+    "symbol": "IONS",
+    "change_pct": -17.227083
   },
-  "generated_at": "2026-07-08T13:31:24.547567+00:00"
+  "generated_at": "2026-07-09T13:53:44.471725+00:00"
 }

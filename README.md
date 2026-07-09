@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--08%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--09%2013%3A53%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-08 13:31:24**
-- Tickers tracked: **20**
-- Average change: **+11.53%**
-- Median change: **+4.99%**
-- Top gainer: **VTAK (+83.84%)**
-- Top loser: **FCEL (-16.79%)**
+- Last refresh (UTC): **2026-07-09 13:53:44**
+- Tickers tracked: **19**
+- Average change: **+19.88%**
+- Median change: **+2.78%**
+- Top gainer: **VRAX (+262.48%)**
+- Top loser: **IONS (-17.23%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| VTAK | Catheter Precision, Inc. | 1.31 | +83.84% |
-| EDBL | Edible Garden AG Incorporated | 0.13 | +46.41% |
-| ONFO | Onfolio Holdings Inc. | 0.51 | +29.85% |
-| BATL | Battalion Oil Corporation | 2.29 | +29.65% |
-| TVRD | Tvardi Therapeutics, Inc. | 3.51 | +13.23% |
-| BABA | Alibaba Group Holding Limited | 107.42 | +9.49% |
-| NCRA | Nocera, Inc. | 2.17 | +8.50% |
-| LHAI | Linkhome Holdings Inc. | 1.40 | +8.43% |
-| ^VIX | CBOE Volatility Index | 17.39 | +7.82% |
-| BZ=F | Brent Crude Oil Last Day Financ | 77.96 | +5.12% |
+| VRAX | Virax Biolabs Group Limited | 11.53 | +262.48% |
+| RKTO | Rocket One Inc. | 1.09 | +35.83% |
+| RPGL | Republic Power Group Limited | 2.30 | +29.16% |
+| LGHL | Lion Group Holding Ltd. | 0.39 | +22.40% |
+| AEHR | Aehr Test Systems | 77.71 | +14.46% |
+| SUNE | SUNation Energy, Inc. | 2.37 | +12.09% |
+| ALNY | Alnylam Pharmaceuticals, Inc. | 362.42 | +11.99% |
+| ENVX | Enovix Corporation | 5.57 | +8.68% |
+| WULF | TeraWulf Inc. | 23.59 | +3.33% |
+| ANET | Arista Networks, Inc. | 186.09 | +2.78% |
 
 ### Daily Visuals
 
