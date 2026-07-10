@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--09%2013%3A53%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--10%2013%3A37%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-09 13:53:44**
-- Tickers tracked: **19**
-- Average change: **+19.88%**
-- Median change: **+2.78%**
-- Top gainer: **VRAX (+262.48%)**
-- Top loser: **IONS (-17.23%)**
+- Last refresh (UTC): **2026-07-10 13:37:01**
+- Tickers tracked: **18**
+- Average change: **+16.31%**
+- Median change: **+2.52%**
+- Top gainer: **GMM (+178.45%)**
+- Top loser: **ELPW (-43.83%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| VRAX | Virax Biolabs Group Limited | 11.53 | +262.48% |
-| RKTO | Rocket One Inc. | 1.09 | +35.83% |
-| RPGL | Republic Power Group Limited | 2.30 | +29.16% |
-| LGHL | Lion Group Holding Ltd. | 0.39 | +22.40% |
-| AEHR | Aehr Test Systems | 77.71 | +14.46% |
-| SUNE | SUNation Energy, Inc. | 2.37 | +12.09% |
-| ALNY | Alnylam Pharmaceuticals, Inc. | 362.42 | +11.99% |
-| ENVX | Enovix Corporation | 5.57 | +8.68% |
-| WULF | TeraWulf Inc. | 23.59 | +3.33% |
-| ANET | Arista Networks, Inc. | 186.09 | +2.78% |
+| GMM | Global Mofy AI Limited | 5.08 | +178.45% |
+| HAO | Haoxi Health Technology Limited | 1.80 | +68.53% |
+| ZBAO | Zhibao Technology Inc. | 0.46 | +54.49% |
+| CRCL | Circle Internet Group, Inc. | 71.68 | +13.85% |
+| JLHL | Julong Holding Limited | 14.10 | +10.20% |
+| MSTR | Strategy Inc | 99.72 | +6.21% |
+| META | Meta Platforms, Inc. | 668.38 | +5.84% |
+| COIN | Coinbase Global, Inc. | 167.19 | +5.52% |
+| ETH-USD | Ethereum USD | 1798.23 | +3.05% |
+| BTC-USD | Bitcoin USD | 64224.38 | +1.99% |
 
 ### Daily Visuals
 
