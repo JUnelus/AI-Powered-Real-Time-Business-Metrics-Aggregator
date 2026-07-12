@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.9447469786499999,
-  "median_change_pct": 0.25850686,
-  "gainers": 13,
-  "losers": 7,
+  "avg_change_pct": -0.9405666115000001,
+  "median_change_pct": -0.48944089999999996,
+  "gainers": 5,
+  "losers": 14,
   "top_gainer": {
-    "symbol": "SKHYV",
-    "change_pct": 12.758387
+    "symbol": "KO",
+    "change_pct": 1.04079
   },
   "top_loser": {
-    "symbol": "CRWD",
-    "change_pct": -5.65524
+    "symbol": "^VIX",
+    "change_pct": -5.1136394
   },
-  "generated_at": "2026-07-11T13:28:36.782588+00:00"
+  "generated_at": "2026-07-12T13:28:52.785250+00:00"
 }

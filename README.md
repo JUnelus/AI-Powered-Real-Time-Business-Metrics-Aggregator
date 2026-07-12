@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--11%2013%3A28%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--12%2013%3A28%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-11 13:28:36**
+- Last refresh (UTC): **2026-07-12 13:28:52**
 - Tickers tracked: **20**
-- Average change: **+0.94%**
-- Median change: **+0.26%**
-- Top gainer: **SKHYV (+12.76%)**
-- Top loser: **CRWD (-5.66%)**
+- Average change: **-0.94%**
+- Median change: **-0.49%**
+- Top gainer: **KO (+1.04%)**
+- Top loser: **^VIX (-5.11%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SKHYV | SK hynix Inc. American Depositary Shares When Issued | 168.01 | +12.76% |
-| WDFC | WD-40 Company | 264.91 | +10.65% |
-| MELI | MercadoLibre, Inc. | 1852.22 | +2.46% |
-| GRAB | Grab Holdings Limited | 3.93 | +1.29% |
-| NEE | NextEra Energy, Inc. | 87.96 | +0.99% |
-| VOO | Vanguard S&P 500 ETF | 693.86 | +0.46% |
-| SCHD | Schwab US Dividend Equity ETF | 32.40 | +0.43% |
-| ^GSPC | S&P 500 | 7575.39 | +0.42% |
-| ^IXIC | NASDAQ Composite | 26281.61 | +0.29% |
-| ^DJI | Dow Jones Industrial Average | 52637.01 | +0.29% |
+| KO | Coca-Cola Company (The) | 83.49 | +1.04% |
+| COIN | Coinbase Global, Inc. | 159.07 | +0.40% |
+| ETH-USD | Ethereum USD | 1806.38 | +0.28% |
+| UBER | Uber Technologies, Inc. | 74.54 | +0.26% |
+| CEG | Constellation Energy Corporatio | 251.38 | +0.26% |
+| NIO | NIO Inc. | 4.78 | +0.00% |
+| SOXX | iShares PHLX SOX Semiconductor  | 581.34 | -0.06% |
+| BTC-CAD | Bitcoin CAD | 90943.56 | -0.23% |
+| BTC-USD | Bitcoin USD | 64001.11 | -0.30% |
+| BZ=F | Brent Crude Oil Last Day Financ | 76.01 | -0.38% |
 
 ### Daily Visuals
 
