@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--12%2013%3A28%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--13%2013%3A40%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-12 13:28:52**
+- Last refresh (UTC): **2026-07-13 13:40:07**
 - Tickers tracked: **20**
-- Average change: **-0.94%**
-- Median change: **-0.49%**
-- Top gainer: **KO (+1.04%)**
-- Top loser: **^VIX (-5.11%)**
+- Average change: **+11.09%**
+- Median change: **+1.19%**
+- Top gainer: **QTTB (+63.87%)**
+- Top loser: **DRAM (-10.06%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| KO | Coca-Cola Company (The) | 83.49 | +1.04% |
-| COIN | Coinbase Global, Inc. | 159.07 | +0.40% |
-| ETH-USD | Ethereum USD | 1806.38 | +0.28% |
-| UBER | Uber Technologies, Inc. | 74.54 | +0.26% |
-| CEG | Constellation Energy Corporatio | 251.38 | +0.26% |
-| NIO | NIO Inc. | 4.78 | +0.00% |
-| SOXX | iShares PHLX SOX Semiconductor  | 581.34 | -0.06% |
-| BTC-CAD | Bitcoin CAD | 90943.56 | -0.23% |
-| BTC-USD | Bitcoin USD | 64001.11 | -0.30% |
-| BZ=F | Brent Crude Oil Last Day Financ | 76.01 | -0.38% |
+| QTTB | Q32 Bio Inc. | 18.37 | +63.87% |
+| AGEN | Agenus Inc. | 5.06 | +51.04% |
+| MIMI | Mint Incorporation Limited | 3.08 | +43.26% |
+| EHGO | Eshallgo Inc. | 2.06 | +25.92% |
+| FTRK | FAST TRACK GROUP | 0.49 | +22.99% |
+| SKHYV | SK hynix Inc. - American Deposi | 168.01 | +12.76% |
+| ^VIX | CBOE Volatility Index | 16.39 | +9.04% |
+| BATL | Battalion Oil Corporation | 1.67 | +6.05% |
+| CL=F | Crude Oil Aug 26 | 73.64 | +3.12% |
+| ETH-USD | Ethereum USD | 1810.44 | +1.27% |
 
 ### Daily Visuals
 
