@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--13%2013%3A40%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--14%2013%3A30%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-13 13:40:07**
+- Last refresh (UTC): **2026-07-14 13:30:10**
 - Tickers tracked: **20**
-- Average change: **+11.09%**
-- Median change: **+1.19%**
-- Top gainer: **QTTB (+63.87%)**
-- Top loser: **DRAM (-10.06%)**
+- Average change: **+36.75%**
+- Median change: **-0.10%**
+- Top gainer: **VEEE (+415.77%)**
+- Top loser: **IBM (-22.11%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| QTTB | Q32 Bio Inc. | 18.37 | +63.87% |
-| AGEN | Agenus Inc. | 5.06 | +51.04% |
-| MIMI | Mint Incorporation Limited | 3.08 | +43.26% |
-| EHGO | Eshallgo Inc. | 2.06 | +25.92% |
-| FTRK | FAST TRACK GROUP | 0.49 | +22.99% |
-| SKHYV | SK hynix Inc. - American Deposi | 168.01 | +12.76% |
-| ^VIX | CBOE Volatility Index | 16.39 | +9.04% |
-| BATL | Battalion Oil Corporation | 1.67 | +6.05% |
-| CL=F | Crude Oil Aug 26 | 73.64 | +3.12% |
-| ETH-USD | Ethereum USD | 1810.44 | +1.27% |
+| VEEE | Twin Vee PowerCats Co. | 24.86 | +415.77% |
+| NXTC | NextCure, Inc. | 9.24 | +321.64% |
+| CLSK | CleanSpark, Inc. | 14.66 | +18.65% |
+| VMAR | Vision Marine Technologies Inc. | 1.41 | +11.02% |
+| SKHY | SK Hynix Inc. American Depositary Shares | 168.11 | +10.34% |
+| GS | Goldman Sachs Group, Inc. (The) | 1082.00 | +3.36% |
+| TSEM | Tower Semiconductor Ltd. | 229.68 | +3.11% |
+| SHPH | Shuttle Pharmaceuticals Holding | 2.96 | +1.37% |
+| WFC | Wells Fargo & Company | 87.67 | +0.59% |
+| C | Citigroup, Inc. | 140.71 | -0.06% |
 
 ### Daily Visuals
 

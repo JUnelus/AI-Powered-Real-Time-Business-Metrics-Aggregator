@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 11.085137718500002,
-  "median_change_pct": 1.19398135,
-  "gainers": 14,
-  "losers": 6,
+  "avg_change_pct": 36.754189362299996,
+  "median_change_pct": -0.100546392,
+  "gainers": 9,
+  "losers": 11,
   "top_gainer": {
-    "symbol": "QTTB",
-    "change_pct": 63.871548
+    "symbol": "VEEE",
+    "change_pct": 415.768
   },
   "top_loser": {
-    "symbol": "DRAM",
-    "change_pct": -10.060252
+    "symbol": "IBM",
+    "change_pct": -22.107035
   },
-  "generated_at": "2026-07-13T13:40:07.645207+00:00"
+  "generated_at": "2026-07-14T13:30:10.499523+00:00"
 }
