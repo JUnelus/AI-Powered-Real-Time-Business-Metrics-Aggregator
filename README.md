@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--14%2013%3A30%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--15%2013%3A30%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-14 13:30:10**
+- Last refresh (UTC): **2026-07-15 13:30:15**
 - Tickers tracked: **20**
-- Average change: **+36.75%**
-- Median change: **-0.10%**
-- Top gainer: **VEEE (+415.77%)**
-- Top loser: **IBM (-22.11%)**
+- Average change: **+4.45%**
+- Median change: **+1.56%**
+- Top gainer: **KUST (+47.06%)**
+- Top loser: **JTAI (-15.01%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| VEEE | Twin Vee PowerCats Co. | 24.86 | +415.77% |
-| NXTC | NextCure, Inc. | 9.24 | +321.64% |
-| CLSK | CleanSpark, Inc. | 14.66 | +18.65% |
-| VMAR | Vision Marine Technologies Inc. | 1.41 | +11.02% |
-| SKHY | SK Hynix Inc. American Depositary Shares | 168.11 | +10.34% |
-| GS | Goldman Sachs Group, Inc. (The) | 1082.00 | +3.36% |
-| TSEM | Tower Semiconductor Ltd. | 229.68 | +3.11% |
-| SHPH | Shuttle Pharmaceuticals Holding | 2.96 | +1.37% |
-| WFC | Wells Fargo & Company | 87.67 | +0.59% |
-| C | Citigroup, Inc. | 140.71 | -0.06% |
+| KUST | Kustom Entertainment, Inc. | 1.49 | +47.06% |
+| TGHL | The GrowHub Limited | 0.84 | +27.40% |
+| PYPL | PayPal Holdings, Inc. | 54.79 | +15.66% |
+| GCTK | GlucoTrack, Inc. | 0.59 | +10.85% |
+| AEHR | Aehr Test Systems | 72.01 | +5.87% |
+| BABA | Alibaba Group Holding Limited | 117.23 | +4.38% |
+| ETH-USD | Ethereum USD | 1935.52 | +3.51% |
+| ASML | ASML Holding N.V. - New York Re | 1825.84 | +2.83% |
+| BTC-USD | Bitcoin USD | 65305.26 | +2.39% |
+| LCID | Lucid Group, Inc. | 4.72 | +2.17% |
 
 ### Daily Visuals
 
