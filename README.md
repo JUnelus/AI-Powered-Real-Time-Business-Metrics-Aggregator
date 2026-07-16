@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--15%2013%3A30%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--16%2013%3A30%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-15 13:30:15**
+- Last refresh (UTC): **2026-07-16 13:30:39**
 - Tickers tracked: **20**
-- Average change: **+4.45%**
-- Median change: **+1.56%**
-- Top gainer: **KUST (+47.06%)**
-- Top loser: **JTAI (-15.01%)**
+- Average change: **+2.18%**
+- Median change: **-1.13%**
+- Top gainer: **ATAI (+32.37%)**
+- Top loser: **ASTS (-9.73%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| KUST | Kustom Entertainment, Inc. | 1.49 | +47.06% |
-| TGHL | The GrowHub Limited | 0.84 | +27.40% |
-| PYPL | PayPal Holdings, Inc. | 54.79 | +15.66% |
-| GCTK | GlucoTrack, Inc. | 0.59 | +10.85% |
-| AEHR | Aehr Test Systems | 72.01 | +5.87% |
-| BABA | Alibaba Group Holding Limited | 117.23 | +4.38% |
-| ETH-USD | Ethereum USD | 1935.52 | +3.51% |
-| ASML | ASML Holding N.V. - New York Re | 1825.84 | +2.83% |
-| BTC-USD | Bitcoin USD | 65305.26 | +2.39% |
-| LCID | Lucid Group, Inc. | 4.72 | +2.17% |
+| ATAI | AtaiBeckley Inc. | 7.09 | +32.37% |
+| ATPC | Agape ATP Corporation | 3.33 | +32.34% |
+| UNH | UnitedHealth Group Incorporated | 454.48 | +8.58% |
+| ABT | Abbott Laboratories | 95.07 | +6.40% |
+| EOSE | Eos Energy Enterprises, Inc. | 4.57 | +4.58% |
+| NFLX | Netflix, Inc. | 74.37 | +0.94% |
+| GOOG | Alphabet Inc. | 373.06 | +0.77% |
+| MSFT | Microsoft Corporation | 398.14 | +0.64% |
+| AAPL | Apple Inc. | 327.38 | -0.04% |
+| XRP-USD | XRP USD | 1.11 | -1.00% |
 
 ### Daily Visuals
 
