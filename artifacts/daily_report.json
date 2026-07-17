@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 2.1801908039999995,
-  "median_change_pct": -1.1324679500000001,
-  "gainers": 8,
-  "losers": 12,
+  "avg_change_pct": 4.7456016000000005,
+  "median_change_pct": 0.272109,
+  "gainers": 10,
+  "losers": 10,
   "top_gainer": {
-    "symbol": "ATAI",
-    "change_pct": 32.369396
+    "symbol": "STAK",
+    "change_pct": 68.0751
   },
   "top_loser": {
-    "symbol": "ASTS",
-    "change_pct": -9.726886
+    "symbol": "FFAI",
+    "change_pct": -8.84956
   },
-  "generated_at": "2026-07-16T13:30:39.567968+00:00"
+  "generated_at": "2026-07-17T13:29:44.327682+00:00"
 }

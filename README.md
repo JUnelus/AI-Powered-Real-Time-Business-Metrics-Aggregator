@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--16%2013%3A30%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--17%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-16 13:30:39**
+- Last refresh (UTC): **2026-07-17 13:29:44**
 - Tickers tracked: **20**
-- Average change: **+2.18%**
-- Median change: **-1.13%**
-- Top gainer: **ATAI (+32.37%)**
-- Top loser: **ASTS (-9.73%)**
+- Average change: **+4.75%**
+- Median change: **+0.27%**
+- Top gainer: **STAK (+68.08%)**
+- Top loser: **FFAI (-8.85%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ATAI | AtaiBeckley Inc. | 7.09 | +32.37% |
-| ATPC | Agape ATP Corporation | 3.33 | +32.34% |
-| UNH | UnitedHealth Group Incorporated | 454.48 | +8.58% |
-| ABT | Abbott Laboratories | 95.07 | +6.40% |
-| EOSE | Eos Energy Enterprises, Inc. | 4.57 | +4.58% |
-| NFLX | Netflix, Inc. | 74.37 | +0.94% |
-| GOOG | Alphabet Inc. | 373.06 | +0.77% |
-| MSFT | Microsoft Corporation | 398.14 | +0.64% |
-| AAPL | Apple Inc. | 327.38 | -0.04% |
-| XRP-USD | XRP USD | 1.11 | -1.00% |
+| STAK | STAK Inc. | 3.58 | +68.08% |
+| CDNA | CareDx, Inc. | 40.34 | +35.60% |
+| CJMB | Callan JMB Inc. | 0.86 | +16.51% |
+| PMAX | Powell Max Limited | 1.76 | +5.99% |
+| PM | Philip Morris International Inc | 189.84 | +4.95% |
+| ISRG | Intuitive Surgical, Inc. | 402.33 | +3.43% |
+| TRV | The Travelers Companies, Inc. | 337.82 | +2.62% |
+| FITB | Fifth Third Bancorp | 59.37 | +2.47% |
+| NFLX | Netflix, Inc. | 74.35 | +0.91% |
+| TFC | Truist Financial Corporation | 53.25 | +0.85% |
 
 ### Daily Visuals
 
