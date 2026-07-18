@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--17%2013%3A29%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--18%2013%3A28%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-17 13:29:44**
-- Tickers tracked: **20**
-- Average change: **+4.75%**
-- Median change: **+0.27%**
-- Top gainer: **STAK (+68.08%)**
-- Top loser: **FFAI (-8.85%)**
+- Last refresh (UTC): **2026-07-18 13:28:29**
+- Tickers tracked: **15**
+- Average change: **+1.83%**
+- Median change: **+0.45%**
+- Top gainer: **LCID (+13.93%)**
+- Top loser: **SNPS (-7.85%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| STAK | STAK Inc. | 3.58 | +68.08% |
-| CDNA | CareDx, Inc. | 40.34 | +35.60% |
-| CJMB | Callan JMB Inc. | 0.86 | +16.51% |
-| PMAX | Powell Max Limited | 1.76 | +5.99% |
-| PM | Philip Morris International Inc | 189.84 | +4.95% |
-| ISRG | Intuitive Surgical, Inc. | 402.33 | +3.43% |
-| TRV | The Travelers Companies, Inc. | 337.82 | +2.62% |
-| FITB | Fifth Third Bancorp | 59.37 | +2.47% |
-| NFLX | Netflix, Inc. | 74.35 | +0.91% |
-| TFC | Truist Financial Corporation | 53.25 | +0.85% |
+| LCID | Lucid Group, Inc. | 7.36 | +13.93% |
+| SLS | SELLAS Life Sciences Group, Inc | 13.19 | +12.26% |
+| IOVA | Iovance Biotherapeutics, Inc. | 5.00 | +7.30% |
+| BZ=F | Brent Crude Oil Last Day Financ | 88.10 | +4.59% |
+| BTC-USD | Bitcoin USD | 63988.49 | +1.42% |
+| EBAY | eBay Inc. | 112.06 | +1.04% |
+| ETH-USD | Ethereum USD | 1839.68 | +0.89% |
+| XRP-USD | XRP USD | 1.08 | +0.45% |
+| ^RUT | Russell 2000 | 2962.22 | -0.42% |
+| ^DJI | Dow Jones Industrial Average | 52146.42 | -0.77% |
 
 ### Daily Visuals
 
