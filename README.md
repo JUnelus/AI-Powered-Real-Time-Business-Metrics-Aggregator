@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--18%2013%3A28%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--19%2013%3A28%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-18 13:28:29**
-- Tickers tracked: **15**
-- Average change: **+1.83%**
-- Median change: **+0.45%**
-- Top gainer: **LCID (+13.93%)**
-- Top loser: **SNPS (-7.85%)**
+- Last refresh (UTC): **2026-07-19 13:28:45**
+- Tickers tracked: **18**
+- Average change: **-0.75%**
+- Median change: **-0.50%**
+- Top gainer: **CL=F (+4.47%)**
+- Top loser: **000660.KS (-11.53%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| LCID | Lucid Group, Inc. | 7.36 | +13.93% |
-| SLS | SELLAS Life Sciences Group, Inc | 13.19 | +12.26% |
-| IOVA | Iovance Biotherapeutics, Inc. | 5.00 | +7.30% |
-| BZ=F | Brent Crude Oil Last Day Financ | 88.10 | +4.59% |
-| BTC-USD | Bitcoin USD | 63988.49 | +1.42% |
-| EBAY | eBay Inc. | 112.06 | +1.04% |
-| ETH-USD | Ethereum USD | 1839.68 | +0.89% |
-| XRP-USD | XRP USD | 1.08 | +0.45% |
-| ^RUT | Russell 2000 | 2962.22 | -0.42% |
-| ^DJI | Dow Jones Industrial Average | 52146.42 | -0.77% |
+| CL=F | Crude Oil Aug 26 | 81.78 | +4.47% |
+| SOL-USD | Solana USD | 75.96 | +1.69% |
+| ETH-USD | Ethereum USD | 1867.70 | +1.48% |
+| PANW | Palo Alto Networks, Inc. | 358.68 | +1.32% |
+| PLUG | Plug Power, Inc. | 2.17 | +0.93% |
+| XRP-USD | XRP USD | 1.09 | +0.73% |
+| EPD | Enterprise Products Partners L. | 38.20 | +0.53% |
+| BTC-USD | Bitcoin USD | 64368.00 | +0.47% |
+| CRWD | CrowdStrike Holdings, Inc. | 203.08 | -0.33% |
+| VZ | Verizon Communications Inc. | 43.59 | -0.66% |
 
 ### Daily Visuals
 
