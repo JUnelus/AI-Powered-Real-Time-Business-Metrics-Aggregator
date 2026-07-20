@@ -1,17 +1,17 @@
 {
   "status": "pass",
-  "checked_at": "2026-07-19T13:28:44.803228+00:00",
+  "checked_at": "2026-07-20T13:32:02.898255+00:00",
   "freshness_max_age_hours": 36,
-  "latest_market_time": "2026-07-19T13:28:39+00:00",
-  "data_age_hours": 0.002,
+  "latest_market_time": "2026-07-20T13:32:02+00:00",
+  "data_age_hours": 0.0,
   "numeric_columns": {
     "regularMarketPrice": {
       "null_ratio": 0.0,
-      "row_count": 18
+      "row_count": 20
     },
     "regularMarketChangePercent": {
       "null_ratio": 0.0,
-      "row_count": 18
+      "row_count": 20
     }
   }
 }
