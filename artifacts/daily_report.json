@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 4.915504260699999,
-  "median_change_pct": 2.7162957,
-  "gainers": 15,
-  "losers": 5,
+  "avg_change_pct": 17.618630059500003,
+  "median_change_pct": 0.5866501150000001,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "BIYA",
-    "change_pct": 81.29498
+    "symbol": "KIDZ",
+    "change_pct": 142.6353
   },
   "top_loser": {
-    "symbol": "GVH",
-    "change_pct": -51.074253
+    "symbol": "ZYBT",
+    "change_pct": -47.25718
   },
-  "generated_at": "2026-07-20T13:32:03.180347+00:00"
+  "generated_at": "2026-07-21T13:30:31.626397+00:00"
 }

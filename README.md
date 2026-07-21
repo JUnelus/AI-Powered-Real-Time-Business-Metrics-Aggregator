@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--20%2013%3A32%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--21%2013%3A30%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-20 13:32:03**
+- Last refresh (UTC): **2026-07-21 13:30:31**
 - Tickers tracked: **20**
-- Average change: **+4.92%**
-- Median change: **+2.72%**
-- Top gainer: **BIYA (+81.29%)**
-- Top loser: **GVH (-51.07%)**
+- Average change: **+17.62%**
+- Median change: **+0.59%**
+- Top gainer: **KIDZ (+142.64%)**
+- Top loser: **ZYBT (-47.26%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BIYA | Baiya International Group Inc. | 7.53 | +81.29% |
-| SDOT | Sadot Group Inc. | 31.73 | +25.42% |
-| AMC | AMC Entertainment Holdings, Inc | 2.27 | +18.18% |
-| NUAI | New Era Energy & Digital, Inc. | 4.74 | +16.18% |
-| NXXT | NextNRG, Inc. | 0.32 | +13.41% |
-| HUT | Hut 8 Corp. | 101.06 | +10.51% |
-| IREN | IREN LIMITED | 36.80 | +9.46% |
-| DPZ | Domino's Pizza Inc | 347.22 | +7.77% |
-| FFAI | Faraday Future Intelligent Elec | 0.14 | +4.17% |
-| BABA | Alibaba Group Holding Limited | 118.64 | +3.19% |
+| KIDZ | KIDZ AI Inc. | 1.00 | +142.64% |
+| SLGB | Smart Logistics Global Limited | 1.10 | +117.91% |
+| UTZ | Utz Brands Inc | 14.07 | +89.18% |
+| HIHO | Highway Holdings Limited | 1.35 | +45.42% |
+| JUNS | Jupiter Neurosciences, Inc. | 0.22 | +31.11% |
+| MMM | 3M Company | 169.43 | +6.33% |
+| XRP-USD | XRP USD | 1.14 | +4.68% |
+| ETH-USD | Ethereum USD | 1935.99 | +4.05% |
+| BTC-USD | Bitcoin USD | 66398.15 | +3.30% |
+| ACHR | Archer Aviation Inc. | 5.35 | +0.94% |
 
 ### Daily Visuals
 
