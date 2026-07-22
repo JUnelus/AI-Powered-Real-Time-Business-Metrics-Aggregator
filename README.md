@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--21%2013%3A30%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--22%2013%3A30%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-21 13:30:31**
+- Last refresh (UTC): **2026-07-22 13:30:43**
 - Tickers tracked: **20**
-- Average change: **+17.62%**
-- Median change: **+0.59%**
-- Top gainer: **KIDZ (+142.64%)**
-- Top loser: **ZYBT (-47.26%)**
+- Average change: **+15.07%**
+- Median change: **+4.00%**
+- Top gainer: **LABT (+243.44%)**
+- Top loser: **CPHI (-69.94%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| KIDZ | KIDZ AI Inc. | 1.00 | +142.64% |
-| SLGB | Smart Logistics Global Limited | 1.10 | +117.91% |
-| UTZ | Utz Brands Inc | 14.07 | +89.18% |
-| HIHO | Highway Holdings Limited | 1.35 | +45.42% |
-| JUNS | Jupiter Neurosciences, Inc. | 0.22 | +31.11% |
-| MMM | 3M Company | 169.43 | +6.33% |
-| XRP-USD | XRP USD | 1.14 | +4.68% |
-| ETH-USD | Ethereum USD | 1935.99 | +4.05% |
-| BTC-USD | Bitcoin USD | 66398.15 | +3.30% |
-| ACHR | Archer Aviation Inc. | 5.35 | +0.94% |
+| LABT | Lakewood-Amedex Biotherapeutics | 6.39 | +243.44% |
+| CHAI | Core AI Holdings, Inc. | 0.60 | +53.69% |
+| INLF | INLIF LIMITED | 3.11 | +39.37% |
+| INM | InMed Pharmaceuticals Inc. | 2.12 | +37.66% |
+| AIRJ | AirJoule Technologies Corporati | 4.46 | +18.07% |
+| ARWR | Arrowhead Pharmaceuticals, Inc. | 86.84 | +16.50% |
+| SMCI | Super Micro Computer, Inc. | 28.96 | +13.57% |
+| AEHL | Antelope Enterprise Holdings Li | 0.69 | +6.95% |
+| DELL | Dell Technologies Inc. | 422.32 | +4.52% |
+| T | AT&T Inc. | 23.27 | +4.47% |
 
 ### Daily Visuals
 
