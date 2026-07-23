@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 15.07144524,
-  "median_change_pct": 4.0006561000000005,
-  "gainers": 12,
-  "losers": 8,
+  "avg_change_pct": -0.43192563,
+  "median_change_pct": -0.12436594999999998,
+  "gainers": 10,
+  "losers": 10,
   "top_gainer": {
-    "symbol": "LABT",
-    "change_pct": 243.44084
+    "symbol": "CLF",
+    "change_pct": 14.149443
   },
   "top_loser": {
-    "symbol": "CPHI",
-    "change_pct": -69.94185
+    "symbol": "STM",
+    "change_pct": -17.350979
   },
-  "generated_at": "2026-07-22T13:30:43.953013+00:00"
+  "generated_at": "2026-07-23T13:31:00.268851+00:00"
 }

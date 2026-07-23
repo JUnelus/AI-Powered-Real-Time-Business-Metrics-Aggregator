@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--22%2013%3A30%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--23%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-22 13:30:43**
+- Last refresh (UTC): **2026-07-23 13:31:00**
 - Tickers tracked: **20**
-- Average change: **+15.07%**
-- Median change: **+4.00%**
-- Top gainer: **LABT (+243.44%)**
-- Top loser: **CPHI (-69.94%)**
+- Average change: **-0.43%**
+- Median change: **-0.12%**
+- Top gainer: **CLF (+14.15%)**
+- Top loser: **STM (-17.35%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| LABT | Lakewood-Amedex Biotherapeutics | 6.39 | +243.44% |
-| CHAI | Core AI Holdings, Inc. | 0.60 | +53.69% |
-| INLF | INLIF LIMITED | 3.11 | +39.37% |
-| INM | InMed Pharmaceuticals Inc. | 2.12 | +37.66% |
-| AIRJ | AirJoule Technologies Corporati | 4.46 | +18.07% |
-| ARWR | Arrowhead Pharmaceuticals, Inc. | 86.84 | +16.50% |
-| SMCI | Super Micro Computer, Inc. | 28.96 | +13.57% |
-| AEHL | Antelope Enterprise Holdings Li | 0.69 | +6.95% |
-| DELL | Dell Technologies Inc. | 422.32 | +4.52% |
-| T | AT&T Inc. | 23.27 | +4.47% |
+| CLF | Cleveland-Cliffs Inc. | 10.79 | +14.15% |
+| TMO | Thermo Fisher Scientific Inc | 578.02 | +9.75% |
+| LMT | Lockheed Martin Corporation | 549.50 | +6.80% |
+| RTX | RTX Corporation | 204.96 | +5.22% |
+| DOW | Dow Inc. | 32.27 | +3.33% |
+| NOW | ServiceNow, Inc. | 98.09 | +2.76% |
+| HON | Honeywell International Inc. | 239.02 | +2.59% |
+| NDAQ | Nasdaq, Inc. | 93.21 | +2.54% |
+| TSCO | Tractor Supply Company | 29.82 | +1.55% |
+| CMCSA | Comcast Corporation | 23.59 | +0.28% |
 
 ### Daily Visuals
 
