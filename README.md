@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--23%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--24%2013%3A30%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-23 13:31:00**
+- Last refresh (UTC): **2026-07-24 13:30:26**
 - Tickers tracked: **20**
-- Average change: **-0.43%**
-- Median change: **-0.12%**
-- Top gainer: **CLF (+14.15%)**
-- Top loser: **STM (-17.35%)**
+- Average change: **+8.06%**
+- Median change: **+1.50%**
+- Top gainer: **VIVK (+68.94%)**
+- Top loser: **ZVRA (-26.36%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| CLF | Cleveland-Cliffs Inc. | 10.79 | +14.15% |
-| TMO | Thermo Fisher Scientific Inc | 578.02 | +9.75% |
-| LMT | Lockheed Martin Corporation | 549.50 | +6.80% |
-| RTX | RTX Corporation | 204.96 | +5.22% |
-| DOW | Dow Inc. | 32.27 | +3.33% |
-| NOW | ServiceNow, Inc. | 98.09 | +2.76% |
-| HON | Honeywell International Inc. | 239.02 | +2.59% |
-| NDAQ | Nasdaq, Inc. | 93.21 | +2.54% |
-| TSCO | Tractor Supply Company | 29.82 | +1.55% |
-| CMCSA | Comcast Corporation | 23.59 | +0.28% |
+| VIVK | Vivakor, Inc. | 3.58 | +68.94% |
+| LVWR | LiveWire Group, Inc. | 1.26 | +57.12% |
+| BNRG | Brenmiller Energy Ltd | 1.01 | +29.24% |
+| SKYQ | Sky Quarry Inc. | 6.64 | +17.73% |
+| WLDS | Wearable Devices Ltd. | 2.55 | +14.35% |
+| AMKR | Amkor Technology, Inc. | 71.50 | +9.44% |
+| SLB | SLB Limited | 50.35 | +6.73% |
+| MOBX | Mobix Labs, Inc. | 2.03 | +6.28% |
+| SAP | SAP  SE | 154.38 | +5.67% |
+| ORCL | Oracle Corporation | 122.56 | +2.10% |
 
 ### Daily Visuals
 
