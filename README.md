@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--24%2013%3A30%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--25%2013%3A29%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-24 13:30:26**
+- Last refresh (UTC): **2026-07-25 13:29:08**
 - Tickers tracked: **20**
-- Average change: **+8.06%**
-- Median change: **+1.50%**
-- Top gainer: **VIVK (+68.94%)**
-- Top loser: **ZVRA (-26.36%)**
+- Average change: **+1.07%**
+- Median change: **+0.05%**
+- Top gainer: **FRMI (+17.09%)**
+- Top loser: **BE (-14.91%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| VIVK | Vivakor, Inc. | 3.58 | +68.94% |
-| LVWR | LiveWire Group, Inc. | 1.26 | +57.12% |
-| BNRG | Brenmiller Energy Ltd | 1.01 | +29.24% |
-| SKYQ | Sky Quarry Inc. | 6.64 | +17.73% |
-| WLDS | Wearable Devices Ltd. | 2.55 | +14.35% |
-| AMKR | Amkor Technology, Inc. | 71.50 | +9.44% |
-| SLB | SLB Limited | 50.35 | +6.73% |
-| MOBX | Mobix Labs, Inc. | 2.03 | +6.28% |
-| SAP | SAP  SE | 154.38 | +5.67% |
-| ORCL | Oracle Corporation | 122.56 | +2.10% |
+| FRMI | Fermi Inc. | 7.40 | +17.09% |
+| DLR | Digital Realty Trust, Inc. | 199.08 | +11.01% |
+| OTLK | Outlook Therapeutics, Inc. | 1.41 | +6.44% |
+| ADBE | Adobe Inc. | 225.11 | +6.10% |
+| AAPL | Apple Inc. | 333.02 | +3.53% |
+| DOGE-USD | Dogecoin USD | 0.07 | +1.66% |
+| SCHD | Schwab US Dividend Equity ETF | 33.29 | +1.49% |
+| ^DJI | Dow Jones Industrial Average | 51947.25 | +0.46% |
+| ETH-USD | Ethereum USD | 1862.04 | +0.32% |
+| ^SPX | S&P 500 INDEX | 7411.98 | +0.05% |
 
 ### Daily Visuals
 

@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 8.062090751200001,
-  "median_change_pct": 1.4967755999999999,
-  "gainers": 13,
-  "losers": 7,
+  "avg_change_pct": 1.0730275517000003,
+  "median_change_pct": 0.04967639,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "VIVK",
-    "change_pct": 68.94119
+    "symbol": "FRMI",
+    "change_pct": 17.0886
   },
   "top_loser": {
-    "symbol": "ZVRA",
-    "change_pct": -26.357828
+    "symbol": "BE",
+    "change_pct": -14.9149
   },
-  "generated_at": "2026-07-24T13:30:26.137683+00:00"
+  "generated_at": "2026-07-25T13:29:08.943694+00:00"
 }
