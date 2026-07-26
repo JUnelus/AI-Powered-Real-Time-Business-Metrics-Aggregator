@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--25%2013%3A29%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--26%2013%3A28%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-25 13:29:08**
+- Last refresh (UTC): **2026-07-26 13:28:51**
 - Tickers tracked: **20**
-- Average change: **+1.07%**
-- Median change: **+0.05%**
-- Top gainer: **FRMI (+17.09%)**
-- Top loser: **BE (-14.91%)**
+- Average change: **+0.79%**
+- Median change: **+0.58%**
+- Top gainer: **SHIB-USD (+19.21%)**
+- Top loser: **AMAT (-4.72%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FRMI | Fermi Inc. | 7.40 | +17.09% |
-| DLR | Digital Realty Trust, Inc. | 199.08 | +11.01% |
-| OTLK | Outlook Therapeutics, Inc. | 1.41 | +6.44% |
-| ADBE | Adobe Inc. | 225.11 | +6.10% |
-| AAPL | Apple Inc. | 333.02 | +3.53% |
-| DOGE-USD | Dogecoin USD | 0.07 | +1.66% |
-| SCHD | Schwab US Dividend Equity ETF | 33.29 | +1.49% |
-| ^DJI | Dow Jones Industrial Average | 51947.25 | +0.46% |
-| ETH-USD | Ethereum USD | 1862.04 | +0.32% |
-| ^SPX | S&P 500 INDEX | 7411.98 | +0.05% |
+| SHIB-USD | Shiba Inu USD | 0.00 | +19.21% |
+| DOGE-USD | Dogecoin USD | 0.07 | +4.29% |
+| DIS | Walt Disney Company (The) | 94.85 | +2.18% |
+| MMM | 3M Company | 172.62 | +1.79% |
+| NKE | Nike, Inc. | 41.70 | +1.73% |
+| PEP | Pepsico, Inc. | 136.64 | +1.25% |
+| SOL-USD | Solana USD | 74.79 | +1.20% |
+| ETH-USD | Ethereum USD | 1883.66 | +0.97% |
+| ABBV | AbbVie Inc. | 259.36 | +0.95% |
+| GOOGL | Alphabet Inc. | 319.74 | +0.65% |
 
 ### Daily Visuals
 
