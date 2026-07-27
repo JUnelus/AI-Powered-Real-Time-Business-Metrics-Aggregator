@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--26%2013%3A28%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--27%2013%3A46%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-26 13:28:51**
+- Last refresh (UTC): **2026-07-27 13:46:55**
 - Tickers tracked: **20**
-- Average change: **+0.79%**
-- Median change: **+0.58%**
-- Top gainer: **SHIB-USD (+19.21%)**
-- Top loser: **AMAT (-4.72%)**
+- Average change: **+2.12%**
+- Median change: **+3.11%**
+- Top gainer: **LGHL (+76.28%)**
+- Top loser: **STAK (-71.05%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SHIB-USD | Shiba Inu USD | 0.00 | +19.21% |
-| DOGE-USD | Dogecoin USD | 0.07 | +4.29% |
-| DIS | Walt Disney Company (The) | 94.85 | +2.18% |
-| MMM | 3M Company | 172.62 | +1.79% |
-| NKE | Nike, Inc. | 41.70 | +1.73% |
-| PEP | Pepsico, Inc. | 136.64 | +1.25% |
-| SOL-USD | Solana USD | 74.79 | +1.20% |
-| ETH-USD | Ethereum USD | 1883.66 | +0.97% |
-| ABBV | AbbVie Inc. | 259.36 | +0.95% |
-| GOOGL | Alphabet Inc. | 319.74 | +0.65% |
+| LGHL | Lion Group Holding Ltd. | 1.60 | +76.28% |
+| DFNS | T3 Defense Inc. | 6.40 | +47.13% |
+| MTNB | Matinas Biopharma Holdings, Inc | 0.34 | +42.58% |
+| GMEX | GMEX ROBOTICS CORPORATION | 1.84 | +25.51% |
+| GOSS | Gossamer Bio, Inc. | 0.16 | +17.57% |
+| IONQ | IonQ, Inc. | 36.52 | +11.22% |
+| QBTS | D-Wave Quantum Inc. Common Stock | 19.12 | +6.44% |
+| ETH-USD | Ethereum USD | 1968.56 | +4.43% |
+| RKLB | Rocket Lab Corporation | 66.56 | +4.15% |
+| CXMT-USD | ChangXin Memory Technologies (Derivatives) USD | 6.76 | +3.89% |
 
 ### Daily Visuals
 

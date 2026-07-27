@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.7890539390000001,
-  "median_change_pct": 0.5840350750000001,
-  "gainers": 13,
-  "losers": 7,
+  "avg_change_pct": 2.1241522364999987,
+  "median_change_pct": 3.1112529,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "SHIB-USD",
-    "change_pct": 19.21297
+    "symbol": "LGHL",
+    "change_pct": 76.27678
   },
   "top_loser": {
-    "symbol": "AMAT",
-    "change_pct": -4.71748
+    "symbol": "STAK",
+    "change_pct": -71.05005
   },
-  "generated_at": "2026-07-26T13:28:51.989889+00:00"
+  "generated_at": "2026-07-27T13:46:55.922912+00:00"
 }
