@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--27%2013%3A46%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--28%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-27 13:46:55**
+- Last refresh (UTC): **2026-07-28 13:31:33**
 - Tickers tracked: **20**
-- Average change: **+2.12%**
-- Median change: **+3.11%**
-- Top gainer: **LGHL (+76.28%)**
-- Top loser: **STAK (-71.05%)**
+- Average change: **+3.00%**
+- Median change: **+0.89%**
+- Top gainer: **FIRY (+51.31%)**
+- Top loser: **GLW (-14.03%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| LGHL | Lion Group Holding Ltd. | 1.60 | +76.28% |
-| DFNS | T3 Defense Inc. | 6.40 | +47.13% |
-| MTNB | Matinas Biopharma Holdings, Inc | 0.34 | +42.58% |
-| GMEX | GMEX ROBOTICS CORPORATION | 1.84 | +25.51% |
-| GOSS | Gossamer Bio, Inc. | 0.16 | +17.57% |
-| IONQ | IonQ, Inc. | 36.52 | +11.22% |
-| QBTS | D-Wave Quantum Inc. Common Stock | 19.12 | +6.44% |
-| ETH-USD | Ethereum USD | 1968.56 | +4.43% |
-| RKLB | Rocket Lab Corporation | 66.56 | +4.15% |
-| CXMT-USD | ChangXin Memory Technologies (Derivatives) USD | 6.76 | +3.89% |
+| FIRY | Firy Inc. | 12.68 | +51.31% |
+| GOSS | Gossamer Bio, Inc. | 0.25 | +23.98% |
+| SOXS | Direxion Daily Semiconductor Be | 61.89 | +12.71% |
+| ALT | Altimmune, Inc. | 3.29 | +11.19% |
+| SHW | Sherwin-Williams Company (The) | 346.90 | +5.98% |
+| KO | Coca-Cola Company (The) | 86.98 | +3.42% |
+| PYPL | PayPal Holdings, Inc. | 57.48 | +2.52% |
+| CLS | Celestica, Inc. | 324.31 | +1.91% |
+| AMT | American Tower Corporation (REI | 169.69 | +1.81% |
+| JNJ | Johnson & Johnson | 270.53 | +1.71% |
 
 ### Daily Visuals
 

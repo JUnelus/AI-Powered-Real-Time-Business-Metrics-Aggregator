@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 2.1241522364999987,
-  "median_change_pct": 3.1112529,
-  "gainers": 16,
-  "losers": 4,
+  "avg_change_pct": 3.003431,
+  "median_change_pct": 0.88866885,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "LGHL",
-    "change_pct": 76.27678
+    "symbol": "FIRY",
+    "change_pct": 51.312653
   },
   "top_loser": {
-    "symbol": "STAK",
-    "change_pct": -71.05005
+    "symbol": "GLW",
+    "change_pct": -14.033496
   },
-  "generated_at": "2026-07-27T13:46:55.922912+00:00"
+  "generated_at": "2026-07-28T13:31:33.727607+00:00"
 }
