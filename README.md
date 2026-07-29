@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--28%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--29%2013%3A32%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-28 13:31:33**
+- Last refresh (UTC): **2026-07-29 13:32:24**
 - Tickers tracked: **20**
-- Average change: **+3.00%**
-- Median change: **+0.89%**
-- Top gainer: **FIRY (+51.31%)**
-- Top loser: **GLW (-14.03%)**
+- Average change: **+11.66%**
+- Median change: **+2.86%**
+- Top gainer: **NCRA (+132.87%)**
+- Top loser: **LMND (-22.04%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FIRY | Firy Inc. | 12.68 | +51.31% |
-| GOSS | Gossamer Bio, Inc. | 0.25 | +23.98% |
-| SOXS | Direxion Daily Semiconductor Be | 61.89 | +12.71% |
-| ALT | Altimmune, Inc. | 3.29 | +11.19% |
-| SHW | Sherwin-Williams Company (The) | 346.90 | +5.98% |
-| KO | Coca-Cola Company (The) | 86.98 | +3.42% |
-| PYPL | PayPal Holdings, Inc. | 57.48 | +2.52% |
-| CLS | Celestica, Inc. | 324.31 | +1.91% |
-| AMT | American Tower Corporation (REI | 169.69 | +1.81% |
-| JNJ | Johnson & Johnson | 270.53 | +1.71% |
+| NCRA | Nocera, Inc. | 3.33 | +132.87% |
+| AMIX | Autonomix Medical, Inc. | 4.81 | +74.91% |
+| VIVK | Vivakor, Inc. | 2.67 | +37.55% |
+| TER | Teradyne, Inc. | 362.52 | +13.06% |
+| APH | Amphenol Corporation | 157.15 | +9.13% |
+| TEVA | Teva Pharmaceutical Industries  | 34.35 | +8.53% |
+| GEHC | GE HealthCare Technologies Inc. | 69.48 | +8.38% |
+| BE | Bloom Energy Corporation | 177.99 | +6.63% |
+| GNRC | Generac Holdlings Inc. | 202.95 | +3.86% |
+| GRMN | Garmin Ltd. | 263.45 | +3.81% |
 
 ### Daily Visuals
 
