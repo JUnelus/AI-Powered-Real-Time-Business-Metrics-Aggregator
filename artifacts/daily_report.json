@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 11.6600030835,
-  "median_change_pct": 2.86094495,
-  "gainers": 12,
-  "losers": 8,
+  "avg_change_pct": 15.08974813,
+  "median_change_pct": 2.7688801,
+  "gainers": 13,
+  "losers": 7,
   "top_gainer": {
-    "symbol": "NCRA",
-    "change_pct": 132.86714
+    "symbol": "NUWE",
+    "change_pct": 220.64023
   },
   "top_loser": {
-    "symbol": "LMND",
-    "change_pct": -22.038256
+    "symbol": "ALNY",
+    "change_pct": -22.726955
   },
-  "generated_at": "2026-07-29T13:32:24.489116+00:00"
+  "generated_at": "2026-07-30T13:31:38.298090+00:00"
 }

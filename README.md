@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--29%2013%3A32%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--30%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-29 13:32:24**
+- Last refresh (UTC): **2026-07-30 13:31:38**
 - Tickers tracked: **20**
-- Average change: **+11.66%**
-- Median change: **+2.86%**
-- Top gainer: **NCRA (+132.87%)**
-- Top loser: **LMND (-22.04%)**
+- Average change: **+15.09%**
+- Median change: **+2.77%**
+- Top gainer: **NUWE (+220.64%)**
+- Top loser: **ALNY (-22.73%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| NCRA | Nocera, Inc. | 3.33 | +132.87% |
-| AMIX | Autonomix Medical, Inc. | 4.81 | +74.91% |
-| VIVK | Vivakor, Inc. | 2.67 | +37.55% |
-| TER | Teradyne, Inc. | 362.52 | +13.06% |
-| APH | Amphenol Corporation | 157.15 | +9.13% |
-| TEVA | Teva Pharmaceutical Industries  | 34.35 | +8.53% |
-| GEHC | GE HealthCare Technologies Inc. | 69.48 | +8.38% |
-| BE | Bloom Energy Corporation | 177.99 | +6.63% |
-| GNRC | Generac Holdlings Inc. | 202.95 | +3.86% |
-| GRMN | Garmin Ltd. | 263.45 | +3.81% |
+| NUWE | Nuwellis, Inc. | 6.06 | +220.64% |
+| XRX | Xerox Holdings Corporation | 3.50 | +32.52% |
+| PWR | Quanta Services, Inc. | 674.52 | +20.43% |
+| ARM | Arm Holdings plc | 262.45 | +16.69% |
+| NBIS | Nebius Group N.V. | 171.73 | +15.86% |
+| IDCC | InterDigital, Inc. | 298.86 | +14.44% |
+| IREN | IREN LIMITED | 33.50 | +14.30% |
+| MSFT | Microsoft Corporation | 437.75 | +12.09% |
+| CMG | Chipotle Mexican Grill, Inc. | 37.04 | +8.18% |
+| AMZN | Amazon.com, Inc. | 233.22 | +2.90% |
 
 ### Daily Visuals
 
