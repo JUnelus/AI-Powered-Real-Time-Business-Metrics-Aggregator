@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--30%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--31%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-30 13:31:38**
+- Last refresh (UTC): **2026-07-31 13:31:37**
 - Tickers tracked: **20**
-- Average change: **+15.09%**
-- Median change: **+2.77%**
-- Top gainer: **NUWE (+220.64%)**
-- Top loser: **ALNY (-22.73%)**
+- Average change: **+25.83%**
+- Median change: **+0.11%**
+- Top gainer: **WETO (+220.00%)**
+- Top loser: **RBLX (-18.80%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| NUWE | Nuwellis, Inc. | 6.06 | +220.64% |
-| XRX | Xerox Holdings Corporation | 3.50 | +32.52% |
-| PWR | Quanta Services, Inc. | 674.52 | +20.43% |
-| ARM | Arm Holdings plc | 262.45 | +16.69% |
-| NBIS | Nebius Group N.V. | 171.73 | +15.86% |
-| IDCC | InterDigital, Inc. | 298.86 | +14.44% |
-| IREN | IREN LIMITED | 33.50 | +14.30% |
-| MSFT | Microsoft Corporation | 437.75 | +12.09% |
-| CMG | Chipotle Mexican Grill, Inc. | 37.04 | +8.18% |
-| AMZN | Amazon.com, Inc. | 233.22 | +2.90% |
+| WETO | Wetour Robotics Limited | 0.10 | +220.00% |
+| MGRX | Mangoceuticals, Inc. | 0.71 | +141.84% |
+| REPL | Replimune Group, Inc. | 11.97 | +121.26% |
+| KUST | Kustom Entertainment, Inc. | 1.75 | +48.09% |
+| AXTI | AXT Inc | 67.27 | +43.30% |
+| AMZN | Amazon.com, Inc. | 263.51 | +11.89% |
+| ETN | Eaton Corporation, PLC | 413.14 | +6.74% |
+| JMKE | Jersey Mikes Subs Inc | 21.99 | +1.38% |
+| CVX | Chevron Corporation | 195.15 | +1.35% |
+| CCJ | Cameco Corporation | 89.34 | +1.31% |
 
 ### Daily Visuals
 
