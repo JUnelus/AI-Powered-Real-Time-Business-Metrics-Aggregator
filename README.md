@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--31%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--01%2013%3A28%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-07-31 13:31:37**
+- Last refresh (UTC): **2026-08-01 13:28:41**
 - Tickers tracked: **20**
-- Average change: **+25.83%**
-- Median change: **+0.11%**
-- Top gainer: **WETO (+220.00%)**
-- Top loser: **RBLX (-18.80%)**
+- Average change: **+26.44%**
+- Median change: **+0.16%**
+- Top gainer: **FCUV (+517.02%)**
+- Top loser: **T.TO (-11.27%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| WETO | Wetour Robotics Limited | 0.10 | +220.00% |
-| MGRX | Mangoceuticals, Inc. | 0.71 | +141.84% |
-| REPL | Replimune Group, Inc. | 11.97 | +121.26% |
-| KUST | Kustom Entertainment, Inc. | 1.75 | +48.09% |
-| AXTI | AXT Inc | 67.27 | +43.30% |
-| AMZN | Amazon.com, Inc. | 263.51 | +11.89% |
-| ETN | Eaton Corporation, PLC | 413.14 | +6.74% |
-| JMKE | Jersey Mikes Subs Inc | 21.99 | +1.38% |
-| CVX | Chevron Corporation | 195.15 | +1.35% |
-| CCJ | Cameco Corporation | 89.34 | +1.31% |
+| FCUV | Focus Universal Inc. | 11.60 | +517.02% |
+| AMBA | Ambarella, Inc. | 86.00 | +16.07% |
+| TLRY | Tilray Brands, Inc. | 4.54 | +8.10% |
+| ^TNX | CBOE Interest Rate 10 Year T No | 4.75 | +1.76% |
+| ^IXIC | NASDAQ Composite | 25373.85 | +1.00% |
+| FXAIX | Fidelity 500 Index Fund | 260.37 | +0.71% |
+| ^GSPC | S&P 500 | 7489.72 | +0.70% |
+| ^DJI | Dow Jones Industrial Average | 52485.03 | +0.53% |
+| BRK-B | Berkshire Hathaway Inc. New | 511.54 | +0.36% |
+| GFS | GlobalFoundries Inc. | 49.99 | +0.20% |
 
 ### Daily Visuals
 
