@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--01%2013%3A28%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--02%2013%3A28%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-01 13:28:41**
+- Last refresh (UTC): **2026-08-02 13:28:40**
 - Tickers tracked: **20**
-- Average change: **+26.44%**
-- Median change: **+0.16%**
-- Top gainer: **FCUV (+517.02%)**
-- Top loser: **T.TO (-11.27%)**
+- Average change: **+1.61%**
+- Median change: **+0.01%**
+- Top gainer: **000660.KS (+29.95%)**
+- Top loser: **NNE (-4.62%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FCUV | Focus Universal Inc. | 11.60 | +517.02% |
-| AMBA | Ambarella, Inc. | 86.00 | +16.07% |
-| TLRY | Tilray Brands, Inc. | 4.54 | +8.10% |
-| ^TNX | CBOE Interest Rate 10 Year T No | 4.75 | +1.76% |
-| ^IXIC | NASDAQ Composite | 25373.85 | +1.00% |
-| FXAIX | Fidelity 500 Index Fund | 260.37 | +0.71% |
-| ^GSPC | S&P 500 | 7489.72 | +0.70% |
-| ^DJI | Dow Jones Industrial Average | 52485.03 | +0.53% |
-| BRK-B | Berkshire Hathaway Inc. New | 511.54 | +0.36% |
+| 000660.KS | SK hynix | 1718000.00 | +29.95% |
+| ADA-USD | Cardano USD | 0.19 | +9.21% |
+| IONQ | IonQ, Inc. | 36.44 | +1.87% |
+| AMC | AMC Entertainment Holdings, Inc | 2.82 | +1.81% |
+| XRP-USD | XRP USD | 1.08 | +1.60% |
+| CL=F | Crude Oil Sep 26 | 84.67 | +1.29% |
+| NOK | Nokia Corporation Sponsored | 9.14 | +0.55% |
 | GFS | GlobalFoundries Inc. | 49.99 | +0.20% |
+| BTC-USD | Bitcoin USD | 63047.99 | +0.06% |
+| SOL-USD | Solana USD | 72.93 | +0.03% |
 
 ### Daily Visuals
 
