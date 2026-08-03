@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--02%2013%3A28%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--03%2013%3A50%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-02 13:28:40**
+- Last refresh (UTC): **2026-08-03 13:50:28**
 - Tickers tracked: **20**
-- Average change: **+1.61%**
-- Median change: **+0.01%**
-- Top gainer: **000660.KS (+29.95%)**
-- Top loser: **NNE (-4.62%)**
+- Average change: **+2.60%**
+- Median change: **+0.98%**
+- Top gainer: **FCUV (+30.60%)**
+- Top loser: **GME (-10.68%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| 000660.KS | SK hynix | 1718000.00 | +29.95% |
-| ADA-USD | Cardano USD | 0.19 | +9.21% |
-| IONQ | IonQ, Inc. | 36.44 | +1.87% |
-| AMC | AMC Entertainment Holdings, Inc | 2.82 | +1.81% |
-| XRP-USD | XRP USD | 1.08 | +1.60% |
-| CL=F | Crude Oil Sep 26 | 84.67 | +1.29% |
-| NOK | Nokia Corporation Sponsored | 9.14 | +0.55% |
-| GFS | GlobalFoundries Inc. | 49.99 | +0.20% |
-| BTC-USD | Bitcoin USD | 63047.99 | +0.06% |
-| SOL-USD | Solana USD | 72.93 | +0.03% |
+| FCUV | Focus Universal Inc. | 15.15 | +30.60% |
+| YYAI | AiRWA Inc. | 0.15 | +22.75% |
+| NOW | ServiceNow, Inc. | 119.16 | +7.13% |
+| TLRY | Tilray Brands, Inc. | 4.82 | +6.17% |
+| BABA | Alibaba Group Holding Limited | 128.87 | +5.41% |
+| AMC | AMC Entertainment Holdings, Inc | 2.97 | +5.32% |
+| SNAP | Snap Inc. | 4.93 | +5.11% |
+| CRM | Salesforce, Inc. | 193.20 | +4.99% |
+| PLTR | Palantir Technologies Inc. | 126.00 | +2.39% |
+| YM=F | Mini Dow Jones Indus.-$5 Sep 26 | 53246.00 | +1.16% |
 
 ### Daily Visuals
 

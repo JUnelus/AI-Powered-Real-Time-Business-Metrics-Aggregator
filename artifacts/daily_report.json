@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 1.6139279468999999,
-  "median_change_pct": 0.008581093000000001,
-  "gainers": 10,
-  "losers": 10,
+  "avg_change_pct": 2.604997525,
+  "median_change_pct": 0.9823427,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "000660.KS",
-    "change_pct": 29.954615
+    "symbol": "FCUV",
+    "change_pct": 30.603441
   },
   "top_loser": {
-    "symbol": "NNE",
-    "change_pct": -4.61631
+    "symbol": "GME",
+    "change_pct": -10.67894
   },
-  "generated_at": "2026-08-02T13:28:40.179740+00:00"
+  "generated_at": "2026-08-03T13:50:28.571297+00:00"
 }
