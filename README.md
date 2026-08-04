@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--03%2013%3A50%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--04%2013%3A32%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-03 13:50:28**
+- Last refresh (UTC): **2026-08-04 13:32:00**
 - Tickers tracked: **20**
-- Average change: **+2.60%**
-- Median change: **+0.98%**
-- Top gainer: **FCUV (+30.60%)**
-- Top loser: **GME (-10.68%)**
+- Average change: **+12.25%**
+- Median change: **+6.82%**
+- Top gainer: **TNMG (+126.52%)**
+- Top loser: **CIFR (-11.73%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FCUV | Focus Universal Inc. | 15.15 | +30.60% |
-| YYAI | AiRWA Inc. | 0.15 | +22.75% |
-| NOW | ServiceNow, Inc. | 119.16 | +7.13% |
-| TLRY | Tilray Brands, Inc. | 4.82 | +6.17% |
-| BABA | Alibaba Group Holding Limited | 128.87 | +5.41% |
-| AMC | AMC Entertainment Holdings, Inc | 2.97 | +5.32% |
-| SNAP | Snap Inc. | 4.93 | +5.11% |
-| CRM | Salesforce, Inc. | 193.20 | +4.99% |
-| PLTR | Palantir Technologies Inc. | 126.00 | +2.39% |
-| YM=F | Mini Dow Jones Indus.-$5 Sep 26 | 53246.00 | +1.16% |
+| TNMG | TNL Mediagene | 0.81 | +126.52% |
+| ENSC | Ensysce Biosciences, Inc. | 0.40 | +42.81% |
+| PLTR | Palantir Technologies Inc. | 146.71 | +16.76% |
+| AAOI | Applied Optoelectronics, Inc. | 125.27 | +13.66% |
+| POET | POET Technologies Inc. | 8.32 | +13.04% |
+| CAT | Caterpillar, Inc. | 926.53 | +11.51% |
+| COHR | Coherent Corp. | 318.15 | +10.34% |
+| SNAP | Snap Inc. | 5.54 | +9.70% |
+| MRVL | Marvell Technology, Inc. | 212.16 | +9.49% |
+| GRAB | Grab Holdings Limited | 3.93 | +7.20% |
 
 ### Daily Visuals
 
