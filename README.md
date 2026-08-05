@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--04%2013%3A32%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--05%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-04 13:32:00**
+- Last refresh (UTC): **2026-08-05 13:31:51**
 - Tickers tracked: **20**
-- Average change: **+12.25%**
-- Median change: **+6.82%**
-- Top gainer: **TNMG (+126.52%)**
-- Top loser: **CIFR (-11.73%)**
+- Average change: **-0.21%**
+- Median change: **-0.76%**
+- Top gainer: **BJDX (+45.00%)**
+- Top loser: **AMIX (-29.90%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| TNMG | TNL Mediagene | 0.81 | +126.52% |
-| ENSC | Ensysce Biosciences, Inc. | 0.40 | +42.81% |
-| PLTR | Palantir Technologies Inc. | 146.71 | +16.76% |
-| AAOI | Applied Optoelectronics, Inc. | 125.27 | +13.66% |
-| POET | POET Technologies Inc. | 8.32 | +13.04% |
-| CAT | Caterpillar, Inc. | 926.53 | +11.51% |
-| COHR | Coherent Corp. | 318.15 | +10.34% |
-| SNAP | Snap Inc. | 5.54 | +9.70% |
-| MRVL | Marvell Technology, Inc. | 212.16 | +9.49% |
-| GRAB | Grab Holdings Limited | 3.93 | +7.20% |
+| BJDX | Bluejay Diagnostics, Inc. | 1.45 | +45.00% |
+| SHOP | Shopify Inc. | 150.43 | +22.00% |
+| ANET | Arista Networks, Inc. | 214.34 | +12.48% |
+| LLY | Eli Lilly and Company | 1197.83 | +7.32% |
+| ZETA | Zeta Global Holdings Corp. | 25.59 | +5.48% |
+| DIS | Walt Disney Company (The) | 101.87 | +3.76% |
+| SHAK | Shake Shack, Inc. | 68.25 | +2.94% |
+| GPN | Global Payments Inc. | 90.47 | +2.51% |
+| NVO | Novo Nordisk A/S | 45.20 | +2.11% |
+| BTC-USD | Bitcoin USD | 64007.93 | +0.61% |
 
 ### Daily Visuals
 
