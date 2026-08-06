@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--05%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--06%2013%3A31%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-05 13:31:51**
+- Last refresh (UTC): **2026-08-06 13:31:38**
 - Tickers tracked: **20**
-- Average change: **-0.21%**
-- Median change: **-0.76%**
-- Top gainer: **BJDX (+45.00%)**
-- Top loser: **AMIX (-29.90%)**
+- Average change: **+11.79%**
+- Median change: **-3.78%**
+- Top gainer: **CLRO (+216.76%)**
+- Top loser: **WDC (-20.00%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BJDX | Bluejay Diagnostics, Inc. | 1.45 | +45.00% |
-| SHOP | Shopify Inc. | 150.43 | +22.00% |
-| ANET | Arista Networks, Inc. | 214.34 | +12.48% |
-| LLY | Eli Lilly and Company | 1197.83 | +7.32% |
-| ZETA | Zeta Global Holdings Corp. | 25.59 | +5.48% |
-| DIS | Walt Disney Company (The) | 101.87 | +3.76% |
-| SHAK | Shake Shack, Inc. | 68.25 | +2.94% |
-| GPN | Global Payments Inc. | 90.47 | +2.51% |
-| NVO | Novo Nordisk A/S | 45.20 | +2.11% |
-| BTC-USD | Bitcoin USD | 64007.93 | +0.61% |
+| CLRO | ClearOne, Inc. | 11.91 | +216.76% |
+| PAVS | Paranovus Entertainment Technol | 8.23 | +67.62% |
+| IOVA | Iovance Biotherapeutics, Inc. | 6.24 | +43.66% |
+| SOUN | SoundHound AI, Inc. | 7.86 | +22.16% |
+| U | Unity Software Inc. | 37.17 | +4.82% |
+| CEG | Constellation Energy Corporatio | 276.51 | +4.30% |
+| COP | ConocoPhillips | 118.19 | +2.73% |
+| IONQ | IonQ, Inc. | 40.84 | +2.36% |
+| WBD | Warner Bros. Discovery, Inc. -  | 26.24 | +1.04% |
+| BTC-USD | Bitcoin USD | 64130.81 | -0.36% |
 
 ### Daily Visuals
 

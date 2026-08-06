@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -0.209565875,
-  "median_change_pct": -0.7568141499999999,
-  "gainers": 10,
-  "losers": 10,
+  "avg_change_pct": 11.794640513500001,
+  "median_change_pct": -3.782553265,
+  "gainers": 9,
+  "losers": 11,
   "top_gainer": {
-    "symbol": "BJDX",
-    "change_pct": 45.000004
+    "symbol": "CLRO",
+    "change_pct": 216.7553
   },
   "top_loser": {
-    "symbol": "AMIX",
-    "change_pct": -29.904615
+    "symbol": "WDC",
+    "change_pct": -19.997301
   },
-  "generated_at": "2026-08-05T13:31:51.850167+00:00"
+  "generated_at": "2026-08-06T13:31:38.818342+00:00"
 }
