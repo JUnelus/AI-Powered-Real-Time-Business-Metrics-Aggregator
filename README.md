@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--06%2013%3A31%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--07%2013%3A26%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-06 13:31:38**
+- Last refresh (UTC): **2026-08-07 13:26:00**
 - Tickers tracked: **20**
-- Average change: **+11.79%**
-- Median change: **-3.78%**
-- Top gainer: **CLRO (+216.76%)**
-- Top loser: **WDC (-20.00%)**
+- Average change: **-0.83%**
+- Median change: **-1.37%**
+- Top gainer: **HTZ (+29.49%)**
+- Top loser: **NBIS (-13.29%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| CLRO | ClearOne, Inc. | 11.91 | +216.76% |
-| PAVS | Paranovus Entertainment Technol | 8.23 | +67.62% |
-| IOVA | Iovance Biotherapeutics, Inc. | 6.24 | +43.66% |
-| SOUN | SoundHound AI, Inc. | 7.86 | +22.16% |
-| U | Unity Software Inc. | 37.17 | +4.82% |
-| CEG | Constellation Energy Corporatio | 276.51 | +4.30% |
-| COP | ConocoPhillips | 118.19 | +2.73% |
-| IONQ | IonQ, Inc. | 40.84 | +2.36% |
-| WBD | Warner Bros. Discovery, Inc. -  | 26.24 | +1.04% |
-| BTC-USD | Bitcoin USD | 64130.81 | -0.36% |
+| HTZ | Hertz Global Holdings, Inc | 2.02 | +29.49% |
+| SEZL | Sezzle Inc. | 178.53 | +2.37% |
+| BTC-USD | Bitcoin USD | 65124.99 | +1.20% |
+| ETH-USD | Ethereum USD | 1925.65 | +1.06% |
+| VST | Vistra Corp. | 141.38 | +0.57% |
+| TWLO | Twilio Inc. | 193.20 | -0.01% |
+| ABNB | Airbnb, Inc. | 151.64 | -0.56% |
+| XRP-USD | XRP USD | 1.04 | -0.70% |
+| MP | MP Materials Corp. | 47.49 | -0.88% |
+| TTWO | Take-Two Interactive Software,  | 232.47 | -1.04% |
 
 ### Daily Visuals
 
