@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -0.8293983469999999,
-  "median_change_pct": -1.3740500999999998,
-  "gainers": 5,
-  "losers": 15,
+  "avg_change_pct": 7.157452126,
+  "median_change_pct": 1.1983272,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "HTZ",
-    "change_pct": 29.4872
+    "symbol": "WWR",
+    "change_pct": 87.7631
   },
   "top_loser": {
-    "symbol": "NBIS",
-    "change_pct": -13.2928
+    "symbol": "ZTS",
+    "change_pct": -5.96608
   },
-  "generated_at": "2026-08-07T13:26:00.875111+00:00"
+  "generated_at": "2026-08-08T13:18:05.724064+00:00"
 }

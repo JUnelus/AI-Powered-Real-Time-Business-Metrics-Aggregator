@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--07%2013%3A26%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--08%2013%3A18%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-07 13:26:00**
+- Last refresh (UTC): **2026-08-08 13:18:05**
 - Tickers tracked: **20**
-- Average change: **-0.83%**
-- Median change: **-1.37%**
-- Top gainer: **HTZ (+29.49%)**
-- Top loser: **NBIS (-13.29%)**
+- Average change: **+7.16%**
+- Median change: **+1.20%**
+- Top gainer: **WWR (+87.76%)**
+- Top loser: **ZTS (-5.97%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| HTZ | Hertz Global Holdings, Inc | 2.02 | +29.49% |
-| SEZL | Sezzle Inc. | 178.53 | +2.37% |
-| BTC-USD | Bitcoin USD | 65124.99 | +1.20% |
-| ETH-USD | Ethereum USD | 1925.65 | +1.06% |
-| VST | Vistra Corp. | 141.38 | +0.57% |
-| TWLO | Twilio Inc. | 193.20 | -0.01% |
-| ABNB | Airbnb, Inc. | 151.64 | -0.56% |
-| XRP-USD | XRP USD | 1.04 | -0.70% |
-| MP | MP Materials Corp. | 47.49 | -0.88% |
-| TTWO | Take-Two Interactive Software,  | 232.47 | -1.04% |
+| WWR | Westwater Resources, Inc. | 0.77 | +87.76% |
+| TEM | Tempus AI, Inc. | 52.05 | +12.86% |
+| PLTR | Palantir Technologies Inc. | 172.01 | +10.32% |
+| QS | QuantumScape Corporation | 6.08 | +9.95% |
+| AVAV | AeroVironment, Inc. | 186.73 | +9.12% |
+| ABCL | AbCellera Biologics Inc. | 6.93 | +6.13% |
+| PLUG | Plug Power, Inc. | 2.18 | +5.31% |
+| DJT | Trump Media & Technology Group  | 10.21 | +3.24% |
+| SOL-USD | Solana USD | 75.45 | +1.85% |
+| ^IXIC | NASDAQ Composite | 26690.62 | +1.30% |
 
 ### Daily Visuals
 
