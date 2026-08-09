@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--08%2013%3A18%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--09%2013%3A19%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-08 13:18:05**
+- Last refresh (UTC): **2026-08-09 13:19:14**
 - Tickers tracked: **20**
-- Average change: **+7.16%**
-- Median change: **+1.20%**
-- Top gainer: **WWR (+87.76%)**
-- Top loser: **ZTS (-5.97%)**
+- Average change: **+1.12%**
+- Median change: **+0.66%**
+- Top gainer: **SMCI (+5.96%)**
+- Top loser: **GOOGL (-0.96%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| WWR | Westwater Resources, Inc. | 0.77 | +87.76% |
-| TEM | Tempus AI, Inc. | 52.05 | +12.86% |
-| PLTR | Palantir Technologies Inc. | 172.01 | +10.32% |
-| QS | QuantumScape Corporation | 6.08 | +9.95% |
-| AVAV | AeroVironment, Inc. | 186.73 | +9.12% |
-| ABCL | AbCellera Biologics Inc. | 6.93 | +6.13% |
-| PLUG | Plug Power, Inc. | 2.18 | +5.31% |
-| DJT | Trump Media & Technology Group  | 10.21 | +3.24% |
-| SOL-USD | Solana USD | 75.45 | +1.85% |
-| ^IXIC | NASDAQ Composite | 26690.62 | +1.30% |
+| SMCI | Super Micro Computer, Inc. | 31.13 | +5.96% |
+| ONDS | Ondas Inc | 9.11 | +4.23% |
+| RIVN | Rivian Automotive, Inc. | 16.00 | +4.03% |
+| NIO | NIO Inc. | 4.74 | +3.04% |
+| AMAT | Applied Materials, Inc. | 539.14 | +2.21% |
+| SOL-USD | Solana USD | 76.69 | +1.59% |
+| BABA | Alibaba Group Holding Limited | 128.41 | +1.26% |
+| PANW | Palo Alto Networks, Inc. | 363.86 | +1.22% |
+| CL=F | Crude Oil Sep 26 | 78.18 | +1.15% |
+| LMT | Lockheed Martin Corporation | 587.95 | +0.88% |
 
 ### Daily Visuals
 
