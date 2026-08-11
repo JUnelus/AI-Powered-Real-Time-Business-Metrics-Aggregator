@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--10%2013%3A27%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--11%2013%3A26%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-10 13:27:47**
+- Last refresh (UTC): **2026-08-11 13:26:41**
 - Tickers tracked: **20**
-- Average change: **+0.77%**
-- Median change: **+2.01%**
-- Top gainer: **ZJYL (+11.98%)**
-- Top loser: **STKH (-26.27%)**
+- Average change: **-1.26%**
+- Median change: **-3.26%**
+- Top gainer: **FSLY (+20.86%)**
+- Top loser: **MREO (-8.07%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ZJYL | JIN MEDICAL INTERNATIONAL LTD. | 2.15 | +11.98% |
-| ACHR | Archer Aviation Inc. | 5.59 | +6.88% |
-| MNDY | monday.com Ltd. | 93.13 | +6.35% |
-| ABCL | AbCellera Biologics Inc. | 6.93 | +6.13% |
-| SMCI | Super Micro Computer, Inc. | 31.13 | +5.96% |
-| B | Barrick Mining Corporation | 43.68 | +5.58% |
-| PLUG | Plug Power, Inc. | 2.18 | +5.31% |
-| SION | Sionna Therapeutics, Inc. | 51.04 | +2.88% |
-| VRTX | Vertex Pharmaceuticals Incorpor | 496.07 | +2.49% |
-| MPT | Medical Properties Trust, Inc. | 4.70 | +2.17% |
+| FSLY | Fastly, Inc. | 27.75 | +20.86% |
+| OGI | Organigram Global Inc. | 1.05 | +6.06% |
+| ONON | On Holding AG | 38.78 | +3.28% |
+| SE | Sea Limited | 114.80 | +1.21% |
+| HIMS | Hims & Hers Health, Inc. | 31.77 | +0.57% |
+| CAH | Cardinal Health, Inc. | 237.18 | +0.33% |
+| ETH-USD | Ethereum USD | 1883.14 | -0.66% |
+| FRTT | Fort Technology Inc. | 0.98 | -1.87% |
+| XRP-USD | XRP USD | 1.01 | -1.95% |
+| AIHS | Senmiao Technology Limited | 1.50 | -3.23% |
 
 ### Daily Visuals
 
