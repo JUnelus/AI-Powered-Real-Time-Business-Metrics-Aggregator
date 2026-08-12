@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--11%2013%3A26%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--12%2013%3A28%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-11 13:26:41**
+- Last refresh (UTC): **2026-08-12 13:28:05**
 - Tickers tracked: **20**
-- Average change: **-1.26%**
-- Median change: **-3.26%**
-- Top gainer: **FSLY (+20.86%)**
-- Top loser: **MREO (-8.07%)**
+- Average change: **-0.41%**
+- Median change: **+0.99%**
+- Top gainer: **NBIS (+4.95%)**
+- Top loser: **RMCF (-13.84%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FSLY | Fastly, Inc. | 27.75 | +20.86% |
-| OGI | Organigram Global Inc. | 1.05 | +6.06% |
-| ONON | On Holding AG | 38.78 | +3.28% |
-| SE | Sea Limited | 114.80 | +1.21% |
-| HIMS | Hims & Hers Health, Inc. | 31.77 | +0.57% |
-| CAH | Cardinal Health, Inc. | 237.18 | +0.33% |
-| ETH-USD | Ethereum USD | 1883.14 | -0.66% |
-| FRTT | Fort Technology Inc. | 0.98 | -1.87% |
-| XRP-USD | XRP USD | 1.01 | -1.95% |
-| AIHS | Senmiao Technology Limited | 1.50 | -3.23% |
+| NBIS | Nebius Group N.V. | 193.23 | +4.95% |
+| CHOW | ChowChow Cloud International Ho | 0.35 | +4.12% |
+| NOK | Nokia Corporation Sponsored | 9.44 | +3.40% |
+| BAOS | Baosheng Media Group Holdings L | 0.73 | +3.15% |
+| TE | T1 Energy Inc. | 5.47 | +3.01% |
+| IREN | IREN LIMITED | 39.75 | +2.61% |
+| WYFI | WhiteFiber, Inc. | 24.22 | +2.54% |
+| CRWV | CoreWeave, Inc. | 90.32 | +2.42% |
+| APLD | Applied Digital Corporation | 29.69 | +2.17% |
+| NQ=F | Nasdaq 100 Sep 26 | 29954.25 | +1.11% |
 
 ### Daily Visuals
 
