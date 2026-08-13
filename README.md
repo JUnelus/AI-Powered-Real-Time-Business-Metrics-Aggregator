@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--12%2013%3A28%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--13%2013%3A28%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-12 13:28:05**
+- Last refresh (UTC): **2026-08-13 13:28:18**
 - Tickers tracked: **20**
-- Average change: **-0.41%**
-- Median change: **+0.99%**
-- Top gainer: **NBIS (+4.95%)**
-- Top loser: **RMCF (-13.84%)**
+- Average change: **+3.53%**
+- Median change: **-0.05%**
+- Top gainer: **IVDA (+26.20%)**
+- Top loser: **TPR (-4.24%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| NBIS | Nebius Group N.V. | 193.23 | +4.95% |
-| CHOW | ChowChow Cloud International Ho | 0.35 | +4.12% |
-| NOK | Nokia Corporation Sponsored | 9.44 | +3.40% |
-| BAOS | Baosheng Media Group Holdings L | 0.73 | +3.15% |
-| TE | T1 Energy Inc. | 5.47 | +3.01% |
-| IREN | IREN LIMITED | 39.75 | +2.61% |
-| WYFI | WhiteFiber, Inc. | 24.22 | +2.54% |
-| CRWV | CoreWeave, Inc. | 90.32 | +2.42% |
-| APLD | Applied Digital Corporation | 29.69 | +2.17% |
-| NQ=F | Nasdaq 100 Sep 26 | 29954.25 | +1.11% |
+| IVDA | Iveda Solutions, Inc. | 0.37 | +26.20% |
+| ADYEN.AS | ADYEN | 1071.40 | +17.74% |
+| CBRS | Cerebras Systems Inc. | 262.06 | +11.63% |
+| DELL | Dell Technologies Inc. | 484.50 | +9.87% |
+| HPE | Hewlett Packard Enterprise Comp | 58.79 | +8.11% |
+| FGI | FGI Industries Ltd. | 4.73 | +3.96% |
+| CAKE | The Cheesecake Factory Incorpor | 117.29 | +3.74% |
+| CSCO | Cisco Systems, Inc. | 123.88 | +2.86% |
+| LUNR | Intuitive Machines, Inc. | 16.95 | +2.85% |
+| ONDS | Ondas Inc | 9.77 | +0.31% |
 
 ### Daily Visuals
 
