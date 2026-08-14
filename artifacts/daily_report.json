@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 3.5300846550000005,
-  "median_change_pct": -0.051668099999999995,
-  "gainers": 10,
-  "losers": 10,
+  "avg_change_pct": 7.2161590129999995,
+  "median_change_pct": 1.1592388,
+  "gainers": 13,
+  "losers": 7,
   "top_gainer": {
-    "symbol": "IVDA",
-    "change_pct": 26.2003
+    "symbol": "DFSC",
+    "change_pct": 86.2903
   },
   "top_loser": {
-    "symbol": "TPR",
-    "change_pct": -4.2357
+    "symbol": "WETO",
+    "change_pct": -11.0837
   },
-  "generated_at": "2026-08-13T13:28:18.552907+00:00"
+  "generated_at": "2026-08-14T13:26:23.315231+00:00"
 }

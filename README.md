@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--13%2013%3A28%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--14%2013%3A26%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-13 13:28:18**
+- Last refresh (UTC): **2026-08-14 13:26:23**
 - Tickers tracked: **20**
-- Average change: **+3.53%**
-- Median change: **-0.05%**
-- Top gainer: **IVDA (+26.20%)**
-- Top loser: **TPR (-4.24%)**
+- Average change: **+7.22%**
+- Median change: **+1.16%**
+- Top gainer: **DFSC (+86.29%)**
+- Top loser: **WETO (-11.08%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| IVDA | Iveda Solutions, Inc. | 0.37 | +26.20% |
-| ADYEN.AS | ADYEN | 1071.40 | +17.74% |
-| CBRS | Cerebras Systems Inc. | 262.06 | +11.63% |
-| DELL | Dell Technologies Inc. | 484.50 | +9.87% |
-| HPE | Hewlett Packard Enterprise Comp | 58.79 | +8.11% |
-| FGI | FGI Industries Ltd. | 4.73 | +3.96% |
-| CAKE | The Cheesecake Factory Incorpor | 117.29 | +3.74% |
-| CSCO | Cisco Systems, Inc. | 123.88 | +2.86% |
-| LUNR | Intuitive Machines, Inc. | 16.95 | +2.85% |
-| ONDS | Ondas Inc | 9.77 | +0.31% |
+| DFSC | DEFSEC Technologies Inc. | 2.31 | +86.29% |
+| SNXX | Tradr 2X Long SNDK Daily ETF | 14.09 | +27.28% |
+| WDAY | Workday, Inc. | 206.45 | +17.78% |
+| SNDK | Sandisk Corporation | 1528.11 | +13.67% |
+| WDC | Western Digital Corporation | 487.29 | +7.31% |
+| MU | Micron Technology, Inc. | 949.83 | +4.23% |
+| RDDT | Reddit, Inc. | 158.12 | +3.04% |
+| ABNB | Airbnb, Inc. | 185.13 | +2.80% |
+| NU | Nu Holdings Ltd. | 13.93 | +2.73% |
+| ARKK | ARK Innovation ETF | 82.59 | +1.50% |
 
 ### Daily Visuals
 
