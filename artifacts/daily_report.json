@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 7.2161590129999995,
-  "median_change_pct": 1.1592388,
+  "avg_change_pct": 3.0609737425,
+  "median_change_pct": 0.72007443,
   "gainers": 13,
   "losers": 7,
   "top_gainer": {
-    "symbol": "DFSC",
-    "change_pct": 86.2903
+    "symbol": "NLST",
+    "change_pct": 18.54839
   },
   "top_loser": {
-    "symbol": "WETO",
-    "change_pct": -11.0837
+    "symbol": "AVGO",
+    "change_pct": -5.94275
   },
-  "generated_at": "2026-08-14T13:26:23.315231+00:00"
+  "generated_at": "2026-08-15T13:11:06.350343+00:00"
 }
