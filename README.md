@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--15%2013%3A11%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--16%2013%3A11%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,25 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-15 13:11:06**
-- Tickers tracked: **20**
-- Average change: **+3.06%**
-- Median change: **+0.72%**
-- Top gainer: **NLST (+18.55%)**
-- Top loser: **AVGO (-5.94%)**
+- Last refresh (UTC): **2026-08-16 13:11:36**
+- Tickers tracked: **8**
+- Average change: **-0.92%**
+- Median change: **-0.13%**
+- Top gainer: **TEST (+0.19%)**
+- Top loser: **PATH (-4.02%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| NLST | Netlist, Inc. | 5.88 | +18.55% |
-| WING | Wingstop Inc. | 126.12 | +11.05% |
-| BYND | Beyond Meat, Inc. | 13.47 | +10.32% |
-| IOVA | Iovance Biotherapeutics, Inc. | 6.98 | +7.06% |
-| LINK-USD | Chainlink USD | 9.45 | +7.02% |
-| KEEL | Keel Infrastructure Corp. | 3.51 | +6.04% |
-| EPD | Enterprise Products Partners L. | 38.90 | +2.31% |
-| DIS | Walt Disney Company (The) | 106.85 | +1.96% |
-| PYPL | PayPal Holdings, Inc. | 61.66 | +1.77% |
-| PDD | PDD Holdings Inc. | 84.79 | +0.74% |
+| TEST | YieldMax TSLA Performance & Dis | 36.88 | +0.19% |
+| BTC-USD | Bitcoin USD | 62999.10 | +0.02% |
+| QQQI | NEOS Nasdaq 100 High Income ETF | 55.79 | +0.02% |
+| ETH-USD | Ethereum USD | 1879.08 | -0.13% |
+| XRP-USD | XRP USD | 1.00 | -0.13% |
+| WMT | Walmart Inc. | 115.27 | -0.39% |
+| TTD | The Trade Desk, Inc. | 14.14 | -2.88% |
+| PATH | UiPath, Inc. | 16.01 | -4.02% |
 
 ### Daily Visuals
 
