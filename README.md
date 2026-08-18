@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--17%2013%3A15%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--18%2013%3A16%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-17 13:15:04**
+- Last refresh (UTC): **2026-08-18 13:16:16**
 - Tickers tracked: **20**
-- Average change: **+1.99%**
-- Median change: **+1.09%**
-- Top gainer: **TRUG (+11.24%)**
-- Top loser: **AVGO (-5.94%)**
+- Average change: **+16.26%**
+- Median change: **-0.33%**
+- Top gainer: **WETO (+199.15%)**
+- Top loser: **SGLY (-8.74%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| TRUG | TruGolf Holdings, Inc. | 0.97 | +11.24% |
-| EYPT | EyePoint, Inc. | 14.75 | +9.42% |
-| AMD | Advanced Micro Devices, Inc. | 514.39 | +6.50% |
-| KEEL | Keel Infrastructure Corp. | 3.51 | +6.04% |
-| HIVE | HIVE Digital Technologies Ltd | 2.69 | +4.26% |
-| VIST | Vista Energy S.A.B. de C.V. | 68.31 | +3.20% |
-| SNAP | Snap Inc. | 5.41 | +2.08% |
-| FIEE | FiEE, Inc | 5.00 | +1.63% |
-| BABA | Alibaba Group Holding Limited | 123.81 | +1.35% |
-| LHX | L3Harris Technologies, Inc. | 291.82 | +1.16% |
+| WETO | Wetour Robotics Limited | 24.59 | +199.15% |
+| OSRH | OSR Health, Inc. | 0.59 | +86.71% |
+| WFF | WF Holding Limited | 2.02 | +40.28% |
+| PFSA | Profusa, Inc. | 4.53 | +26.96% |
+| FN | Fabrinet | 598.58 | +4.97% |
+| DVLT | Datavault AI Inc. | 0.32 | +0.72% |
+| BIDU | Baidu, Inc. | 104.12 | +0.43% |
+| ENRD | Einride AB | 6.16 | +0.33% |
+| XOS | Xos, Inc. | 2.09 | -0.24% |
+| HD | Home Depot, Inc. (The) | 337.88 | -0.29% |
 
 ### Daily Visuals
 
