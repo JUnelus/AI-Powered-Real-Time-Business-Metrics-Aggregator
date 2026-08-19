@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--18%2013%3A16%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--19%2013%3A17%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-18 13:16:16**
+- Last refresh (UTC): **2026-08-19 13:17:07**
 - Tickers tracked: **20**
-- Average change: **+16.26%**
-- Median change: **-0.33%**
-- Top gainer: **WETO (+199.15%)**
-- Top loser: **SGLY (-8.74%)**
+- Average change: **+6.43%**
+- Median change: **-0.08%**
+- Top gainer: **CAST (+144.24%)**
+- Top loser: **BIVI (-17.57%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| WETO | Wetour Robotics Limited | 24.59 | +199.15% |
-| OSRH | OSR Health, Inc. | 0.59 | +86.71% |
-| WFF | WF Holding Limited | 2.02 | +40.28% |
-| PFSA | Profusa, Inc. | 4.53 | +26.96% |
-| FN | Fabrinet | 598.58 | +4.97% |
-| DVLT | Datavault AI Inc. | 0.32 | +0.72% |
-| BIDU | Baidu, Inc. | 104.12 | +0.43% |
-| ENRD | Einride AB | 6.16 | +0.33% |
-| XOS | Xos, Inc. | 2.09 | -0.24% |
-| HD | Home Depot, Inc. (The) | 337.88 | -0.29% |
+| CAST | FreeCast, Inc. | 2.10 | +144.24% |
+| DVLT | Datavault AI Inc. | 0.39 | +20.73% |
+| TNON | Tenon Medical, Inc. | 5.45 | +10.77% |
+| ETH-USD | Ethereum USD | 1934.68 | +2.05% |
+| XRP-USD | XRP USD | 1.01 | +1.77% |
+| BNTX | BioNTech SE | 92.75 | +1.26% |
+| BTC-USD | Bitcoin USD | 64885.77 | +1.13% |
+| TGT | Target Corporation | 152.48 | +0.97% |
+| TJX | TJX Companies, Inc. (The) | 150.85 | +0.00% |
+| LOW | Lowe's Companies, Inc. | 215.64 | -0.08% |
 
 ### Daily Visuals
 

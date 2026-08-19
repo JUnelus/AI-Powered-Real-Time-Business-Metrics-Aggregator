@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 16.255860012,
-  "median_change_pct": -0.32641788,
+  "avg_change_pct": 6.432558455000001,
+  "median_change_pct": -0.08088455,
   "gainers": 8,
-  "losers": 12,
+  "losers": 11,
   "top_gainer": {
-    "symbol": "WETO",
-    "change_pct": 199.148
+    "symbol": "CAST",
+    "change_pct": 144.243
   },
   "top_loser": {
-    "symbol": "SGLY",
-    "change_pct": -8.73984
+    "symbol": "BIVI",
+    "change_pct": -17.5726
   },
-  "generated_at": "2026-08-18T13:16:16.278983+00:00"
+  "generated_at": "2026-08-19T13:17:07.144974+00:00"
 }
