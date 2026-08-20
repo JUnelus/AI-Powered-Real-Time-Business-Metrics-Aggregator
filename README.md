@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--19%2013%3A17%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--20%2013%3A17%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-19 13:17:07**
+- Last refresh (UTC): **2026-08-20 13:17:38**
 - Tickers tracked: **20**
-- Average change: **+6.43%**
-- Median change: **-0.08%**
-- Top gainer: **CAST (+144.24%)**
-- Top loser: **BIVI (-17.57%)**
+- Average change: **+11.54%**
+- Median change: **+9.56%**
+- Top gainer: **BTCT (+79.97%)**
+- Top loser: **SGLY (-14.61%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| CAST | FreeCast, Inc. | 2.10 | +144.24% |
-| DVLT | Datavault AI Inc. | 0.39 | +20.73% |
-| TNON | Tenon Medical, Inc. | 5.45 | +10.77% |
-| ETH-USD | Ethereum USD | 1934.68 | +2.05% |
-| XRP-USD | XRP USD | 1.01 | +1.77% |
-| BNTX | BioNTech SE | 92.75 | +1.26% |
-| BTC-USD | Bitcoin USD | 64885.77 | +1.13% |
-| TGT | Target Corporation | 152.48 | +0.97% |
-| TJX | TJX Companies, Inc. (The) | 150.85 | +0.00% |
-| LOW | Lowe's Companies, Inc. | 215.64 | -0.08% |
+| BTCT | BTC Digital Ltd. | 0.84 | +79.97% |
+| PURR | Hyperliquid Strategies Inc | 9.39 | +30.42% |
+| ETH-USD | Ethereum USD | 2292.34 | +18.69% |
+| XRP-USD | XRP USD | 1.19 | +17.35% |
+| ASST | Strive, Inc. | 14.73 | +15.08% |
+| MSTR | Strategy Inc | 104.25 | +12.68% |
+| BTC-USD | Bitcoin USD | 71946.76 | +10.75% |
+| BMNR | BitMine Immersion Technologies, | 20.24 | +10.72% |
+| ETHA | iShares Ethereum Trust ETF | 15.88 | +9.97% |
+| CRCL | Circle Internet Group, Inc. | 78.59 | +9.56% |
 
 ### Daily Visuals
 

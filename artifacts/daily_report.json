@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 6.432558455000001,
-  "median_change_pct": -0.08088455,
-  "gainers": 8,
-  "losers": 11,
+  "avg_change_pct": 11.543545949999999,
+  "median_change_pct": 9.558535,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "CAST",
-    "change_pct": 144.243
+    "symbol": "BTCT",
+    "change_pct": 79.9742
   },
   "top_loser": {
-    "symbol": "BIVI",
-    "change_pct": -17.5726
+    "symbol": "SGLY",
+    "change_pct": -14.6132
   },
-  "generated_at": "2026-08-19T13:17:07.144974+00:00"
+  "generated_at": "2026-08-20T13:17:38.446698+00:00"
 }
