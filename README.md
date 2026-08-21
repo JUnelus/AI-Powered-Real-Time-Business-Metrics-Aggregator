@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--20%2013%3A17%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--21%2013%3A17%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-20 13:17:38**
+- Last refresh (UTC): **2026-08-21 13:17:49**
 - Tickers tracked: **20**
-- Average change: **+11.54%**
-- Median change: **+9.56%**
-- Top gainer: **BTCT (+79.97%)**
-- Top loser: **SGLY (-14.61%)**
+- Average change: **+5.32%**
+- Median change: **+5.27%**
+- Top gainer: **USDE (+29.45%)**
+- Top loser: **GOF (-6.64%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BTCT | BTC Digital Ltd. | 0.84 | +79.97% |
-| PURR | Hyperliquid Strategies Inc | 9.39 | +30.42% |
-| ETH-USD | Ethereum USD | 2292.34 | +18.69% |
-| XRP-USD | XRP USD | 1.19 | +17.35% |
-| ASST | Strive, Inc. | 14.73 | +15.08% |
-| MSTR | Strategy Inc | 104.25 | +12.68% |
-| BTC-USD | Bitcoin USD | 71946.76 | +10.75% |
-| BMNR | BitMine Immersion Technologies, | 20.24 | +10.72% |
-| ETHA | iShares Ethereum Trust ETF | 15.88 | +9.97% |
-| CRCL | Circle Internet Group, Inc. | 78.59 | +9.56% |
+| USDE | StablecoinX Inc. | 4.00 | +29.45% |
+| XRP-CAD | XRP CAD | 1.89 | +15.64% |
+| XRP-USD | XRP USD | 1.37 | +12.68% |
+| IOVA | Iovance Biotherapeutics, Inc. | 8.99 | +12.52% |
+| DOGE-USD | Dogecoin USD | 0.08 | +7.92% |
+| BTC-USD | Bitcoin USD | 76921.97 | +7.36% |
+| BTC-EUR | Bitcoin EUR | 65831.11 | +7.29% |
+| BTC-CAD | Bitcoin CAD | 105991.01 | +7.11% |
+| AU | AngloGold Ashanti PLC | 115.14 | +6.08% |
+| HOWL | Werewolf Therapeutics, Inc. | 0.43 | +5.35% |
 
 ### Daily Visuals
 
