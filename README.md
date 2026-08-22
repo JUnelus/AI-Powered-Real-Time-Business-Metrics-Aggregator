@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--21%2013%3A17%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--22%2013%3A11%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-21 13:17:49**
+- Last refresh (UTC): **2026-08-22 13:11:37**
 - Tickers tracked: **20**
-- Average change: **+5.32%**
-- Median change: **+5.27%**
-- Top gainer: **USDE (+29.45%)**
-- Top loser: **GOF (-6.64%)**
+- Average change: **+4.64%**
+- Median change: **+2.38%**
+- Top gainer: **ZEC-USD (+22.49%)**
+- Top loser: **BTC-EUR (-0.18%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| USDE | StablecoinX Inc. | 4.00 | +29.45% |
-| XRP-CAD | XRP CAD | 1.89 | +15.64% |
-| XRP-USD | XRP USD | 1.37 | +12.68% |
-| IOVA | Iovance Biotherapeutics, Inc. | 8.99 | +12.52% |
-| DOGE-USD | Dogecoin USD | 0.08 | +7.92% |
-| BTC-USD | Bitcoin USD | 76921.97 | +7.36% |
-| BTC-EUR | Bitcoin EUR | 65831.11 | +7.29% |
-| BTC-CAD | Bitcoin CAD | 105991.01 | +7.11% |
-| AU | AngloGold Ashanti PLC | 115.14 | +6.08% |
-| HOWL | Werewolf Therapeutics, Inc. | 0.43 | +5.35% |
+| ZEC-USD | Zcash USD | 795.90 | +22.49% |
+| TMC | TMC the metals company Inc. | 4.79 | +20.65% |
+| DOGE-USD | Dogecoin USD | 0.09 | +9.09% |
+| XRP-CAD | XRP CAD | 2.07 | +9.05% |
+| XRP-USD | XRP USD | 1.50 | +5.84% |
+| XRP-EUR | XRP EUR | 1.28 | +5.70% |
+| XLM-USD | Stellar USD | 0.20 | +4.06% |
+| ADA-USD | Cardano USD | 0.23 | +3.83% |
+| LINK-USD | Chainlink USD | 11.84 | +3.81% |
+| SOL-USD | Solana USD | 93.80 | +3.04% |
 
 ### Daily Visuals
 

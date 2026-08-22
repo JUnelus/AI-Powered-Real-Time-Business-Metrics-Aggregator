@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 5.32346826,
-  "median_change_pct": 5.269401,
-  "gainers": 15,
-  "losers": 5,
+  "avg_change_pct": 4.639518481950001,
+  "median_change_pct": 2.37698025,
+  "gainers": 17,
+  "losers": 3,
   "top_gainer": {
-    "symbol": "USDE",
-    "change_pct": 29.4498
+    "symbol": "ZEC-USD",
+    "change_pct": 22.485735
   },
   "top_loser": {
-    "symbol": "GOF",
-    "change_pct": -6.64024
+    "symbol": "BTC-EUR",
+    "change_pct": -0.17830159
   },
-  "generated_at": "2026-08-21T13:17:49.766787+00:00"
+  "generated_at": "2026-08-22T13:11:37.169992+00:00"
 }
