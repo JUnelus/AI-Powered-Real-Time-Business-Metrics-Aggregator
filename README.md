@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--22%2013%3A11%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--23%2013%3A12%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-22 13:11:37**
+- Last refresh (UTC): **2026-08-23 13:12:30**
 - Tickers tracked: **20**
-- Average change: **+4.64%**
-- Median change: **+2.38%**
-- Top gainer: **ZEC-USD (+22.49%)**
-- Top loser: **BTC-EUR (-0.18%)**
+- Average change: **+0.87%**
+- Median change: **+0.07%**
+- Top gainer: **QUBT (+9.58%)**
+- Top loser: **VST (-1.96%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ZEC-USD | Zcash USD | 795.90 | +22.49% |
-| TMC | TMC the metals company Inc. | 4.79 | +20.65% |
-| DOGE-USD | Dogecoin USD | 0.09 | +9.09% |
-| XRP-CAD | XRP CAD | 2.07 | +9.05% |
-| XRP-USD | XRP USD | 1.50 | +5.84% |
-| XRP-EUR | XRP EUR | 1.28 | +5.70% |
-| XLM-USD | Stellar USD | 0.20 | +4.06% |
-| ADA-USD | Cardano USD | 0.23 | +3.83% |
-| LINK-USD | Chainlink USD | 11.84 | +3.81% |
-| SOL-USD | Solana USD | 93.80 | +3.04% |
+| QUBT | Quantum Computing Inc. | 8.92 | +9.58% |
+| HYPE32196-USD | Hyperliquid USD | 81.00 | +4.03% |
+| ZEC-USD | Zcash USD | 819.33 | +3.13% |
+| COST | Costco Wholesale Corporation | 947.74 | +1.52% |
+| V | Visa Inc. | 371.04 | +1.45% |
+| DOGE-USD | Dogecoin USD | 0.09 | +1.27% |
+| SOL-USD | Solana USD | 94.86 | +0.80% |
+| ASML | ASML Holding N.V. - New York Re | 1763.76 | +0.77% |
+| SKHY | SK hynix Inc. | 163.41 | +0.20% |
+| ETH-USD | Ethereum USD | 2432.00 | +0.08% |
 
 ### Daily Visuals
 

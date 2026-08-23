@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 4.639518481950001,
-  "median_change_pct": 2.37698025,
-  "gainers": 17,
-  "losers": 3,
+  "avg_change_pct": 0.8735482591000002,
+  "median_change_pct": 0.065055523,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "ZEC-USD",
-    "change_pct": 22.485735
+    "symbol": "QUBT",
+    "change_pct": 9.58231
   },
   "top_loser": {
-    "symbol": "BTC-EUR",
-    "change_pct": -0.17830159
+    "symbol": "VST",
+    "change_pct": -1.96487
   },
-  "generated_at": "2026-08-22T13:11:37.169992+00:00"
+  "generated_at": "2026-08-23T13:12:30.643982+00:00"
 }
