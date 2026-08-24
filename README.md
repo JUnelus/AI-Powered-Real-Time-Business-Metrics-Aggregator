@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--23%2013%3A12%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--24%2013%3A18%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-23 13:12:30**
+- Last refresh (UTC): **2026-08-24 13:18:41**
 - Tickers tracked: **20**
-- Average change: **+0.87%**
-- Median change: **+0.07%**
-- Top gainer: **QUBT (+9.58%)**
-- Top loser: **VST (-1.96%)**
+- Average change: **+1.83%**
+- Median change: **-0.38%**
+- Top gainer: **SDOT (+56.16%)**
+- Top loser: **IESC (-49.87%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| QUBT | Quantum Computing Inc. | 8.92 | +9.58% |
-| HYPE32196-USD | Hyperliquid USD | 81.00 | +4.03% |
-| ZEC-USD | Zcash USD | 819.33 | +3.13% |
-| COST | Costco Wholesale Corporation | 947.74 | +1.52% |
-| V | Visa Inc. | 371.04 | +1.45% |
-| DOGE-USD | Dogecoin USD | 0.09 | +1.27% |
-| SOL-USD | Solana USD | 94.86 | +0.80% |
-| ASML | ASML Holding N.V. - New York Re | 1763.76 | +0.77% |
-| SKHY | SK hynix Inc. | 163.41 | +0.20% |
-| ETH-USD | Ethereum USD | 2432.00 | +0.08% |
+| SDOT | Sadot Group Inc. | 13.18 | +56.16% |
+| TMC | TMC the metals company Inc. | 4.79 | +20.65% |
+| SLS | SELLAS Life Sciences Group, Inc | 15.46 | +15.37% |
+| IQMX | IQM Quantum Computers Oyj | 11.11 | +14.77% |
+| PMI | Picard Medical, Inc. | 3.21 | +5.94% |
+| BCTX | BriaCell Therapeutics Corp. | 4.07 | +3.56% |
+| XPEV | XPeng Inc. | 12.19 | +1.58% |
+| NSSC | NAPCO Security Technologies, In | 38.09 | +0.85% |
+| DXST | Decent Holding Inc. | 2.52 | +0.00% |
+| SNDK | Sandisk Corporation | 1596.08 | -0.28% |
 
 ### Daily Visuals
 

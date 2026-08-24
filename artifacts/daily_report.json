@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.8735482591000002,
-  "median_change_pct": 0.065055523,
-  "gainers": 11,
-  "losers": 9,
+  "avg_change_pct": 1.8327797795000005,
+  "median_change_pct": -0.37991628,
+  "gainers": 8,
+  "losers": 11,
   "top_gainer": {
-    "symbol": "QUBT",
-    "change_pct": 9.58231
+    "symbol": "SDOT",
+    "change_pct": 56.16113
   },
   "top_loser": {
-    "symbol": "VST",
-    "change_pct": -1.96487
+    "symbol": "IESC",
+    "change_pct": -49.870472
   },
-  "generated_at": "2026-08-23T13:12:30.643982+00:00"
+  "generated_at": "2026-08-24T13:18:41.647380+00:00"
 }
