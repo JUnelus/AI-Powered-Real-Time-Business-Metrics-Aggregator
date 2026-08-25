@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--24%2013%3A18%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--25%2013%3A18%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-24 13:18:41**
+- Last refresh (UTC): **2026-08-25 13:18:03**
 - Tickers tracked: **20**
-- Average change: **+1.83%**
-- Median change: **-0.38%**
-- Top gainer: **SDOT (+56.16%)**
-- Top loser: **IESC (-49.87%)**
+- Average change: **+12.18%**
+- Median change: **-0.13%**
+- Top gainer: **DAIC (+306.10%)**
+- Top loser: **DFNS (-46.58%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SDOT | Sadot Group Inc. | 13.18 | +56.16% |
-| TMC | TMC the metals company Inc. | 4.79 | +20.65% |
-| SLS | SELLAS Life Sciences Group, Inc | 15.46 | +15.37% |
-| IQMX | IQM Quantum Computers Oyj | 11.11 | +14.77% |
-| PMI | Picard Medical, Inc. | 3.21 | +5.94% |
-| BCTX | BriaCell Therapeutics Corp. | 4.07 | +3.56% |
-| XPEV | XPeng Inc. | 12.19 | +1.58% |
-| NSSC | NAPCO Security Technologies, In | 38.09 | +0.85% |
-| DXST | Decent Holding Inc. | 2.52 | +0.00% |
-| SNDK | Sandisk Corporation | 1596.08 | -0.28% |
+| DAIC | CID HoldCo, Inc. | 1.73 | +306.10% |
+| KURA | Kura Oncology, Inc. | 12.40 | +4.29% |
+| SOL-USD | Solana USD | 97.98 | +3.15% |
+| AMIX | Autonomix Medical, Inc. | 5.37 | +1.90% |
+| BE | Bloom Energy Corporation | 204.02 | +1.28% |
+| INTU | Intuit Inc. | 369.92 | +0.80% |
+| SWVL | Swvl Holdings Corp | 1.47 | +0.68% |
+| BTC-USD | Bitcoin USD | 78703.05 | +0.18% |
+| AIXI | XIAO-I Corporation | 0.46 | +0.00% |
+| NKE | Nike, Inc. | 40.75 | -0.02% |
 
 ### Daily Visuals
 

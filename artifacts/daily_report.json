@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 1.8327797795000005,
-  "median_change_pct": -0.37991628,
+  "avg_change_pct": 12.183972872000002,
+  "median_change_pct": -0.13300935,
   "gainers": 8,
   "losers": 11,
   "top_gainer": {
-    "symbol": "SDOT",
-    "change_pct": 56.16113
+    "symbol": "DAIC",
+    "change_pct": 306.103
   },
   "top_loser": {
-    "symbol": "IESC",
-    "change_pct": -49.870472
+    "symbol": "DFNS",
+    "change_pct": -46.5793
   },
-  "generated_at": "2026-08-24T13:18:41.647380+00:00"
+  "generated_at": "2026-08-25T13:18:03.605282+00:00"
 }
