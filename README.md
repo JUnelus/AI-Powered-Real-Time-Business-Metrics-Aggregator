@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--25%2013%3A18%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--26%2013%3A20%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-25 13:18:03**
+- Last refresh (UTC): **2026-08-26 13:20:09**
 - Tickers tracked: **20**
-- Average change: **+12.18%**
-- Median change: **-0.13%**
-- Top gainer: **DAIC (+306.10%)**
-- Top loser: **DFNS (-46.58%)**
+- Average change: **+1.39%**
+- Median change: **-0.70%**
+- Top gainer: **RZLV (+21.81%)**
+- Top loser: **DKS (-30.68%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| DAIC | CID HoldCo, Inc. | 1.73 | +306.10% |
-| KURA | Kura Oncology, Inc. | 12.40 | +4.29% |
-| SOL-USD | Solana USD | 97.98 | +3.15% |
-| AMIX | Autonomix Medical, Inc. | 5.37 | +1.90% |
-| BE | Bloom Energy Corporation | 204.02 | +1.28% |
-| INTU | Intuit Inc. | 369.92 | +0.80% |
-| SWVL | Swvl Holdings Corp | 1.47 | +0.68% |
-| BTC-USD | Bitcoin USD | 78703.05 | +0.18% |
-| AIXI | XIAO-I Corporation | 0.46 | +0.00% |
-| NKE | Nike, Inc. | 40.75 | -0.02% |
+| RZLV | Rezolve AI PLC | 2.96 | +21.81% |
+| RR | Richtech Robotics Inc. | 1.97 | +21.60% |
+| CRML | Critical Metals Corp. | 8.10 | +21.44% |
+| OKLO | Oklo Inc. | 44.27 | +11.54% |
+| SMR | NuScale Power Corporation | 9.81 | +8.40% |
+| SMTC | Semtech Corporation | 127.52 | +5.47% |
+| NA.TO | NATIONAL BANK OF CANADA | 222.53 | +2.52% |
+| UBER | Uber Technologies, Inc. | 80.35 | +1.34% |
+| SJM | The J.M. Smucker Company | 125.45 | -0.33% |
+| SEDG | SolarEdge Technologies, Inc. | 29.88 | -0.70% |
 
 ### Daily Visuals
 

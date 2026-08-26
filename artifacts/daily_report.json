@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 12.183972872000002,
-  "median_change_pct": -0.13300935,
+  "avg_change_pct": 1.3851704400000002,
+  "median_change_pct": -0.7045275,
   "gainers": 8,
-  "losers": 11,
+  "losers": 12,
   "top_gainer": {
-    "symbol": "DAIC",
-    "change_pct": 306.103
+    "symbol": "RZLV",
+    "change_pct": 21.8107
   },
   "top_loser": {
-    "symbol": "DFNS",
-    "change_pct": -46.5793
+    "symbol": "DKS",
+    "change_pct": -30.6809
   },
-  "generated_at": "2026-08-25T13:18:03.605282+00:00"
+  "generated_at": "2026-08-26T13:20:09.017493+00:00"
 }
