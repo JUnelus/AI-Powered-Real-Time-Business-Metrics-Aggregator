@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--26%2013%3A20%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--27%2016%3A41%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-26 13:20:09**
+- Last refresh (UTC): **2026-08-27 16:41:28**
 - Tickers tracked: **20**
-- Average change: **+1.39%**
-- Median change: **-0.70%**
-- Top gainer: **RZLV (+21.81%)**
-- Top loser: **DKS (-30.68%)**
+- Average change: **+20.50%**
+- Median change: **+10.82%**
+- Top gainer: **CELU (+139.66%)**
+- Top loser: **HRL (-9.19%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| RZLV | Rezolve AI PLC | 2.96 | +21.81% |
-| RR | Richtech Robotics Inc. | 1.97 | +21.60% |
-| CRML | Critical Metals Corp. | 8.10 | +21.44% |
-| OKLO | Oklo Inc. | 44.27 | +11.54% |
-| SMR | NuScale Power Corporation | 9.81 | +8.40% |
-| SMTC | Semtech Corporation | 127.52 | +5.47% |
-| NA.TO | NATIONAL BANK OF CANADA | 222.53 | +2.52% |
-| UBER | Uber Technologies, Inc. | 80.35 | +1.34% |
-| SJM | The J.M. Smucker Company | 125.45 | -0.33% |
-| SEDG | SolarEdge Technologies, Inc. | 29.88 | -0.70% |
+| CELU | Celularity Inc. | 2.11 | +139.66% |
+| PPCB | Propanc Biopharma, Inc. | 2.40 | +124.07% |
+| OKTA | Okta, Inc. | 172.12 | +28.04% |
+| CRM | Salesforce, Inc. | 249.07 | +21.13% |
+| PURR | Hyperliquid Strategies Inc | 13.98 | +20.93% |
+| CRWD | CrowdStrike Holdings, Inc. | 222.42 | +17.57% |
+| VEEV | Veeva Systems Inc. | 287.02 | +17.19% |
+| FIG | Figma, Inc. | 30.92 | +14.38% |
+| MSTR | Strategy Inc | 138.09 | +12.09% |
+| PANW | Palo Alto Networks, Inc. | 380.33 | +12.09% |
 
 ### Daily Visuals
 
