@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--27%2016%3A41%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--28%2017%3A00%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-27 16:41:28**
+- Last refresh (UTC): **2026-08-28 17:00:23**
 - Tickers tracked: **20**
-- Average change: **+20.50%**
-- Median change: **+10.82%**
-- Top gainer: **CELU (+139.66%)**
-- Top loser: **HRL (-9.19%)**
+- Average change: **+8.60%**
+- Median change: **+2.36%**
+- Top gainer: **FNGR (+204.90%)**
+- Top loser: **BTAI (-76.28%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| CELU | Celularity Inc. | 2.11 | +139.66% |
-| PPCB | Propanc Biopharma, Inc. | 2.40 | +124.07% |
-| OKTA | Okta, Inc. | 172.12 | +28.04% |
-| CRM | Salesforce, Inc. | 249.07 | +21.13% |
-| PURR | Hyperliquid Strategies Inc | 13.98 | +20.93% |
-| CRWD | CrowdStrike Holdings, Inc. | 222.42 | +17.57% |
-| VEEV | Veeva Systems Inc. | 287.02 | +17.19% |
-| FIG | Figma, Inc. | 30.92 | +14.38% |
-| MSTR | Strategy Inc | 138.09 | +12.09% |
-| PANW | Palo Alto Networks, Inc. | 380.33 | +12.09% |
+| FNGR | FingerMotion, Inc. | 0.53 | +204.90% |
+| CYAB | Cyabra, Inc. | 0.43 | +40.96% |
+| AEMD | Aethlon Medical, Inc. | 2.76 | +27.19% |
+| QNRX | Quoin Pharmaceuticals, Ltd. | 6.50 | +26.09% |
+| ESTC | Elastic N.V. | 97.71 | +16.68% |
+| SOLS | Solstice Advanced Materials Inc | 63.85 | +13.34% |
+| GAP | Gap, Inc. (The) | 23.46 | +12.87% |
+| AFRM | Affirm Holdings, Inc. | 81.36 | +5.00% |
+| AMZN | Amazon.com, Inc. | 265.02 | +3.42% |
+| APP | Applovin Corporation | 320.16 | +2.41% |
 
 ### Daily Visuals
 
