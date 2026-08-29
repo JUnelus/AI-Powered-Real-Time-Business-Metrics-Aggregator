@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 8.604738315,
-  "median_change_pct": 2.36453605,
-  "gainers": 13,
-  "losers": 7,
+  "avg_change_pct": 6.340058518249998,
+  "median_change_pct": -0.38609201,
+  "gainers": 8,
+  "losers": 12,
   "top_gainer": {
     "symbol": "FNGR",
-    "change_pct": 204.89922
+    "change_pct": 129.527
   },
   "top_loser": {
-    "symbol": "BTAI",
-    "change_pct": -76.28365
+    "symbol": "SHIB-USD",
+    "change_pct": -3.766473
   },
-  "generated_at": "2026-08-28T17:00:23.599097+00:00"
+  "generated_at": "2026-08-29T13:01:52.850081+00:00"
 }

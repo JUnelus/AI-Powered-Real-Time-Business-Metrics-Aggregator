@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--28%2017%3A00%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--29%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-28 17:00:23**
+- Last refresh (UTC): **2026-08-29 13:01:52**
 - Tickers tracked: **20**
-- Average change: **+8.60%**
-- Median change: **+2.36%**
-- Top gainer: **FNGR (+204.90%)**
-- Top loser: **BTAI (-76.28%)**
+- Average change: **+6.34%**
+- Median change: **-0.39%**
+- Top gainer: **FNGR (+129.53%)**
+- Top loser: **SHIB-USD (-3.77%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FNGR | FingerMotion, Inc. | 0.53 | +204.90% |
-| CYAB | Cyabra, Inc. | 0.43 | +40.96% |
-| AEMD | Aethlon Medical, Inc. | 2.76 | +27.19% |
-| QNRX | Quoin Pharmaceuticals, Ltd. | 6.50 | +26.09% |
-| ESTC | Elastic N.V. | 97.71 | +16.68% |
-| SOLS | Solstice Advanced Materials Inc | 63.85 | +13.34% |
-| GAP | Gap, Inc. (The) | 23.46 | +12.87% |
-| AFRM | Affirm Holdings, Inc. | 81.36 | +5.00% |
-| AMZN | Amazon.com, Inc. | 265.02 | +3.42% |
-| APP | Applovin Corporation | 320.16 | +2.41% |
+| FNGR | FingerMotion, Inc. | 0.40 | +129.53% |
+| LULU | lululemon athletica inc. | 120.81 | +5.05% |
+| DKNG | DraftKings Inc. | 25.26 | +4.29% |
+| SLB | SLB Limited | 57.33 | +4.22% |
+| T | AT&T Inc. | 26.01 | +2.28% |
+| DIS | Walt Disney Company (The) | 108.10 | +1.20% |
+| CVX | Chevron Corporation | 201.86 | +1.05% |
+| ^TNX | CBOE Interest Rate 10 Year T No | 4.72 | +1.03% |
+| ^DJI | Dow Jones Industrial Average | 53560.00 | -0.02% |
+| ^GSPC | S&P 500 | 7711.76 | -0.25% |
 
 ### Daily Visuals
 
