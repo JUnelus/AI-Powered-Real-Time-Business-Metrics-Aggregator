@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 6.340058518249998,
-  "median_change_pct": -0.38609201,
-  "gainers": 8,
-  "losers": 12,
+  "avg_change_pct": -0.291403982,
+  "median_change_pct": 0.57970828,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "FNGR",
-    "change_pct": 129.527
+    "symbol": "HYPE32196-USD",
+    "change_pct": 2.6768177
   },
   "top_loser": {
-    "symbol": "SHIB-USD",
-    "change_pct": -3.766473
+    "symbol": "QBTS",
+    "change_pct": -5.0838
   },
-  "generated_at": "2026-08-29T13:01:52.850081+00:00"
+  "generated_at": "2026-08-30T13:01:45.113735+00:00"
 }

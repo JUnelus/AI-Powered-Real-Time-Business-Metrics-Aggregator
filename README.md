@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--29%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--30%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-29 13:01:52**
+- Last refresh (UTC): **2026-08-30 13:01:45**
 - Tickers tracked: **20**
-- Average change: **+6.34%**
-- Median change: **-0.39%**
-- Top gainer: **FNGR (+129.53%)**
-- Top loser: **SHIB-USD (-3.77%)**
+- Average change: **-0.29%**
+- Median change: **+0.58%**
+- Top gainer: **HYPE32196-USD (+2.68%)**
+- Top loser: **QBTS (-5.08%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FNGR | FingerMotion, Inc. | 0.40 | +129.53% |
-| LULU | lululemon athletica inc. | 120.81 | +5.05% |
-| DKNG | DraftKings Inc. | 25.26 | +4.29% |
-| SLB | SLB Limited | 57.33 | +4.22% |
-| T | AT&T Inc. | 26.01 | +2.28% |
-| DIS | Walt Disney Company (The) | 108.10 | +1.20% |
-| CVX | Chevron Corporation | 201.86 | +1.05% |
-| ^TNX | CBOE Interest Rate 10 Year T No | 4.72 | +1.03% |
-| ^DJI | Dow Jones Industrial Average | 53560.00 | -0.02% |
-| ^GSPC | S&P 500 | 7711.76 | -0.25% |
+| HYPE32196-USD | Hyperliquid USD | 83.62 | +2.68% |
+| BABA | Alibaba Group Holding Limited | 118.90 | +2.23% |
+| SOL-USD | Solana USD | 105.98 | +2.08% |
+| MCD | McDonald's Corporation | 265.00 | +1.90% |
+| BTC-CAD | Bitcoin CAD | 109443.77 | +1.47% |
+| BTC-EUR | Bitcoin EUR | 67978.67 | +1.30% |
+| ETH-USD | Ethereum USD | 2466.25 | +1.29% |
+| BTC-USD | Bitcoin USD | 78688.65 | +1.28% |
+| RZLV | Rezolve AI PLC | 2.97 | +1.02% |
+| XRP-USD | XRP USD | 1.40 | +0.93% |
 
 ### Daily Visuals
 
