@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -0.291403982,
-  "median_change_pct": 0.57970828,
-  "gainers": 11,
-  "losers": 9,
+  "avg_change_pct": 9.514132995,
+  "median_change_pct": 0.6248796,
+  "gainers": 12,
+  "losers": 8,
   "top_gainer": {
-    "symbol": "HYPE32196-USD",
-    "change_pct": 2.6768177
+    "symbol": "FNGR",
+    "change_pct": 129.5271
   },
   "top_loser": {
-    "symbol": "QBTS",
-    "change_pct": -5.0838
+    "symbol": "AEHL",
+    "change_pct": -30.45187
   },
-  "generated_at": "2026-08-30T13:01:45.113735+00:00"
+  "generated_at": "2026-08-31T13:02:02.086064+00:00"
 }

@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--30%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--31%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-30 13:01:45**
+- Last refresh (UTC): **2026-08-31 13:02:02**
 - Tickers tracked: **20**
-- Average change: **-0.29%**
-- Median change: **+0.58%**
-- Top gainer: **HYPE32196-USD (+2.68%)**
-- Top loser: **QBTS (-5.08%)**
+- Average change: **+9.51%**
+- Median change: **+0.62%**
+- Top gainer: **FNGR (+129.53%)**
+- Top loser: **AEHL (-30.45%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| HYPE32196-USD | Hyperliquid USD | 83.62 | +2.68% |
-| BABA | Alibaba Group Holding Limited | 118.90 | +2.23% |
-| SOL-USD | Solana USD | 105.98 | +2.08% |
-| MCD | McDonald's Corporation | 265.00 | +1.90% |
-| BTC-CAD | Bitcoin CAD | 109443.77 | +1.47% |
-| BTC-EUR | Bitcoin EUR | 67978.67 | +1.30% |
-| ETH-USD | Ethereum USD | 2466.25 | +1.29% |
-| BTC-USD | Bitcoin USD | 78688.65 | +1.28% |
+| FNGR | FingerMotion, Inc. | 0.40 | +129.53% |
+| PSQL | Pasqal Holding SA | 19.11 | +95.20% |
+| NCRA | Nocera, Inc. | 1.89 | +8.00% |
+| RDHL | Redhill Biopharma Ltd. | 0.66 | +6.61% |
+| SLB | SLB Limited | 57.33 | +4.22% |
+| CL=F | Crude Oil Oct 26 | 86.20 | +3.36% |
+| SNAP | Snap Inc. | 5.43 | +1.88% |
+| TTD | The Trade Desk, Inc. | 13.57 | +1.12% |
+| CVX | Chevron Corporation | 201.86 | +1.05% |
 | RZLV | Rezolve AI PLC | 2.97 | +1.02% |
-| XRP-USD | XRP USD | 1.40 | +0.93% |
 
 ### Daily Visuals
 
