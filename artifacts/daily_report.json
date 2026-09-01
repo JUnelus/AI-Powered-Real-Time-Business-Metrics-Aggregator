@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 9.514132995,
-  "median_change_pct": 0.6248796,
+  "avg_change_pct": 2.6200420785,
+  "median_change_pct": 0.38547215,
   "gainers": 12,
-  "losers": 8,
+  "losers": 7,
   "top_gainer": {
-    "symbol": "FNGR",
-    "change_pct": 129.5271
+    "symbol": "GPRO",
+    "change_pct": 46.0577
   },
   "top_loser": {
-    "symbol": "AEHL",
-    "change_pct": -30.45187
+    "symbol": "EIX",
+    "change_pct": -23.0725
   },
-  "generated_at": "2026-08-31T13:02:02.086064+00:00"
+  "generated_at": "2026-09-01T13:02:09.021964+00:00"
 }

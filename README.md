@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--31%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--01%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-08-31 13:02:02**
+- Last refresh (UTC): **2026-09-01 13:02:09**
 - Tickers tracked: **20**
-- Average change: **+9.51%**
-- Median change: **+0.62%**
-- Top gainer: **FNGR (+129.53%)**
-- Top loser: **AEHL (-30.45%)**
+- Average change: **+2.62%**
+- Median change: **+0.39%**
+- Top gainer: **GPRO (+46.06%)**
+- Top loser: **EIX (-23.07%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FNGR | FingerMotion, Inc. | 0.40 | +129.53% |
-| PSQL | Pasqal Holding SA | 19.11 | +95.20% |
-| NCRA | Nocera, Inc. | 1.89 | +8.00% |
-| RDHL | Redhill Biopharma Ltd. | 0.66 | +6.61% |
-| SLB | SLB Limited | 57.33 | +4.22% |
-| CL=F | Crude Oil Oct 26 | 86.20 | +3.36% |
-| SNAP | Snap Inc. | 5.43 | +1.88% |
-| TTD | The Trade Desk, Inc. | 13.57 | +1.12% |
-| CVX | Chevron Corporation | 201.86 | +1.05% |
-| RZLV | Rezolve AI PLC | 2.97 | +1.02% |
+| GPRO | GoPro, Inc. | 0.88 | +46.06% |
+| STDN | Standard Nuclear, Inc. | 16.11 | +14.26% |
+| 2454.TW | MEDIATEK INC | 4315.00 | +9.94% |
+| LABT | Lakewood-Amedex Biotherapeutics | 2.50 | +8.70% |
+| FRVO | Fervo Energy Company | 15.38 | +4.13% |
+| AUUD | Auddia Inc. | 0.99 | +2.23% |
+| DUOL | Duolingo, Inc. | 148.36 | +0.94% |
+| HOOD | Robinhood Markets, Inc. | 104.81 | +0.53% |
+| ATHERENERG.NS | ATHER ENERGY LIMITED | 1725.60 | +0.46% |
+| XRP-USD | XRP USD | 1.37 | +0.40% |
 
 ### Daily Visuals
 
