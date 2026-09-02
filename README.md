@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--01%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--02%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-01 13:02:09**
+- Last refresh (UTC): **2026-09-02 13:02:03**
 - Tickers tracked: **20**
-- Average change: **+2.62%**
-- Median change: **+0.39%**
-- Top gainer: **GPRO (+46.06%)**
-- Top loser: **EIX (-23.07%)**
+- Average change: **+0.34%**
+- Median change: **-2.47%**
+- Top gainer: **BIAF (+44.52%)**
+- Top loser: **CRDO (-8.65%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| GPRO | GoPro, Inc. | 0.88 | +46.06% |
-| STDN | Standard Nuclear, Inc. | 16.11 | +14.26% |
-| 2454.TW | MEDIATEK INC | 4315.00 | +9.94% |
-| LABT | Lakewood-Amedex Biotherapeutics | 2.50 | +8.70% |
-| FRVO | Fervo Energy Company | 15.38 | +4.13% |
-| AUUD | Auddia Inc. | 0.99 | +2.23% |
-| DUOL | Duolingo, Inc. | 148.36 | +0.94% |
-| HOOD | Robinhood Markets, Inc. | 104.81 | +0.53% |
-| ATHERENERG.NS | ATHER ENERGY LIMITED | 1725.60 | +0.46% |
-| XRP-USD | XRP USD | 1.37 | +0.40% |
+| BIAF | bioAffinity Technologies, Inc. | 6.59 | +44.52% |
+| MRNA | Moderna, Inc. | 154.27 | +9.93% |
+| CANF | Can-Fite Biopharma Ltd | 3.29 | +3.46% |
+| AAPL | Apple Inc. | 325.13 | +2.61% |
+| VIVK | Vivakor, Inc. | 0.78 | +0.49% |
+| FCEL | FuelCell Energy, Inc. | 17.08 | -0.87% |
+| BTC-USD | Bitcoin USD | 63925.97 | -1.40% |
+| KITT | Nauticus Robotics, Inc. | 0.80 | -1.86% |
+| XRP-USD | XRP USD | 1.09 | -1.94% |
+| PPBT | Purple Biotech Ltd. | 1.66 | -2.35% |
 
 ### Daily Visuals
 

@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 2.6200420785,
-  "median_change_pct": 0.38547215,
-  "gainers": 12,
-  "losers": 7,
+  "avg_change_pct": 0.34044837999999994,
+  "median_change_pct": -2.474756,
+  "gainers": 5,
+  "losers": 15,
   "top_gainer": {
-    "symbol": "GPRO",
-    "change_pct": 46.0577
+    "symbol": "BIAF",
+    "change_pct": 44.5176
   },
   "top_loser": {
-    "symbol": "EIX",
-    "change_pct": -23.0725
+    "symbol": "CRDO",
+    "change_pct": -8.6476
   },
-  "generated_at": "2026-09-01T13:02:09.021964+00:00"
+  "generated_at": "2026-09-02T13:02:03.919859+00:00"
 }
