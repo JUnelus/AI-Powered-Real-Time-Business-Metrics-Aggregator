@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--02%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--03%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-02 13:02:03**
+- Last refresh (UTC): **2026-09-03 13:02:28**
 - Tickers tracked: **20**
-- Average change: **+0.34%**
-- Median change: **-2.47%**
-- Top gainer: **BIAF (+44.52%)**
-- Top loser: **CRDO (-8.65%)**
+- Average change: **+5.34%**
+- Median change: **+0.53%**
+- Top gainer: **BIAF (+47.95%)**
+- Top loser: **SNOW (-4.37%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BIAF | bioAffinity Technologies, Inc. | 6.59 | +44.52% |
-| MRNA | Moderna, Inc. | 154.27 | +9.93% |
-| CANF | Can-Fite Biopharma Ltd | 3.29 | +3.46% |
-| AAPL | Apple Inc. | 325.13 | +2.61% |
-| VIVK | Vivakor, Inc. | 0.78 | +0.49% |
-| FCEL | FuelCell Energy, Inc. | 17.08 | -0.87% |
-| BTC-USD | Bitcoin USD | 63925.97 | -1.40% |
-| KITT | Nauticus Robotics, Inc. | 0.80 | -1.86% |
-| XRP-USD | XRP USD | 1.09 | -1.94% |
-| PPBT | Purple Biotech Ltd. | 1.66 | -2.35% |
+| BIAF | bioAffinity Technologies, Inc. | 9.75 | +47.95% |
+| GELS | Gelteq Limited | 0.70 | +30.82% |
+| FAMI | Farmmi, Inc. Ordinary Shares | 0.15 | +26.45% |
+| GIPR | Generation Income Properties In | 0.39 | +8.03% |
+| XRP-USD | XRP USD | 1.38 | +3.17% |
+| RARE | Ultragenyx Pharmaceutical Inc. | 26.53 | +2.79% |
+| META | Meta Platforms, Inc. | 592.85 | +2.47% |
+| BTC-USD | Bitcoin USD | 78581.33 | +1.90% |
+| AVAV | AeroVironment, Inc. | 145.39 | +0.85% |
+| VSXY | Victorias Secret & Co. | 84.81 | +0.76% |
 
 ### Daily Visuals
 
