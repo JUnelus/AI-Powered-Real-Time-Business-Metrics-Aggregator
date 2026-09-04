@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 5.337694525,
-  "median_change_pct": 0.527803,
-  "gainers": 12,
-  "losers": 8,
+  "avg_change_pct": 5.035134147,
+  "median_change_pct": 1.393215,
+  "gainers": 17,
+  "losers": 3,
   "top_gainer": {
-    "symbol": "BIAF",
-    "change_pct": 47.9514
+    "symbol": "SPWR",
+    "change_pct": 58.2054
   },
   "top_loser": {
-    "symbol": "SNOW",
-    "change_pct": -4.36523
+    "symbol": "PL",
+    "change_pct": -8.2041
   },
-  "generated_at": "2026-09-03T13:02:28.526997+00:00"
+  "generated_at": "2026-09-04T13:01:55.044723+00:00"
 }
