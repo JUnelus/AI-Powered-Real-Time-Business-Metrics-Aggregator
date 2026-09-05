@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--04%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--05%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-04 13:01:55**
+- Last refresh (UTC): **2026-09-05 13:01:47**
 - Tickers tracked: **20**
-- Average change: **+5.04%**
-- Median change: **+1.39%**
-- Top gainer: **SPWR (+58.21%)**
-- Top loser: **PL (-8.20%)**
+- Average change: **-1.17%**
+- Median change: **-0.12%**
+- Top gainer: **EOSE (+10.86%)**
+- Top loser: **DVLT (-24.94%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SPWR | SunPower Inc. | 0.40 | +58.21% |
-| MSTR | Strategy Inc | 144.82 | +17.56% |
-| BE | Bloom Energy Corporation | 235.55 | +8.41% |
-| SPCX | Space Exploration Technologies  | 149.74 | +6.42% |
-| ORCL | Oracle Corporation | 154.04 | +5.69% |
-| TSLA | Tesla, Inc. | 376.37 | +5.42% |
-| IOT | Samsara Inc. | 38.75 | +5.33% |
-| NVDA | NVIDIA Corporation | 228.45 | +1.80% |
-| FICO | Fair Isaac Corporation | 1118.93 | +1.77% |
-| LULU | lululemon athletica inc. | 121.77 | +1.42% |
+| EOSE | Eos Energy Enterprises, Inc. | 3.88 | +10.86% |
+| BE | Bloom Energy Corporation | 252.87 | +7.35% |
+| CEG | Constellation Energy Corporatio | 298.96 | +4.88% |
+| ZEC-USD | Zcash USD | 1014.72 | +2.77% |
+| SOL-USD | Solana USD | 103.21 | +1.53% |
+| GE | GE Aerospace | 337.12 | +1.09% |
+| BTC-USD | Bitcoin USD | 79713.00 | +0.44% |
+| ETH-USD | Ethereum USD | 2458.84 | +0.28% |
+| ^RUT | Russell 2000 | 2975.65 | +0.25% |
+| XRP-USD | XRP USD | 1.41 | +0.05% |
 
 ### Daily Visuals
 
