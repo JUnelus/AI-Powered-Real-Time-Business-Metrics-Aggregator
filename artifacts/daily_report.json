@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -1.1748787143,
-  "median_change_pct": -0.12026450300000001,
-  "gainers": 10,
-  "losers": 10,
+  "avg_change_pct": 2.2763007785000005,
+  "median_change_pct": 0.809987,
+  "gainers": 17,
+  "losers": 3,
   "top_gainer": {
-    "symbol": "EOSE",
-    "change_pct": 10.8571
+    "symbol": "ZEC-USD",
+    "change_pct": 15.350405
   },
   "top_loser": {
-    "symbol": "DVLT",
-    "change_pct": -24.9356
+    "symbol": "HPE",
+    "change_pct": -4.482
   },
-  "generated_at": "2026-09-05T13:01:47.791206+00:00"
+  "generated_at": "2026-09-06T13:01:49.566602+00:00"
 }

@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--05%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--06%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-05 13:01:47**
+- Last refresh (UTC): **2026-09-06 13:01:49**
 - Tickers tracked: **20**
-- Average change: **-1.17%**
-- Median change: **-0.12%**
-- Top gainer: **EOSE (+10.86%)**
-- Top loser: **DVLT (-24.94%)**
+- Average change: **+2.28%**
+- Median change: **+0.81%**
+- Top gainer: **ZEC-USD (+15.35%)**
+- Top loser: **HPE (-4.48%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| EOSE | Eos Energy Enterprises, Inc. | 3.88 | +10.86% |
-| BE | Bloom Energy Corporation | 252.87 | +7.35% |
-| CEG | Constellation Energy Corporatio | 298.96 | +4.88% |
-| ZEC-USD | Zcash USD | 1014.72 | +2.77% |
-| SOL-USD | Solana USD | 103.21 | +1.53% |
-| GE | GE Aerospace | 337.12 | +1.09% |
-| BTC-USD | Bitcoin USD | 79713.00 | +0.44% |
-| ETH-USD | Ethereum USD | 2458.84 | +0.28% |
-| ^RUT | Russell 2000 | 2975.65 | +0.25% |
-| XRP-USD | XRP USD | 1.41 | +0.05% |
+| ZEC-USD | Zcash USD | 1169.63 | +15.35% |
+| STX | Seagate Technology Holdings PLC | 849.28 | +6.34% |
+| FRVO | Fervo Energy Company | 18.16 | +5.83% |
+| HYPE32196-USD | Hyperliquid USD | 89.12 | +4.65% |
+| LINK-USD | Chainlink USD | 12.34 | +4.20% |
+| SOL-USD | Solana USD | 106.75 | +3.98% |
+| VST | Vistra Corp. | 149.30 | +3.52% |
+| DOGE-USD | Dogecoin USD | 0.09 | +2.73% |
+| ETH-USD | Ethereum USD | 2498.79 | +1.80% |
+| ANET | Arista Networks, Inc. | 193.78 | +1.22% |
 
 ### Daily Visuals
 
