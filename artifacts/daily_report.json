@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 2.2763007785000005,
-  "median_change_pct": 0.809987,
-  "gainers": 17,
-  "losers": 3,
+  "avg_change_pct": 1.705392294,
+  "median_change_pct": -0.17989144,
+  "gainers": 9,
+  "losers": 11,
   "top_gainer": {
-    "symbol": "ZEC-USD",
-    "change_pct": 15.350405
+    "symbol": "000660.KS",
+    "change_pct": 8.257438
   },
   "top_loser": {
-    "symbol": "HPE",
-    "change_pct": -4.482
+    "symbol": "SOL-USD",
+    "change_pct": -1.4098994
   },
-  "generated_at": "2026-09-06T13:01:49.566602+00:00"
+  "generated_at": "2026-09-07T13:02:20.619817+00:00"
 }

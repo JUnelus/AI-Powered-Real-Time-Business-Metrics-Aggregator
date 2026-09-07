@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--06%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--07%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-06 13:01:49**
+- Last refresh (UTC): **2026-09-07 13:02:20**
 - Tickers tracked: **20**
-- Average change: **+2.28%**
-- Median change: **+0.81%**
-- Top gainer: **ZEC-USD (+15.35%)**
-- Top loser: **HPE (-4.48%)**
+- Average change: **+1.71%**
+- Median change: **-0.18%**
+- Top gainer: **000660.KS (+8.26%)**
+- Top loser: **SOL-USD (-1.41%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ZEC-USD | Zcash USD | 1169.63 | +15.35% |
-| STX | Seagate Technology Holdings PLC | 849.28 | +6.34% |
-| FRVO | Fervo Energy Company | 18.16 | +5.83% |
-| HYPE32196-USD | Hyperliquid USD | 89.12 | +4.65% |
-| LINK-USD | Chainlink USD | 12.34 | +4.20% |
-| SOL-USD | Solana USD | 106.75 | +3.98% |
-| VST | Vistra Corp. | 149.30 | +3.52% |
-| DOGE-USD | Dogecoin USD | 0.09 | +2.73% |
-| ETH-USD | Ethereum USD | 2498.79 | +1.80% |
-| ANET | Arista Networks, Inc. | 193.78 | +1.22% |
+| 000660.KS | SK hynix | 1783000.00 | +8.26% |
+| SIVE.ST | Sivers Semiconductors AB | 29.36 | +7.70% |
+| LINK-USD | Chainlink USD | 13.26 | +7.57% |
+| 005930.KS | SamsungElec | 270000.00 | +5.68% |
+| NOKIA.HE | Nokia Corporation | 9.09 | +4.99% |
+| ^KS11 | KOSPI Composite Index | 6995.39 | +4.61% |
+| ZEC-USD | Zcash USD | 1194.20 | +1.02% |
+| BZ=F | Brent Crude Oil Last Day Financ | 96.28 | +0.80% |
+| ETH-USD | Ethereum USD | 2503.68 | +0.36% |
+| EURUSD=X | USD/EUR | 0.86 | -0.07% |
 
 ### Daily Visuals
 
