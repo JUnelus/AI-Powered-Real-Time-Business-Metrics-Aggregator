@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--07%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--08%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-07 13:02:20**
+- Last refresh (UTC): **2026-09-08 13:02:33**
 - Tickers tracked: **20**
-- Average change: **+1.71%**
-- Median change: **-0.18%**
-- Top gainer: **000660.KS (+8.26%)**
-- Top loser: **SOL-USD (-1.41%)**
+- Average change: **+3.77%**
+- Median change: **+3.79%**
+- Top gainer: **SNDK (+11.90%)**
+- Top loser: **QBTS (-1.43%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| 000660.KS | SK hynix | 1783000.00 | +8.26% |
-| SIVE.ST | Sivers Semiconductors AB | 29.36 | +7.70% |
-| LINK-USD | Chainlink USD | 13.26 | +7.57% |
-| 005930.KS | SamsungElec | 270000.00 | +5.68% |
-| NOKIA.HE | Nokia Corporation | 9.09 | +4.99% |
-| ^KS11 | KOSPI Composite Index | 6995.39 | +4.61% |
-| ZEC-USD | Zcash USD | 1194.20 | +1.02% |
-| BZ=F | Brent Crude Oil Last Day Financ | 96.28 | +0.80% |
-| ETH-USD | Ethereum USD | 2503.68 | +0.36% |
-| EURUSD=X | USD/EUR | 0.86 | -0.07% |
+| SNDK | Sandisk Corporation | 1740.00 | +11.90% |
+| SOXL | Direxion Daily Semiconductor Bu | 117.28 | +9.87% |
+| NBIS | Nebius Group N.V. | 226.39 | +7.48% |
+| BE | Bloom Energy Corporation | 252.87 | +7.35% |
+| IREN | IREN LIMITED | 44.68 | +7.27% |
+| DRAM | Roundhill Memory ETF | 59.69 | +6.61% |
+| MU | Micron Technology, Inc. | 1016.59 | +6.10% |
+| CRWV | CoreWeave, Inc. | 89.36 | +5.68% |
+| AMD | Advanced Micro Devices, Inc. | 477.57 | +4.69% |
+| INTC | Intel Corporation | 95.80 | +4.51% |
 
 ### Daily Visuals
 
