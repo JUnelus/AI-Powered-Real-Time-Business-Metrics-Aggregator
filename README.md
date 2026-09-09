@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--08%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--09%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-08 13:02:33**
+- Last refresh (UTC): **2026-09-09 13:01:47**
 - Tickers tracked: **20**
-- Average change: **+3.77%**
-- Median change: **+3.79%**
-- Top gainer: **SNDK (+11.90%)**
-- Top loser: **QBTS (-1.43%)**
+- Average change: **+2.55%**
+- Median change: **+0.22%**
+- Top gainer: **PDSB (+36.36%)**
+- Top loser: **TTAN (-7.21%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SNDK | Sandisk Corporation | 1740.00 | +11.90% |
-| SOXL | Direxion Daily Semiconductor Bu | 117.28 | +9.87% |
-| NBIS | Nebius Group N.V. | 226.39 | +7.48% |
-| BE | Bloom Energy Corporation | 252.87 | +7.35% |
-| IREN | IREN LIMITED | 44.68 | +7.27% |
-| DRAM | Roundhill Memory ETF | 59.69 | +6.61% |
-| MU | Micron Technology, Inc. | 1016.59 | +6.10% |
-| CRWV | CoreWeave, Inc. | 89.36 | +5.68% |
-| AMD | Advanced Micro Devices, Inc. | 477.57 | +4.69% |
-| INTC | Intel Corporation | 95.80 | +4.51% |
+| PDSB | PDS Biotechnology Corporation | 0.30 | +36.36% |
+| SMR | NuScale Power Corporation | 11.18 | +15.26% |
+| ZEC-USD | Zcash USD | 1264.03 | +9.61% |
+| OLB | The OLB Group, Inc. | 0.27 | +4.59% |
+| QCOM | QUALCOMM Incorporated | 174.09 | +3.17% |
+| RKLB | Rocket Lab Corporation | 65.87 | +2.51% |
+| XRP-USD | XRP USD | 1.44 | +2.27% |
+| ETH-USD | Ethereum USD | 2509.08 | +2.07% |
+| BTC-USD | Bitcoin USD | 79537.70 | +2.06% |
+| SUNE | SUNation Energy, Inc. | 2.37 | +0.42% |
 
 ### Daily Visuals
 
