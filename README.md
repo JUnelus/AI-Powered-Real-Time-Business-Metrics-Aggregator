@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--09%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--10%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-09 13:01:47**
+- Last refresh (UTC): **2026-09-10 13:01:50**
 - Tickers tracked: **20**
-- Average change: **+2.55%**
-- Median change: **+0.22%**
-- Top gainer: **PDSB (+36.36%)**
-- Top loser: **TTAN (-7.21%)**
+- Average change: **+9.93%**
+- Median change: **-0.55%**
+- Top gainer: **MGN (+174.70%)**
+- Top loser: **TNON (-27.38%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| PDSB | PDS Biotechnology Corporation | 0.30 | +36.36% |
-| SMR | NuScale Power Corporation | 11.18 | +15.26% |
-| ZEC-USD | Zcash USD | 1264.03 | +9.61% |
-| OLB | The OLB Group, Inc. | 0.27 | +4.59% |
-| QCOM | QUALCOMM Incorporated | 174.09 | +3.17% |
-| RKLB | Rocket Lab Corporation | 65.87 | +2.51% |
-| XRP-USD | XRP USD | 1.44 | +2.27% |
-| ETH-USD | Ethereum USD | 2509.08 | +2.07% |
-| BTC-USD | Bitcoin USD | 79537.70 | +2.06% |
-| SUNE | SUNation Energy, Inc. | 2.37 | +0.42% |
+| MGN | Megan Holdings Limited | 0.28 | +174.70% |
+| FTFT | Future FinTech Group Inc. | 2.09 | +59.54% |
+| NET | Cloudflare, Inc. | 314.18 | +10.51% |
+| IPDN | Professional Diversity Network, | 0.13 | +8.31% |
+| SKHY | SK hynix Inc. | 198.63 | +7.05% |
+| BHVN | Biohaven Ltd. | 15.00 | +1.90% |
+| SLXN | Silexion Therapeutics Corp | 0.35 | +1.33% |
+| RXT | Rackspace Technology, Inc. | 3.24 | +0.31% |
+| AAPL | Apple Inc. | 315.34 | -0.28% |
+| FCX | Freeport-McMoRan, Inc. | 76.23 | -0.51% |
 
 ### Daily Visuals
 

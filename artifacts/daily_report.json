@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 2.5531097299999996,
-  "median_change_pct": 0.2223032,
-  "gainers": 11,
-  "losers": 9,
+  "avg_change_pct": 9.930195774999998,
+  "median_change_pct": -0.554984,
+  "gainers": 8,
+  "losers": 12,
   "top_gainer": {
-    "symbol": "PDSB",
-    "change_pct": 36.3636
+    "symbol": "MGN",
+    "change_pct": 174.701
   },
   "top_loser": {
-    "symbol": "TTAN",
-    "change_pct": -7.2111
+    "symbol": "TNON",
+    "change_pct": -27.3809
   },
-  "generated_at": "2026-09-09T13:01:47.514959+00:00"
+  "generated_at": "2026-09-10T13:01:50.518766+00:00"
 }
