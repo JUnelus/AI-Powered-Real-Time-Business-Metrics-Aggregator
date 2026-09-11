@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--10%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--11%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-10 13:01:50**
+- Last refresh (UTC): **2026-09-11 13:01:42**
 - Tickers tracked: **20**
-- Average change: **+9.93%**
-- Median change: **-0.55%**
-- Top gainer: **MGN (+174.70%)**
-- Top loser: **TNON (-27.38%)**
+- Average change: **+8.45%**
+- Median change: **-1.55%**
+- Top gainer: **TNON (+117.21%)**
+- Top loser: **GME-WT (-16.85%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| MGN | Megan Holdings Limited | 0.28 | +174.70% |
-| FTFT | Future FinTech Group Inc. | 2.09 | +59.54% |
-| NET | Cloudflare, Inc. | 314.18 | +10.51% |
-| IPDN | Professional Diversity Network, | 0.13 | +8.31% |
-| SKHY | SK hynix Inc. | 198.63 | +7.05% |
-| BHVN | Biohaven Ltd. | 15.00 | +1.90% |
-| SLXN | Silexion Therapeutics Corp | 0.35 | +1.33% |
-| RXT | Rackspace Technology, Inc. | 3.24 | +0.31% |
-| AAPL | Apple Inc. | 315.34 | -0.28% |
-| FCX | Freeport-McMoRan, Inc. | 76.23 | -0.51% |
+| TNON | Tenon Medical, Inc. | 5.30 | +117.21% |
+| DBGI | Digital Brands Group, Inc. | 6.79 | +81.07% |
+| SWKS | Skyworks Solutions, Inc. | 84.03 | +9.79% |
+| QRVO | Qorvo, Inc. | 112.36 | +6.77% |
+| RDDT | Reddit, Inc. | 155.34 | +6.08% |
+| GME | GameStop Corporation | 20.39 | +2.51% |
+| 1211.HK | BYD COMPANY | 79.85 | +0.38% |
+| GC=F | Gold Dec 26 | 4417.10 | +0.22% |
+| ^TNX | CBOE Interest Rate 10 Year T No | 4.95 | +0.06% |
+| TLT | iShares 20+ Year Treasury Bond  | 80.78 | -1.16% |
 
 ### Daily Visuals
 
