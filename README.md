@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--11%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--12%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-11 13:01:42**
+- Last refresh (UTC): **2026-09-12 13:02:08**
 - Tickers tracked: **20**
-- Average change: **+8.45%**
-- Median change: **-1.55%**
-- Top gainer: **TNON (+117.21%)**
-- Top loser: **GME-WT (-16.85%)**
+- Average change: **+0.04%**
+- Median change: **+0.59%**
+- Top gainer: **HPE (+12.44%)**
+- Top loser: **SLS (-14.42%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| TNON | Tenon Medical, Inc. | 5.30 | +117.21% |
-| DBGI | Digital Brands Group, Inc. | 6.79 | +81.07% |
-| SWKS | Skyworks Solutions, Inc. | 84.03 | +9.79% |
-| QRVO | Qorvo, Inc. | 112.36 | +6.77% |
-| RDDT | Reddit, Inc. | 155.34 | +6.08% |
-| GME | GameStop Corporation | 20.39 | +2.51% |
-| 1211.HK | BYD COMPANY | 79.85 | +0.38% |
-| GC=F | Gold Dec 26 | 4417.10 | +0.22% |
-| ^TNX | CBOE Interest Rate 10 Year T No | 4.95 | +0.06% |
-| TLT | iShares 20+ Year Treasury Bond  | 80.78 | -1.16% |
+| HPE | Hewlett Packard Enterprise Comp | 62.09 | +12.44% |
+| DELL | Dell Technologies Inc. | 567.29 | +11.98% |
+| HPQ | HP Inc. | 35.48 | +8.40% |
+| IBM | International Business Machines | 243.29 | +3.96% |
+| ^DJI | Dow Jones Industrial Average | 52573.29 | +0.98% |
+| ^IXIC | NASDAQ Composite | 26333.03 | +0.96% |
+| KHC | The Kraft Heinz Company | 24.60 | +0.86% |
+| ^GSPC | S&P 500 | 7656.98 | +0.86% |
+| JEPQ | JPMorgan Nasdaq Equity Premium  | 59.78 | +0.81% |
+| BRK-B | Berkshire Hathaway Inc. New | 510.37 | +0.66% |
 
 ### Daily Visuals
 

@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 8.445935304,
-  "median_change_pct": -1.5460931,
-  "gainers": 9,
-  "losers": 11,
+  "avg_change_pct": 0.043735334999999924,
+  "median_change_pct": 0.5942155,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "TNON",
-    "change_pct": 117.213
+    "symbol": "HPE",
+    "change_pct": 12.4411
   },
   "top_loser": {
-    "symbol": "GME-WT",
-    "change_pct": -16.8459
+    "symbol": "SLS",
+    "change_pct": -14.4181
   },
-  "generated_at": "2026-09-11T13:01:42.121955+00:00"
+  "generated_at": "2026-09-12T13:02:08.535070+00:00"
 }
