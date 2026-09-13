@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.043735334999999924,
-  "median_change_pct": 0.5942155,
+  "avg_change_pct": 0.16565270574999996,
+  "median_change_pct": 0.10796652749999999,
   "gainers": 11,
-  "losers": 9,
+  "losers": 8,
   "top_gainer": {
-    "symbol": "HPE",
-    "change_pct": 12.4411
+    "symbol": "ANET",
+    "change_pct": 5.60876
   },
   "top_loser": {
-    "symbol": "SLS",
-    "change_pct": -14.4181
+    "symbol": "WDC",
+    "change_pct": -2.9831
   },
-  "generated_at": "2026-09-12T13:02:08.535070+00:00"
+  "generated_at": "2026-09-13T13:01:52.581305+00:00"
 }
