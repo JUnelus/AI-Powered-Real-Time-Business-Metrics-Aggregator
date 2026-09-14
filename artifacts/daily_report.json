@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.16565270574999996,
-  "median_change_pct": 0.10796652749999999,
-  "gainers": 11,
-  "losers": 8,
+  "avg_change_pct": 0.4010913866000001,
+  "median_change_pct": 0.267189621,
+  "gainers": 10,
+  "losers": 10,
   "top_gainer": {
-    "symbol": "ANET",
-    "change_pct": 5.60876
+    "symbol": "DELL",
+    "change_pct": 11.9754
   },
   "top_loser": {
-    "symbol": "WDC",
-    "change_pct": -2.9831
+    "symbol": "SLS",
+    "change_pct": -14.418085
   },
-  "generated_at": "2026-09-13T13:01:52.581305+00:00"
+  "generated_at": "2026-09-14T13:02:19.741513+00:00"
 }

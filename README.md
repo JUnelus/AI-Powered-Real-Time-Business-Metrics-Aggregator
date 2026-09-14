@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--13%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-13 13:01:52**
+- Last refresh (UTC): **2026-09-14 13:02:19**
 - Tickers tracked: **20**
-- Average change: **+0.17%**
-- Median change: **+0.11%**
-- Top gainer: **ANET (+5.61%)**
-- Top loser: **WDC (-2.98%)**
+- Average change: **+0.40%**
+- Median change: **+0.27%**
+- Top gainer: **DELL (+11.98%)**
+- Top loser: **SLS (-14.42%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ANET | Arista Networks, Inc. | 199.59 | +5.61% |
-| NIO | NIO Inc. | 3.69 | +3.07% |
-| APP | Applovin Corporation | 323.96 | +3.01% |
-| TSM | Taiwan Semiconductor Manufactur | 433.24 | +1.22% |
-| QQQI | NEOS Nasdaq 100 High Income ETF | 54.56 | +0.89% |
-| NKE | Nike, Inc. | 36.80 | +0.49% |
-| SCHD | Schwab US Dividend Equity ETF | 34.12 | +0.38% |
-| CBRS | Cerebras Systems Inc. | 191.93 | +0.31% |
-| COST | Costco Wholesale Corporation | 904.77 | +0.26% |
-| TLT | iShares 20+ Year Treasury Bond  | 80.87 | +0.11% |
+| DELL | Dell Technologies Inc. | 567.29 | +11.98% |
+| SOXL | Direxion Daily Semiconductor Bu | 121.82 | +5.23% |
+| NOK | Nokia Corporation Sponsored | 11.13 | +4.80% |
+| MRVL | Marvell Technology, Inc. | 236.10 | +4.03% |
+| DFTX | Definium Therapeutics, Inc. | 38.89 | +3.07% |
+| AMD | Advanced Micro Devices, Inc. | 516.13 | +2.49% |
+| CRM | Salesforce, Inc. | 247.72 | +1.94% |
+| ELMT | The Elmet Group Co. | 16.19 | +1.70% |
+| NOW | ServiceNow, Inc. | 132.53 | +1.04% |
+| META | Meta Platforms, Inc. | 648.03 | +0.57% |
 
 ### Daily Visuals
 
