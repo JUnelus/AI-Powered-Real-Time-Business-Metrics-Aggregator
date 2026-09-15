@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--15%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-14 13:02:19**
+- Last refresh (UTC): **2026-09-15 13:02:14**
 - Tickers tracked: **20**
-- Average change: **+0.40%**
-- Median change: **+0.27%**
-- Top gainer: **DELL (+11.98%)**
-- Top loser: **SLS (-14.42%)**
+- Average change: **+8.28%**
+- Median change: **-1.90%**
+- Top gainer: **FTFT (+179.17%)**
+- Top loser: **ADBT (-58.24%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| DELL | Dell Technologies Inc. | 567.29 | +11.98% |
-| SOXL | Direxion Daily Semiconductor Bu | 121.82 | +5.23% |
-| NOK | Nokia Corporation Sponsored | 11.13 | +4.80% |
-| MRVL | Marvell Technology, Inc. | 236.10 | +4.03% |
-| DFTX | Definium Therapeutics, Inc. | 38.89 | +3.07% |
-| AMD | Advanced Micro Devices, Inc. | 516.13 | +2.49% |
-| CRM | Salesforce, Inc. | 247.72 | +1.94% |
-| ELMT | The Elmet Group Co. | 16.19 | +1.70% |
-| NOW | ServiceNow, Inc. | 132.53 | +1.04% |
-| META | Meta Platforms, Inc. | 648.03 | +0.57% |
+| FTFT | Future FinTech Group Inc. | 8.04 | +179.17% |
+| VEEA | Veea Inc. | 2.29 | +46.79% |
+| PDSB | PDS Biotechnology Corporation | 0.40 | +35.33% |
+| ZS | Zscaler, Inc. | 191.73 | +16.52% |
+| COIN | Coinbase Global, Inc. | 191.45 | +9.24% |
+| CRCL | Circle Internet Group, Inc. | 97.42 | +7.53% |
+| TEVA | Teva Pharmaceutical Industries  | 38.72 | +4.39% |
+| PLAY | Dave & Buster's Entertainment,  | 8.47 | +4.05% |
+| MTEN | Mingteng International Corporat | 1.01 | -0.98% |
+| ^NSEI | NIFTY 50 | 23118.60 | -1.19% |
 
 ### Daily Visuals
 

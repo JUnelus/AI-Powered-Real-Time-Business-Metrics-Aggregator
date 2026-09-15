@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.4010913866000001,
-  "median_change_pct": 0.267189621,
-  "gainers": 10,
-  "losers": 10,
+  "avg_change_pct": 8.275098374999999,
+  "median_change_pct": -1.89597075,
+  "gainers": 8,
+  "losers": 12,
   "top_gainer": {
-    "symbol": "DELL",
-    "change_pct": 11.9754
+    "symbol": "FTFT",
+    "change_pct": 179.167
   },
   "top_loser": {
-    "symbol": "SLS",
-    "change_pct": -14.418085
+    "symbol": "ADBT",
+    "change_pct": -58.2436
   },
-  "generated_at": "2026-09-14T13:02:19.741513+00:00"
+  "generated_at": "2026-09-15T13:02:14.228076+00:00"
 }
