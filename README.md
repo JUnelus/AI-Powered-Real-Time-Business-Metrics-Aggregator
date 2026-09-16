@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--15%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--16%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-15 13:02:14**
+- Last refresh (UTC): **2026-09-16 13:02:12**
 - Tickers tracked: **20**
-- Average change: **+8.28%**
-- Median change: **-1.90%**
-- Top gainer: **FTFT (+179.17%)**
-- Top loser: **ADBT (-58.24%)**
+- Average change: **+33.18%**
+- Median change: **-3.19%**
+- Top gainer: **RETO (+676.27%)**
+- Top loser: **MGN (-27.37%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FTFT | Future FinTech Group Inc. | 8.04 | +179.17% |
-| VEEA | Veea Inc. | 2.29 | +46.79% |
-| PDSB | PDS Biotechnology Corporation | 0.40 | +35.33% |
-| ZS | Zscaler, Inc. | 191.73 | +16.52% |
-| COIN | Coinbase Global, Inc. | 191.45 | +9.24% |
-| CRCL | Circle Internet Group, Inc. | 97.42 | +7.53% |
-| TEVA | Teva Pharmaceutical Industries  | 38.72 | +4.39% |
-| PLAY | Dave & Buster's Entertainment,  | 8.47 | +4.05% |
-| MTEN | Mingteng International Corporat | 1.01 | -0.98% |
-| ^NSEI | NIFTY 50 | 23118.60 | -1.19% |
+| RETO | ReTo Eco-Solutions, Inc. | 2.80 | +676.27% |
+| MEDS | DataMeds AI, Inc. | 1.62 | +87.20% |
+| SWKS | Skyworks Solutions, Inc. | 90.00 | +13.55% |
+| TEM | Tempus AI, Inc. | 68.85 | +10.67% |
+| QCOM | QUALCOMM Incorporated | 187.80 | +4.25% |
+| DELL | Dell Technologies Inc. | 543.51 | +1.73% |
+| INTC | Intel Corporation | 97.14 | -0.05% |
+| SKHY | SK hynix Inc. | 174.83 | -0.46% |
+| DOL.TO | DOLLARAMA INC | 165.50 | -1.69% |
+| YFOR | YYForce Inc. | 1.40 | -2.78% |
 
 ### Daily Visuals
 

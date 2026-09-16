@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 8.275098374999999,
-  "median_change_pct": -1.89597075,
-  "gainers": 8,
-  "losers": 12,
+  "avg_change_pct": 33.18298854500001,
+  "median_change_pct": -3.19069,
+  "gainers": 6,
+  "losers": 14,
   "top_gainer": {
-    "symbol": "FTFT",
-    "change_pct": 179.167
+    "symbol": "RETO",
+    "change_pct": 676.268
   },
   "top_loser": {
-    "symbol": "ADBT",
-    "change_pct": -58.2436
+    "symbol": "MGN",
+    "change_pct": -27.3702
   },
-  "generated_at": "2026-09-15T13:02:14.228076+00:00"
+  "generated_at": "2026-09-16T13:02:12.008856+00:00"
 }
