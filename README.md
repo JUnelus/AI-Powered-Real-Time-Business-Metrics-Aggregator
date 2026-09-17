@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--16%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--17%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-16 13:02:12**
+- Last refresh (UTC): **2026-09-17 13:02:18**
 - Tickers tracked: **20**
-- Average change: **+33.18%**
-- Median change: **-3.19%**
-- Top gainer: **RETO (+676.27%)**
-- Top loser: **MGN (-27.37%)**
+- Average change: **+27.64%**
+- Median change: **+1.89%**
+- Top gainer: **DLXY (+451.81%)**
+- Top loser: **CTNT (-32.52%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| RETO | ReTo Eco-Solutions, Inc. | 2.80 | +676.27% |
-| MEDS | DataMeds AI, Inc. | 1.62 | +87.20% |
-| SWKS | Skyworks Solutions, Inc. | 90.00 | +13.55% |
-| TEM | Tempus AI, Inc. | 68.85 | +10.67% |
-| QCOM | QUALCOMM Incorporated | 187.80 | +4.25% |
-| DELL | Dell Technologies Inc. | 543.51 | +1.73% |
-| INTC | Intel Corporation | 97.14 | -0.05% |
-| SKHY | SK hynix Inc. | 174.83 | -0.46% |
-| DOL.TO | DOLLARAMA INC | 165.50 | -1.69% |
-| YFOR | YYForce Inc. | 1.40 | -2.78% |
+| DLXY | Delixy Holdings Limited | 2.29 | +451.81% |
+| AEHL | Antelope Enterprise Holdings Li | 9.22 | +78.68% |
+| GLOO | Gloo Holdings, Inc. | 4.07 | +24.09% |
+| SDST | Stardust Power Inc. | 0.16 | +17.35% |
+| AXTI | AXT Inc | 64.30 | +11.44% |
+| CIFR | Cipher Digital Inc. | 16.72 | +10.80% |
+| KXIN | Kaixin Holdings | 1.13 | +10.78% |
+| SPCX | Space Exploration Technologies  | 150.88 | +5.15% |
+| CRWV | CoreWeave, Inc. | 83.35 | +3.00% |
+| IREN | IREN LIMITED | 42.62 | +2.50% |
 
 ### Daily Visuals
 
