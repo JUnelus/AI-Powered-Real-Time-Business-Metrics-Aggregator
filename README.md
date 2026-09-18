@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--17%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--18%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-17 13:02:18**
+- Last refresh (UTC): **2026-09-18 13:02:04**
 - Tickers tracked: **20**
-- Average change: **+27.64%**
-- Median change: **+1.89%**
-- Top gainer: **DLXY (+451.81%)**
-- Top loser: **CTNT (-32.52%)**
+- Average change: **+39.48%**
+- Median change: **+5.78%**
+- Top gainer: **AEMD (+374.13%)**
+- Top loser: **SSM (-13.61%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| DLXY | Delixy Holdings Limited | 2.29 | +451.81% |
-| AEHL | Antelope Enterprise Holdings Li | 9.22 | +78.68% |
-| GLOO | Gloo Holdings, Inc. | 4.07 | +24.09% |
-| SDST | Stardust Power Inc. | 0.16 | +17.35% |
-| AXTI | AXT Inc | 64.30 | +11.44% |
-| CIFR | Cipher Digital Inc. | 16.72 | +10.80% |
-| KXIN | Kaixin Holdings | 1.13 | +10.78% |
-| SPCX | Space Exploration Technologies  | 150.88 | +5.15% |
-| CRWV | CoreWeave, Inc. | 83.35 | +3.00% |
-| IREN | IREN LIMITED | 42.62 | +2.50% |
+| AEMD | Aethlon Medical, Inc. | 6.78 | +374.13% |
+| PAAI | Paradium.AI, Inc. | 3.34 | +271.15% |
+| SDST | Stardust Power Inc. | 0.25 | +57.64% |
+| SDGR | Schrodinger, Inc. | 30.24 | +26.37% |
+| TCRT | Alaunos Therapeutics, Inc. | 1.60 | +25.00% |
+| RARE | Ultragenyx Pharmaceutical Inc. | 14.50 | +12.58% |
+| PURR | Hyperliquid Strategies Inc | 12.83 | +12.15% |
+| OKLO | Oklo Inc. | 39.65 | +11.31% |
+| AKAN | Akanda Corp. | 2.94 | +8.09% |
+| IMCC | IM Cannabis Corp. | 1.74 | +6.75% |
 
 ### Daily Visuals
 
