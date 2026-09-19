@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 39.480193881999995,
-  "median_change_pct": 5.77953,
-  "gainers": 15,
-  "losers": 5,
+  "avg_change_pct": 1.0416437690000002,
+  "median_change_pct": 0.28069827999999997,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "AEMD",
-    "change_pct": 374.126
+    "symbol": "XRP-USD",
+    "change_pct": 8.242587
   },
   "top_loser": {
-    "symbol": "SSM",
-    "change_pct": -13.6095
+    "symbol": "ACN",
+    "change_pct": -4.72962
   },
-  "generated_at": "2026-09-18T13:02:04.373138+00:00"
+  "generated_at": "2026-09-19T13:01:41.957776+00:00"
 }

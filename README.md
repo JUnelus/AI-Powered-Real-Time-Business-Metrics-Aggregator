@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--18%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--19%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-18 13:02:04**
+- Last refresh (UTC): **2026-09-19 13:01:41**
 - Tickers tracked: **20**
-- Average change: **+39.48%**
-- Median change: **+5.78%**
-- Top gainer: **AEMD (+374.13%)**
-- Top loser: **SSM (-13.61%)**
+- Average change: **+1.04%**
+- Median change: **+0.28%**
+- Top gainer: **XRP-USD (+8.24%)**
+- Top loser: **ACN (-4.73%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| AEMD | Aethlon Medical, Inc. | 6.78 | +374.13% |
-| PAAI | Paradium.AI, Inc. | 3.34 | +271.15% |
-| SDST | Stardust Power Inc. | 0.25 | +57.64% |
-| SDGR | Schrodinger, Inc. | 30.24 | +26.37% |
-| TCRT | Alaunos Therapeutics, Inc. | 1.60 | +25.00% |
-| RARE | Ultragenyx Pharmaceutical Inc. | 14.50 | +12.58% |
-| PURR | Hyperliquid Strategies Inc | 12.83 | +12.15% |
-| OKLO | Oklo Inc. | 39.65 | +11.31% |
-| AKAN | Akanda Corp. | 2.94 | +8.09% |
-| IMCC | IM Cannabis Corp. | 1.74 | +6.75% |
+| XRP-USD | XRP USD | 1.43 | +8.24% |
+| XRP-CAD | XRP CAD | 2.00 | +8.09% |
+| ZEC-USD | Zcash USD | 1533.00 | +5.49% |
+| BTC-CAD | Bitcoin CAD | 113813.73 | +4.27% |
+| BTC-USD | Bitcoin USD | 81267.88 | +4.22% |
+| ETH-USD | Ethereum USD | 2639.86 | +3.41% |
+| SOL-USD | Solana USD | 111.65 | +2.95% |
+| SPMO | Invesco S&P 500 Momentum ETF | 149.21 | +1.82% |
+| BTC-EUR | Bitcoin EUR | 70716.13 | +1.24% |
+| ^IXIC | NASDAQ Composite | 26522.54 | +0.39% |
 
 ### Daily Visuals
 
