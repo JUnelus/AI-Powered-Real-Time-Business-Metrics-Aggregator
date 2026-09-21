@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 1.0416437690000002,
-  "median_change_pct": 0.28069827999999997,
-  "gainers": 11,
-  "losers": 9,
+  "avg_change_pct": 2.0137135675,
+  "median_change_pct": -1.1113461,
+  "gainers": 9,
+  "losers": 11,
   "top_gainer": {
-    "symbol": "XRP-USD",
-    "change_pct": 8.242587
+    "symbol": "MSTR",
+    "change_pct": 16.385632
   },
   "top_loser": {
     "symbol": "ACN",
     "change_pct": -4.72962
   },
-  "generated_at": "2026-09-19T13:01:41.957776+00:00"
+  "generated_at": "2026-09-21T13:02:05.813857+00:00"
 }
