@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 2.0137135675,
-  "median_change_pct": -1.1113461,
-  "gainers": 9,
-  "losers": 11,
+  "avg_change_pct": 16.52305676,
+  "median_change_pct": 5.36121,
+  "gainers": 17,
+  "losers": 3,
   "top_gainer": {
-    "symbol": "MSTR",
-    "change_pct": 16.385632
+    "symbol": "GRML",
+    "change_pct": 230.526
   },
   "top_loser": {
-    "symbol": "ACN",
-    "change_pct": -4.72962
+    "symbol": "IMCC",
+    "change_pct": -27.0686
   },
-  "generated_at": "2026-09-21T13:02:05.813857+00:00"
+  "generated_at": "2026-09-22T13:02:11.788837+00:00"
 }

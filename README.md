@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--21%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--22%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-21 13:02:05**
+- Last refresh (UTC): **2026-09-22 13:02:11**
 - Tickers tracked: **20**
-- Average change: **+2.01%**
-- Median change: **-1.11%**
-- Top gainer: **MSTR (+16.39%)**
-- Top loser: **ACN (-4.73%)**
+- Average change: **+16.52%**
+- Median change: **+5.36%**
+- Top gainer: **GRML (+230.53%)**
+- Top loser: **IMCC (-27.07%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| MSTR | Strategy Inc | 153.92 | +16.39% |
-| MARA | MARA Holdings, Inc. | 13.24 | +13.75% |
-| COIN | Coinbase Global, Inc. | 194.25 | +11.66% |
-| KEEL | Keel Infrastructure Corp. | 4.01 | +11.08% |
-| IREN | IREN LIMITED | 46.68 | +7.36% |
-| IBIT | iShares Bitcoin Trust ETF | 46.02 | +6.28% |
-| CYAB | Cyabra, Inc. | 0.31 | +2.70% |
-| NUAI | New Era Energy & Digital, Inc. | 5.86 | +0.86% |
-| NVO | Novo Nordisk A/S | 43.24 | +0.12% |
-| GLND | Greenland Energy Company | 1.20 | -0.83% |
+| GRML | Greenland Mines Ltd | 9.42 | +230.53% |
+| GRAL | GRAIL, Inc. | 107.97 | +33.68% |
+| FSLY | Fastly, Inc. | 27.42 | +14.92% |
+| QNME | Quanome Technologies, Inc. | 0.64 | +14.56% |
+| GDC | GD Culture Group Limited | 1.46 | +13.18% |
+| META | Meta Platforms, Inc. | 741.25 | +11.43% |
+| RKLB | Rocket Lab Corporation | 69.89 | +8.24% |
+| SHOP | Shopify Inc. | 137.92 | +7.33% |
+| BB | BlackBerry Limited | 8.53 | +6.76% |
+| STI | Solidion Technology, Inc. | 7.26 | +6.61% |
 
 ### Daily Visuals
 
