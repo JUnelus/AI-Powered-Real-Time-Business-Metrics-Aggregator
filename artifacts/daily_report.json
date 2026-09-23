@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 16.52305676,
-  "median_change_pct": 5.36121,
-  "gainers": 17,
-  "losers": 3,
+  "avg_change_pct": 63.460361874999975,
+  "median_change_pct": 1.0278075,
+  "gainers": 14,
+  "losers": 6,
   "top_gainer": {
-    "symbol": "GRML",
-    "change_pct": 230.526
+    "symbol": "JAGX",
+    "change_pct": 1190.64
   },
   "top_loser": {
-    "symbol": "IMCC",
-    "change_pct": -27.0686
+    "symbol": "XNDU",
+    "change_pct": -21.5739
   },
-  "generated_at": "2026-09-22T13:02:11.788837+00:00"
+  "generated_at": "2026-09-23T13:02:29.354685+00:00"
 }
