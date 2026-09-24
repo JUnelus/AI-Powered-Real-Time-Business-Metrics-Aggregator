@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 63.460361874999975,
-  "median_change_pct": 1.0278075,
-  "gainers": 14,
-  "losers": 6,
+  "avg_change_pct": 19.883662798,
+  "median_change_pct": 0.01955741,
+  "gainers": 10,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "JAGX",
-    "change_pct": 1190.64
+    "symbol": "BENF",
+    "change_pct": 438.733
   },
   "top_loser": {
-    "symbol": "XNDU",
-    "change_pct": -21.5739
+    "symbol": "DCX",
+    "change_pct": -29.6935
   },
-  "generated_at": "2026-09-23T13:02:29.354685+00:00"
+  "generated_at": "2026-09-24T13:02:34.113960+00:00"
 }

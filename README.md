@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--23%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--24%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-23 13:02:29**
+- Last refresh (UTC): **2026-09-24 13:02:34**
 - Tickers tracked: **20**
-- Average change: **+63.46%**
-- Median change: **+1.03%**
-- Top gainer: **JAGX (+1190.64%)**
-- Top loser: **XNDU (-21.57%)**
+- Average change: **+19.88%**
+- Median change: **+0.02%**
+- Top gainer: **BENF (+438.73%)**
+- Top loser: **DCX (-29.69%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| JAGX | Jaguar Health, Inc. | 34.46 | +1190.64% |
-| BFLY | Butterfly Network, Inc. | 9.93 | +21.99% |
-| BFRG | Bullfrog AI Holdings, Inc. | 0.60 | +21.70% |
-| DCOY | Decoy Therapeutics Inc. | 3.10 | +21.09% |
-| IPDN | Professional Diversity Network, | 3.90 | +16.07% |
-| SRFM | Surf Air Mobility Inc. | 0.77 | +14.89% |
-| INOD | Innodata Inc. | 69.97 | +14.61% |
-| VTGN | VistaGen Therapeutics, Inc. | 0.25 | +7.90% |
-| CBRL | Cracker Barrel Old Country Stor | 45.48 | +1.36% |
-| QUBT | Quantum Computing Inc. | 9.08 | +1.34% |
+| BENF | Beneficient | 2.90 | +438.73% |
+| FSLY | Fastly, Inc. | 29.65 | +13.69% |
+| ATYR | aTyr Pharma, Inc. | 0.38 | +5.27% |
+| SPHL | SPRINGVIEW HOLDINGS LTD | 2.31 | +3.87% |
+| U | Unity Software Inc. | 44.10 | +2.30% |
+| SNX | TD SYNNEX Corporation | 287.89 | +1.64% |
+| META | Meta Platforms, Inc. | 744.10 | +1.02% |
+| ^TYX | Treasury Yield 30 Years | 5.42 | +0.26% |
+| DRI | Darden Restaurants, Inc. | 213.69 | +0.07% |
+| ^TNX | CBOE Interest Rate 10 Year T No | 5.12 | +0.04% |
 
 ### Daily Visuals
 
