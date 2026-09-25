@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--24%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--25%2013%3A02%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-24 13:02:34**
+- Last refresh (UTC): **2026-09-25 13:02:29**
 - Tickers tracked: **20**
-- Average change: **+19.88%**
-- Median change: **+0.02%**
-- Top gainer: **BENF (+438.73%)**
-- Top loser: **DCX (-29.69%)**
+- Average change: **+4.74%**
+- Median change: **+0.71%**
+- Top gainer: **GLND (+83.85%)**
+- Top loser: **KGC (-11.59%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BENF | Beneficient | 2.90 | +438.73% |
-| FSLY | Fastly, Inc. | 29.65 | +13.69% |
-| ATYR | aTyr Pharma, Inc. | 0.38 | +5.27% |
-| SPHL | SPRINGVIEW HOLDINGS LTD | 2.31 | +3.87% |
-| U | Unity Software Inc. | 44.10 | +2.30% |
-| SNX | TD SYNNEX Corporation | 287.89 | +1.64% |
-| META | Meta Platforms, Inc. | 744.10 | +1.02% |
-| ^TYX | Treasury Yield 30 Years | 5.42 | +0.26% |
-| DRI | Darden Restaurants, Inc. | 213.69 | +0.07% |
-| ^TNX | CBOE Interest Rate 10 Year T No | 5.12 | +0.04% |
+| GLND | Greenland Energy Company | 5.35 | +83.85% |
+| TWST | Twist Bioscience Corporation | 184.03 | +16.11% |
+| PL | Planet Labs PBC | 17.62 | +7.57% |
+| NBIS | Nebius Group N.V. | 243.48 | +7.44% |
+| TEM | Tempus AI, Inc. | 82.24 | +7.38% |
+| MRNA | Moderna, Inc. | 194.82 | +6.98% |
+| RKLB | Rocket Lab Corporation | 73.61 | +4.69% |
+| INTC | Intel Corporation | 127.39 | +3.91% |
+| AMD | Advanced Micro Devices, Inc. | 629.26 | +2.38% |
+| INLF | INLIF LIMITED | 2.95 | +1.37% |
 
 ### Daily Visuals
 
