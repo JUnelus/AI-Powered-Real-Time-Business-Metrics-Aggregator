@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--25%2013%3A02%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--26%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-25 13:02:29**
+- Last refresh (UTC): **2026-09-26 13:01:55**
 - Tickers tracked: **20**
-- Average change: **+4.74%**
-- Median change: **+0.71%**
-- Top gainer: **GLND (+83.85%)**
-- Top loser: **KGC (-11.59%)**
+- Average change: **+0.04%**
+- Median change: **+0.40%**
+- Top gainer: **PYPL (+4.64%)**
+- Top loser: **ZS (-10.06%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| GLND | Greenland Energy Company | 5.35 | +83.85% |
-| TWST | Twist Bioscience Corporation | 184.03 | +16.11% |
-| PL | Planet Labs PBC | 17.62 | +7.57% |
-| NBIS | Nebius Group N.V. | 243.48 | +7.44% |
-| TEM | Tempus AI, Inc. | 82.24 | +7.38% |
-| MRNA | Moderna, Inc. | 194.82 | +6.98% |
-| RKLB | Rocket Lab Corporation | 73.61 | +4.69% |
-| INTC | Intel Corporation | 127.39 | +3.91% |
-| AMD | Advanced Micro Devices, Inc. | 629.26 | +2.38% |
-| INLF | INLIF LIMITED | 2.95 | +1.37% |
+| PYPL | PayPal Holdings, Inc. | 55.04 | +4.64% |
+| MSFT | Microsoft Corporation | 516.17 | +3.66% |
+| GE | GE Aerospace | 327.09 | +2.29% |
+| AAPL | Apple Inc. | 341.07 | +1.53% |
+| LINK-USD | Chainlink USD | 14.23 | +1.45% |
+| ^DJI | Dow Jones Industrial Average | 51828.62 | +0.93% |
+| DIS | Walt Disney Company (The) | 106.15 | +0.56% |
+| ^GSPC | S&P 500 | 7743.41 | +0.51% |
+| ^IXIC | NASDAQ Composite | 27068.72 | +0.48% |
+| VTI | Vanguard Morningstar Total Stoc | 379.77 | +0.45% |
 
 ### Daily Visuals
 
