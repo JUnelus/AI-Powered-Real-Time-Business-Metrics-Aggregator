@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--26%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--27%2013%3A01%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-26 13:01:55**
+- Last refresh (UTC): **2026-09-27 13:01:23**
 - Tickers tracked: **20**
-- Average change: **+0.04%**
-- Median change: **+0.40%**
-- Top gainer: **PYPL (+4.64%)**
-- Top loser: **ZS (-10.06%)**
+- Average change: **+3.60%**
+- Median change: **+0.47%**
+- Top gainer: **QNT-USD (+54.39%)**
+- Top loser: **NIO (-1.38%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| PYPL | PayPal Holdings, Inc. | 55.04 | +4.64% |
-| MSFT | Microsoft Corporation | 516.17 | +3.66% |
-| GE | GE Aerospace | 327.09 | +2.29% |
-| AAPL | Apple Inc. | 341.07 | +1.53% |
-| LINK-USD | Chainlink USD | 14.23 | +1.45% |
-| ^DJI | Dow Jones Industrial Average | 51828.62 | +0.93% |
-| DIS | Walt Disney Company (The) | 106.15 | +0.56% |
-| ^GSPC | S&P 500 | 7743.41 | +0.51% |
-| ^IXIC | NASDAQ Composite | 27068.72 | +0.48% |
-| VTI | Vanguard Morningstar Total Stoc | 379.77 | +0.45% |
+| QNT-USD | Quant USD | 160.09 | +54.39% |
+| ZEC-USD | Zcash USD | 1647.51 | +6.83% |
+| SUI20947-USD | Sui USD | 1.25 | +6.34% |
+| SOL-USD | Solana USD | 122.68 | +1.34% |
+| ASML | ASML Holding N.V. - New York Re | 1743.94 | +1.24% |
+| ASTS | AST SpaceMobile, Inc. | 61.81 | +1.23% |
+| PLUG | Plug Power, Inc. | 1.98 | +1.02% |
+| BTC-USD | Bitcoin USD | 84638.40 | +0.72% |
+| UBER | Uber Technologies, Inc. | 69.62 | +0.58% |
+| ONDS | Ondas Inc | 7.64 | +0.53% |
 
 ### Daily Visuals
 

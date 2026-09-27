@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.03520344000000008,
-  "median_change_pct": 0.3974535,
-  "gainers": 13,
-  "losers": 7,
+  "avg_change_pct": 3.598414056500001,
+  "median_change_pct": 0.471842915,
+  "gainers": 15,
+  "losers": 5,
   "top_gainer": {
-    "symbol": "PYPL",
-    "change_pct": 4.63879
+    "symbol": "QNT-USD",
+    "change_pct": 54.39289
   },
   "top_loser": {
-    "symbol": "ZS",
-    "change_pct": -10.0587
+    "symbol": "NIO",
+    "change_pct": -1.37742
   },
-  "generated_at": "2026-09-26T13:01:55.222415+00:00"
+  "generated_at": "2026-09-27T13:01:23.162497+00:00"
 }
