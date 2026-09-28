@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--27%2013%3A01%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--28%2015%3A57%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-27 13:01:23**
+- Last refresh (UTC): **2026-09-28 15:57:58**
 - Tickers tracked: **20**
-- Average change: **+3.60%**
-- Median change: **+0.47%**
-- Top gainer: **QNT-USD (+54.39%)**
-- Top loser: **NIO (-1.38%)**
+- Average change: **+32.36%**
+- Median change: **+3.80%**
+- Top gainer: **KNRX (+301.32%)**
+- Top loser: **MDB (-18.30%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| QNT-USD | Quant USD | 160.09 | +54.39% |
-| ZEC-USD | Zcash USD | 1647.51 | +6.83% |
-| SUI20947-USD | Sui USD | 1.25 | +6.34% |
-| SOL-USD | Solana USD | 122.68 | +1.34% |
-| ASML | ASML Holding N.V. - New York Re | 1743.94 | +1.24% |
-| ASTS | AST SpaceMobile, Inc. | 61.81 | +1.23% |
-| PLUG | Plug Power, Inc. | 1.98 | +1.02% |
-| BTC-USD | Bitcoin USD | 84638.40 | +0.72% |
-| UBER | Uber Technologies, Inc. | 69.62 | +0.58% |
-| ONDS | Ondas Inc | 7.64 | +0.53% |
+| KNRX | KNOREX LTD. | 1.22 | +301.32% |
+| KOD | Kodiak Sciences Inc | 82.47 | +154.93% |
+| SOAR | Volato Group, Inc. | 0.37 | +106.96% |
+| ARAY | Accuray Incorporated | 0.32 | +47.80% |
+| CLRO | ClearOne, Inc. | 4.96 | +40.94% |
+| MEDS | DataMeds AI, Inc. | 3.98 | +28.01% |
+| MX | Magnachip Semiconductor Corpora | 3.80 | +15.15% |
+| GYGY | Game Your Game, Inc. | 0.81 | +9.62% |
+| AMC | AMC Entertainment Holdings, Inc | 3.15 | +6.97% |
+| VSXY | Victorias Secret & Co. | 87.41 | +5.43% |
 
 ### Daily Visuals
 

@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 3.598414056500001,
-  "median_change_pct": 0.471842915,
-  "gainers": 15,
-  "losers": 5,
+  "avg_change_pct": 32.357293663,
+  "median_change_pct": 3.8044466999999997,
+  "gainers": 11,
+  "losers": 9,
   "top_gainer": {
-    "symbol": "QNT-USD",
-    "change_pct": 54.39289
+    "symbol": "KNRX",
+    "change_pct": 301.31577
   },
   "top_loser": {
-    "symbol": "NIO",
-    "change_pct": -1.37742
+    "symbol": "MDB",
+    "change_pct": -18.299877
   },
-  "generated_at": "2026-09-27T13:01:23.162497+00:00"
+  "generated_at": "2026-09-28T15:57:58.858261+00:00"
 }
