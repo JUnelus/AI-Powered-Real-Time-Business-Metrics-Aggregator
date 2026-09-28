@@ -15,6 +15,7 @@ REPORT_END = "<!-- DAILY_REPORT_END -->"
 LAST_UPDATED_BADGE_START = "<!-- LAST_UPDATED_BADGE_START -->"
 LAST_UPDATED_BADGE_END = "<!-- LAST_UPDATED_BADGE_END -->"
 FRESHNESS_MAX_AGE_HOURS = 36
+WEEKEND_FRESHNESS_MAX_AGE_HOURS = 84
 
 SOURCE_REQUIRED_COLUMNS = {
     "symbol",
@@ -103,7 +104,18 @@ def build_dataframe(quotes: list[dict]) -> pd.DataFrame:
     return df
 
 
-def run_data_quality_checks(source_df: pd.DataFrame, enforce_freshness: bool) -> dict:
+def run_data_quality_checks(
+    source_df: pd.DataFrame, enforce_freshness: bool, *, now_utc: datetime | None = None
+) -> dict:
+    """Validate source data, optionally using an injected timezone-aware time."""
+    now_utc = datetime.now(timezone.utc) if now_utc is None else now_utc.astimezone(timezone.utc)
+    # Friday's close remains current through the weekend and Monday morning.
+    freshness_limit_hours = (
+        WEEKEND_FRESHNESS_MAX_AGE_HOURS
+        if now_utc.weekday() in (0, 5, 6)
+        else FRESHNESS_MAX_AGE_HOURS
+    )
+
     missing_columns = sorted(SOURCE_REQUIRED_COLUMNS - set(source_df.columns))
     if missing_columns:
         raise RuntimeError(f"Schema drift detected. Missing required source columns: {', '.join(missing_columns)}")
@@ -138,18 +150,18 @@ def run_data_quality_checks(source_df: pd.DataFrame, enforce_freshness: bool) ->
         max_value = float(market_time.max())
         max_seconds = max_value / 1000 if max_value > 1_000_000_000_000 else max_value
         latest_market_time_dt = datetime.fromtimestamp(max_seconds, tz=timezone.utc)
-        data_age_hours = (datetime.now(timezone.utc) - latest_market_time_dt).total_seconds() / 3600
+        data_age_hours = (now_utc - latest_market_time_dt).total_seconds() / 3600
         latest_market_time = latest_market_time_dt.isoformat()
 
-        if enforce_freshness and data_age_hours > FRESHNESS_MAX_AGE_HOURS:
+        if enforce_freshness and data_age_hours > freshness_limit_hours:
             raise RuntimeError(
-                f"Freshness check failed: latest market timestamp is {data_age_hours:.2f}h old (limit {FRESHNESS_MAX_AGE_HOURS}h)."
+                f"Freshness check failed: latest market timestamp is {data_age_hours:.2f}h old (limit {freshness_limit_hours}h)."
             )
 
     return {
         "status": "pass",
-        "checked_at": datetime.now(timezone.utc).isoformat(),
-        "freshness_max_age_hours": FRESHNESS_MAX_AGE_HOURS,
+        "checked_at": now_utc.isoformat(),
+        "freshness_max_age_hours": freshness_limit_hours,
         "latest_market_time": latest_market_time,
         "data_age_hours": round(data_age_hours, 3) if data_age_hours is not None else None,
         "numeric_columns": metrics,

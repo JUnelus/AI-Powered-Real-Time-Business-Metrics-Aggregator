@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "0 13 * * 1-5"
 
 permissions:
   contents: write
@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: git/checkout@v6
 
       - name: Set up Python
         uses: actions/setup-python@v6
