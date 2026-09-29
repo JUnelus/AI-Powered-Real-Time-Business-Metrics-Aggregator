@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--28%2015%3A57%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--29%2013%3A17%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-28 15:57:58**
+- Last refresh (UTC): **2026-09-29 13:17:18**
 - Tickers tracked: **20**
-- Average change: **+32.36%**
-- Median change: **+3.80%**
-- Top gainer: **KNRX (+301.32%)**
-- Top loser: **MDB (-18.30%)**
+- Average change: **+11.20%**
+- Median change: **-1.64%**
+- Top gainer: **KOD (+177.96%)**
+- Top loser: **MDB (-18.46%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| KNRX | KNOREX LTD. | 1.22 | +301.32% |
-| KOD | Kodiak Sciences Inc | 82.47 | +154.93% |
-| SOAR | Volato Group, Inc. | 0.37 | +106.96% |
-| ARAY | Accuray Incorporated | 0.32 | +47.80% |
-| CLRO | ClearOne, Inc. | 4.96 | +40.94% |
-| MEDS | DataMeds AI, Inc. | 3.98 | +28.01% |
-| MX | Magnachip Semiconductor Corpora | 3.80 | +15.15% |
-| GYGY | Game Your Game, Inc. | 0.81 | +9.62% |
-| AMC | AMC Entertainment Holdings, Inc | 3.15 | +6.97% |
-| VSXY | Victorias Secret & Co. | 87.41 | +5.43% |
+| KOD | Kodiak Sciences Inc | 89.92 | +177.96% |
+| SOAR | Volato Group, Inc. | 0.32 | +77.60% |
+| AMC | AMC Entertainment Holdings, Inc | 3.29 | +11.90% |
+| ABCL | AbCellera Biologics Inc. | 13.92 | +9.61% |
+| LINK-USD | Chainlink USD | 15.28 | +3.80% |
+| ASML.AS | ASML HOLDING | 1587.60 | +3.29% |
+| NVDA | NVIDIA Corporation | 228.86 | +1.68% |
+| ASML | ASML Holding N.V. - New York Re | 1771.41 | +1.58% |
+| SMMT | Summit Therapeutics Inc. | 15.48 | -0.83% |
+| KMX | CarMax Inc | 56.55 | -1.15% |
 
 ### Daily Visuals
 
