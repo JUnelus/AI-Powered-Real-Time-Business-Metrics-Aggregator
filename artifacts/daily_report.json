@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 11.204185594999998,
-  "median_change_pct": -1.63952,
-  "gainers": 8,
-  "losers": 12,
+  "avg_change_pct": 6.127311125,
+  "median_change_pct": -0.5349955,
+  "gainers": 5,
+  "losers": 15,
   "top_gainer": {
-    "symbol": "KOD",
-    "change_pct": 177.96
+    "symbol": "SDEV",
+    "change_pct": 108.28
   },
   "top_loser": {
-    "symbol": "MDB",
-    "change_pct": -18.4582
+    "symbol": "CNTB",
+    "change_pct": -8.14815
   },
-  "generated_at": "2026-09-29T13:17:18.464509+00:00"
+  "generated_at": "2026-09-30T13:17:35.657951+00:00"
 }

@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--29%2013%3A17%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--30%2013%3A17%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-29 13:17:18**
+- Last refresh (UTC): **2026-09-30 13:17:35**
 - Tickers tracked: **20**
-- Average change: **+11.20%**
-- Median change: **-1.64%**
-- Top gainer: **KOD (+177.96%)**
-- Top loser: **MDB (-18.46%)**
+- Average change: **+6.13%**
+- Median change: **-0.53%**
+- Top gainer: **SDEV (+108.28%)**
+- Top loser: **CNTB (-8.15%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| KOD | Kodiak Sciences Inc | 89.92 | +177.96% |
-| SOAR | Volato Group, Inc. | 0.32 | +77.60% |
-| AMC | AMC Entertainment Holdings, Inc | 3.29 | +11.90% |
-| ABCL | AbCellera Biologics Inc. | 13.92 | +9.61% |
-| LINK-USD | Chainlink USD | 15.28 | +3.80% |
-| ASML.AS | ASML HOLDING | 1587.60 | +3.29% |
-| NVDA | NVIDIA Corporation | 228.86 | +1.68% |
-| ASML | ASML Holding N.V. - New York Re | 1771.41 | +1.58% |
-| SMMT | Summit Therapeutics Inc. | 15.48 | -0.83% |
-| KMX | CarMax Inc | 56.55 | -1.15% |
+| SDEV | Stablecoin Development Corporat | 3.27 | +108.28% |
+| IOVA | Iovance Biotherapeutics, Inc. | 14.45 | +31.48% |
+| ELAL.TA | EL AL ISRAEL AIRLI | 1850.00 | +7.93% |
+| MRNA | Moderna, Inc. | 203.46 | +3.13% |
+| CALM | Cal-Maine Foods, Inc. | 68.55 | +1.77% |
+| JBL | Jabil Inc. | 318.84 | -0.03% |
+| SOFI | SoFi Technologies, Inc. | 15.91 | -0.13% |
+| HOOD | Robinhood Markets, Inc. | 116.22 | -0.21% |
+| CAG | ConAgra Brands, Inc. | 14.13 | -0.21% |
+| NOC | Northrop Grumman Corporation | 504.61 | -0.24% |
 
 ### Daily Visuals
 
