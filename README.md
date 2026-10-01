@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--30%2013%3A17%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--01%2013%3A16%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-09-30 13:17:35**
+- Last refresh (UTC): **2026-10-01 13:16:50**
 - Tickers tracked: **20**
-- Average change: **+6.13%**
-- Median change: **-0.53%**
-- Top gainer: **SDEV (+108.28%)**
-- Top loser: **CNTB (-8.15%)**
+- Average change: **-2.41%**
+- Median change: **+0.68%**
+- Top gainer: **UTHR (+12.55%)**
+- Top loser: **LQDA (-57.19%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SDEV | Stablecoin Development Corporat | 3.27 | +108.28% |
-| IOVA | Iovance Biotherapeutics, Inc. | 14.45 | +31.48% |
-| ELAL.TA | EL AL ISRAEL AIRLI | 1850.00 | +7.93% |
-| MRNA | Moderna, Inc. | 203.46 | +3.13% |
-| CALM | Cal-Maine Foods, Inc. | 68.55 | +1.77% |
-| JBL | Jabil Inc. | 318.84 | -0.03% |
-| SOFI | SoFi Technologies, Inc. | 15.91 | -0.13% |
-| HOOD | Robinhood Markets, Inc. | 116.22 | -0.21% |
-| CAG | ConAgra Brands, Inc. | 14.13 | -0.21% |
-| NOC | Northrop Grumman Corporation | 504.61 | -0.24% |
+| UTHR | United Therapeutics Corporation | 541.89 | +12.55% |
+| ZETA | Zeta Global Holdings Corp. | 31.57 | +9.01% |
+| SNPS | Synopsys, Inc. | 434.94 | +4.78% |
+| ACN | Accenture plc | 183.37 | +3.53% |
+| NOW | ServiceNow, Inc. | 134.01 | +3.13% |
+| GLUE | Monte Rosa Therapeutics, Inc. | 11.93 | +1.62% |
+| GOOG | Alphabet Inc. | 340.74 | +1.01% |
+| GOOGL | Alphabet Inc. | 344.08 | +0.93% |
+| ABAT | American Battery Technology Com | 2.21 | +0.91% |
+| MSFT | Microsoft Corporation | 512.90 | +0.77% |
 
 ### Daily Visuals
 
