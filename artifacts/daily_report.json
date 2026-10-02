@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -2.411257498,
-  "median_change_pct": 0.6798825,
-  "gainers": 12,
-  "losers": 8,
+  "avg_change_pct": -0.28532469999999976,
+  "median_change_pct": 2.4938599999999997,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "UTHR",
-    "change_pct": 12.5491
+    "symbol": "MAT",
+    "change_pct": 18.7994
   },
   "top_loser": {
-    "symbol": "LQDA",
-    "change_pct": -57.1934
+    "symbol": "CTVA",
+    "change_pct": -83.812
   },
-  "generated_at": "2026-10-01T13:16:50.870350+00:00"
+  "generated_at": "2026-10-02T13:14:10.969633+00:00"
 }
