@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -0.28532469999999976,
-  "median_change_pct": 2.4938599999999997,
-  "gainers": 16,
-  "losers": 4,
+  "avg_change_pct": 7.053933150500001,
+  "median_change_pct": 1.2167368,
+  "gainers": 15,
+  "losers": 5,
   "top_gainer": {
-    "symbol": "MAT",
-    "change_pct": 18.7994
+    "symbol": "SDEV",
+    "change_pct": 104.372
   },
   "top_loser": {
-    "symbol": "CTVA",
-    "change_pct": -83.812
+    "symbol": "SAIQ",
+    "change_pct": -27.45098
   },
-  "generated_at": "2026-10-02T13:14:10.969633+00:00"
+  "generated_at": "2026-10-05T13:20:42.828256+00:00"
 }

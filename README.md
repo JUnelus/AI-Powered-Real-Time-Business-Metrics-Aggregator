@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--02%2013%3A14%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--05%2013%3A20%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-02 13:14:10**
+- Last refresh (UTC): **2026-10-05 13:20:42**
 - Tickers tracked: **20**
-- Average change: **-0.29%**
-- Median change: **+2.49%**
-- Top gainer: **MAT (+18.80%)**
-- Top loser: **CTVA (-83.81%)**
+- Average change: **+7.05%**
+- Median change: **+1.22%**
+- Top gainer: **SDEV (+104.37%)**
+- Top loser: **SAIQ (-27.45%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| MAT | Mattel, Inc. | 15.04 | +18.80% |
-| QTEX | QTREX Quantum Ltd. | 0.78 | +15.04% |
-| FICO | Fair Isaac Corporation | 661.75 | +11.69% |
-| MSTR | Strategy Inc | 160.50 | +4.84% |
-| SYNA | Synaptics Incorporated | 106.15 | +4.69% |
-| ON | ON Semiconductor Corporation | 80.08 | +4.18% |
-| UAA | Under Armour, Inc. | 4.64 | +4.04% |
-| BTC-USD | Bitcoin USD | 86690.15 | +3.32% |
-| TWLO | Twilio Inc. | 301.27 | +3.01% |
-| STX | Seagate Technology Holdings PLC | 945.57 | +2.52% |
+| SDEV | Stablecoin Development Corporat | 7.48 | +104.37% |
+| QTEX | QTREX Quantum Ltd. | 1.10 | +40.20% |
+| IBRX | ImmunityBio, Inc. | 10.29 | +10.83% |
+| SPCX | Space Exploration Technologies  | 158.96 | +7.35% |
+| BBD | Banco Bradesco Sa | 3.65 | +3.99% |
+| PBR | Petroleo Brasileiro S.A. Petrob | 21.65 | +3.19% |
+| EWZ | iShares MSCI Brazil ETF | 38.19 | +2.83% |
+| GME | GameStop Corporation | 24.70 | +2.45% |
+| VALE | VALE S.A. | 13.76 | +2.30% |
+| STNE | StoneCo Ltd. | 9.55 | +1.38% |
 
 ### Daily Visuals
 
