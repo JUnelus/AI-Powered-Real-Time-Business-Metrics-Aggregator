@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--05%2013%3A20%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--06%2013%3A14%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-05 13:20:42**
+- Last refresh (UTC): **2026-10-06 13:14:55**
 - Tickers tracked: **20**
-- Average change: **+7.05%**
-- Median change: **+1.22%**
-- Top gainer: **SDEV (+104.37%)**
-- Top loser: **SAIQ (-27.45%)**
+- Average change: **+5.66%**
+- Median change: **+2.77%**
+- Top gainer: **BEAT (+50.53%)**
+- Top loser: **BRUN (-13.20%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SDEV | Stablecoin Development Corporat | 7.48 | +104.37% |
-| QTEX | QTREX Quantum Ltd. | 1.10 | +40.20% |
-| IBRX | ImmunityBio, Inc. | 10.29 | +10.83% |
-| SPCX | Space Exploration Technologies  | 158.96 | +7.35% |
-| BBD | Banco Bradesco Sa | 3.65 | +3.99% |
-| PBR | Petroleo Brasileiro S.A. Petrob | 21.65 | +3.19% |
-| EWZ | iShares MSCI Brazil ETF | 38.19 | +2.83% |
-| GME | GameStop Corporation | 24.70 | +2.45% |
-| VALE | VALE S.A. | 13.76 | +2.30% |
-| STNE | StoneCo Ltd. | 9.55 | +1.38% |
+| BEAT | Heartbeam, Inc. | 0.65 | +50.53% |
+| NVAX | Novavax, Inc. | 12.56 | +20.08% |
+| RXRX | Recursion Pharmaceuticals, Inc. | 4.78 | +16.02% |
+| TEM | Tempus AI, Inc. | 83.55 | +9.03% |
+| MRNA | Moderna, Inc. | 203.21 | +6.95% |
+| SHOP | Shopify Inc. | 160.11 | +5.76% |
+| XNDU | Xanadu Quantum Technologies Lim | 4.52 | +5.12% |
+| CEG | Constellation Energy Corporatio | 267.62 | +3.93% |
+| OPCH | Option Care Health, Inc. | 23.37 | +3.22% |
+| PSKY | Paramount Skydance Corporation | 9.78 | +2.89% |
 
 ### Daily Visuals
 
