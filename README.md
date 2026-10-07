@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--06%2013%3A14%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--07%2013%3A18%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-06 13:14:55**
+- Last refresh (UTC): **2026-10-07 13:18:02**
 - Tickers tracked: **20**
-- Average change: **+5.66%**
-- Median change: **+2.77%**
-- Top gainer: **BEAT (+50.53%)**
-- Top loser: **BRUN (-13.20%)**
+- Average change: **+1.53%**
+- Median change: **-0.86%**
+- Top gainer: **STDN (+16.76%)**
+- Top loser: **STX (-9.18%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BEAT | Heartbeam, Inc. | 0.65 | +50.53% |
-| NVAX | Novavax, Inc. | 12.56 | +20.08% |
-| RXRX | Recursion Pharmaceuticals, Inc. | 4.78 | +16.02% |
-| TEM | Tempus AI, Inc. | 83.55 | +9.03% |
-| MRNA | Moderna, Inc. | 203.21 | +6.95% |
-| SHOP | Shopify Inc. | 160.11 | +5.76% |
-| XNDU | Xanadu Quantum Technologies Lim | 4.52 | +5.12% |
-| CEG | Constellation Energy Corporatio | 267.62 | +3.93% |
-| OPCH | Option Care Health, Inc. | 23.37 | +3.22% |
-| PSKY | Paramount Skydance Corporation | 9.78 | +2.89% |
+| STDN | Standard Nuclear, Inc. | 15.19 | +16.76% |
+| HTZ | Hertz Global Holdings, Inc | 2.06 | +15.08% |
+| FCEL | FuelCell Energy, Inc. | 20.65 | +14.28% |
+| CIEN | Ciena Corporation | 443.65 | +13.85% |
+| MRVL | Marvell Technology, Inc. | 287.01 | +5.81% |
+| PENG | Penguin Solutions, Inc. | 64.21 | +5.77% |
+| STZ | Constellation Brands, Inc. | 115.67 | +2.08% |
+| LEVI | Levi Strauss & Co | 20.53 | +1.28% |
+| SOXS | Direxion Daily Semiconductor Be | 29.63 | +0.03% |
+| TSM | Taiwan Semiconductor Manufactur | 482.30 | -0.72% |
 
 ### Daily Visuals
 
