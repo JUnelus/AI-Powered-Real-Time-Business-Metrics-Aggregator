@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--07%2013%3A18%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--08%2013%3A18%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-07 13:18:02**
+- Last refresh (UTC): **2026-10-08 13:18:15**
 - Tickers tracked: **20**
-- Average change: **+1.53%**
-- Median change: **-0.86%**
-- Top gainer: **STDN (+16.76%)**
-- Top loser: **STX (-9.18%)**
+- Average change: **-1.67%**
+- Median change: **-1.91%**
+- Top gainer: **BSP (+24.19%)**
+- Top loser: **BULL (-19.09%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| STDN | Standard Nuclear, Inc. | 15.19 | +16.76% |
-| HTZ | Hertz Global Holdings, Inc | 2.06 | +15.08% |
-| FCEL | FuelCell Energy, Inc. | 20.65 | +14.28% |
-| CIEN | Ciena Corporation | 443.65 | +13.85% |
-| MRVL | Marvell Technology, Inc. | 287.01 | +5.81% |
-| PENG | Penguin Solutions, Inc. | 64.21 | +5.77% |
-| STZ | Constellation Brands, Inc. | 115.67 | +2.08% |
-| LEVI | Levi Strauss & Co | 20.53 | +1.28% |
-| SOXS | Direxion Daily Semiconductor Be | 29.63 | +0.03% |
-| TSM | Taiwan Semiconductor Manufactur | 482.30 | -0.72% |
+| BSP | Bending Spoons S.p.A. | 41.07 | +24.19% |
+| SPOT | Spotify Technology S.A. | 512.92 | +5.08% |
+| CL=F | Crude Oil Nov 26 | 92.10 | +4.33% |
+| SMCI | Super Micro Computer, Inc. | 44.94 | +3.41% |
+| U | Unity Software Inc. | 45.44 | +1.09% |
+| PLTR | Palantir Technologies Inc. | 194.12 | +1.07% |
+| ARGX | argenx SE | 928.44 | -0.22% |
+| WOLF | Wolfspeed, Inc. | 31.37 | -1.45% |
+| PEP | Pepsico, Inc. | 123.73 | -1.58% |
+| TLRY | Tilray Brands, Inc. | 3.71 | -1.72% |
 
 ### Daily Visuals
 
