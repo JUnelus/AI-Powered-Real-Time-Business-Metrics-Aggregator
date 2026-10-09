@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -1.6731139149999996,
-  "median_change_pct": -1.906855,
-  "gainers": 6,
-  "losers": 14,
+  "avg_change_pct": 1.3110024500000002,
+  "median_change_pct": 0.38478199999999996,
+  "gainers": 12,
+  "losers": 8,
   "top_gainer": {
-    "symbol": "BSP",
-    "change_pct": 24.1911
+    "symbol": "SAIQ",
+    "change_pct": 41.6452
   },
   "top_loser": {
-    "symbol": "BULL",
-    "change_pct": -19.0934
+    "symbol": "VEEA",
+    "change_pct": -17.8344
   },
-  "generated_at": "2026-10-08T13:18:15.179030+00:00"
+  "generated_at": "2026-10-09T13:16:40.480818+00:00"
 }
