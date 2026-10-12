@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--09%2013%3A16%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--12%2013%3A35%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-09 13:16:40**
+- Last refresh (UTC): **2026-10-12 13:35:03**
 - Tickers tracked: **20**
-- Average change: **+1.31%**
-- Median change: **+0.38%**
-- Top gainer: **SAIQ (+41.65%)**
-- Top loser: **VEEA (-17.83%)**
+- Average change: **+3.59%**
+- Median change: **+2.65%**
+- Top gainer: **SKYA (+28.47%)**
+- Top loser: **CTNM (-21.03%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SAIQ | WISeSat.Space Holdings Corp. | 5.51 | +41.65% |
-| SECZ | Securitize Corp. | 12.66 | +11.05% |
-| CMG | Chipotle Mexican Grill, Inc. | 32.68 | +6.21% |
-| TMUS | T-Mobile US, Inc. | 171.31 | +2.18% |
-| ALHC | Alignment Healthcare, Inc. | 8.71 | +1.87% |
-| T | AT&T Inc. | 24.87 | +1.63% |
-| QS | QuantumScape Corporation | 4.58 | +1.33% |
-| VZ | Verizon Communications Inc. | 46.35 | +1.27% |
-| AAPL | Apple Inc. | 340.42 | +1.11% |
-| CLOV | Clover Health Investments, Corp | 4.58 | +0.44% |
+| SKYA | SkyAI, Inc. | 2.34 | +28.47% |
+| TRAX | First Tracks Biotherapeutics, I | 37.69 | +18.34% |
+| CCC | CCC Intelligent Solutions Holdi | 7.71 | +9.83% |
+| WFF | WF Holding Limited | 13.48 | +9.68% |
+| ENVX | Enovix Corporation | 2.66 | +8.13% |
+| PDSB | PDS Biotechnology Corporation | 1.46 | +6.04% |
+| CRM | Salesforce, Inc. | 240.70 | +5.07% |
+| NOW | ServiceNow, Inc. | 147.57 | +4.76% |
+| IREN | IREN LIMITED | 36.26 | +3.03% |
+| ONDS | Ondas Inc | 6.92 | +2.90% |
 
 ### Daily Visuals
 
