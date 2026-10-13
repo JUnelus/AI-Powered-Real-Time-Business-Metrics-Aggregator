@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 3.5915186750000005,
-  "median_change_pct": 2.6465771,
-  "gainers": 14,
-  "losers": 6,
+  "avg_change_pct": 2.6240697499999994,
+  "median_change_pct": 0.4360265,
+  "gainers": 11,
+  "losers": 8,
   "top_gainer": {
-    "symbol": "SKYA",
-    "change_pct": 28.472528
+    "symbol": "BMBL",
+    "change_pct": 49.6063
   },
   "top_loser": {
-    "symbol": "CTNM",
-    "change_pct": -21.029888
+    "symbol": "PFAI",
+    "change_pct": -14.4262
   },
-  "generated_at": "2026-10-12T13:35:03.393242+00:00"
+  "generated_at": "2026-10-13T13:22:21.897179+00:00"
 }

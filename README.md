@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--12%2013%3A35%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--13%2013%3A22%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-12 13:35:03**
+- Last refresh (UTC): **2026-10-13 13:22:21**
 - Tickers tracked: **20**
-- Average change: **+3.59%**
-- Median change: **+2.65%**
-- Top gainer: **SKYA (+28.47%)**
-- Top loser: **CTNM (-21.03%)**
+- Average change: **+2.62%**
+- Median change: **+0.44%**
+- Top gainer: **BMBL (+49.61%)**
+- Top loser: **PFAI (-14.43%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SKYA | SkyAI, Inc. | 2.34 | +28.47% |
-| TRAX | First Tracks Biotherapeutics, I | 37.69 | +18.34% |
-| CCC | CCC Intelligent Solutions Holdi | 7.71 | +9.83% |
-| WFF | WF Holding Limited | 13.48 | +9.68% |
-| ENVX | Enovix Corporation | 2.66 | +8.13% |
-| PDSB | PDS Biotechnology Corporation | 1.46 | +6.04% |
-| CRM | Salesforce, Inc. | 240.70 | +5.07% |
-| NOW | ServiceNow, Inc. | 147.57 | +4.76% |
-| IREN | IREN LIMITED | 36.26 | +3.03% |
-| ONDS | Ondas Inc | 6.92 | +2.90% |
+| BMBL | Bumble Inc. | 3.80 | +49.61% |
+| FIGS | FIGS, Inc. | 17.74 | +12.42% |
+| FICO | Fair Isaac Corporation | 740.00 | +10.85% |
+| FUN | Six Flags Entertainment Corpora | 11.92 | +4.47% |
+| ACI | Albertsons Companies, Inc. | 12.54 | +2.87% |
+| C | Citigroup, Inc. | 131.92 | +1.76% |
+| V | Visa Inc. | 389.27 | +0.99% |
+| JNJ | Johnson & Johnson | 263.73 | +0.88% |
+| DPZ | Domino's Pizza Inc | 310.90 | +0.50% |
+| BAC | Bank of America Corporation | 54.58 | +0.48% |
 
 ### Daily Visuals
 
