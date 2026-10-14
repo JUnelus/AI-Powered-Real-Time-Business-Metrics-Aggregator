@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--13%2013%3A22%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--14%2013%3A11%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-13 13:22:21**
+- Last refresh (UTC): **2026-10-14 13:11:59**
 - Tickers tracked: **20**
-- Average change: **+2.62%**
-- Median change: **+0.44%**
-- Top gainer: **BMBL (+49.61%)**
-- Top loser: **PFAI (-14.43%)**
+- Average change: **+12.28%**
+- Median change: **-1.39%**
+- Top gainer: **JBDI (+261.05%)**
+- Top loser: **VSTM (-9.70%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BMBL | Bumble Inc. | 3.80 | +49.61% |
-| FIGS | FIGS, Inc. | 17.74 | +12.42% |
-| FICO | Fair Isaac Corporation | 740.00 | +10.85% |
-| FUN | Six Flags Entertainment Corpora | 11.92 | +4.47% |
-| ACI | Albertsons Companies, Inc. | 12.54 | +2.87% |
-| C | Citigroup, Inc. | 131.92 | +1.76% |
-| V | Visa Inc. | 389.27 | +0.99% |
-| JNJ | Johnson & Johnson | 263.73 | +0.88% |
-| DPZ | Domino's Pizza Inc | 310.90 | +0.50% |
-| BAC | Bank of America Corporation | 54.58 | +0.48% |
+| JBDI | JBDI Holdings Limited | 3.43 | +261.05% |
+| RGC | Regencell Bioscience Holdings L | 8.19 | +14.87% |
+| FRMI | Fermi Inc. | 3.72 | +14.46% |
+| SKYD | Skydance Corporation | 9.27 | +1.20% |
+| ASML.AS | ASML HOLDING | 1517.40 | +0.52% |
+| GOOGL | Alphabet Inc. | 353.78 | +0.30% |
+| GOOG | Alphabet Inc. | 349.52 | +0.16% |
+| FAST | Fastenal Company | 51.43 | -0.12% |
+| STT | State Street Corporation | 174.10 | -0.47% |
+| BAC | Bank of America Corporation | 53.96 | -1.14% |
 
 ### Daily Visuals
 
