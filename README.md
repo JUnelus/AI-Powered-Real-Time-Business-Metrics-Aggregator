@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--14%2013%3A11%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--15%2013%3A13%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-14 13:11:59**
+- Last refresh (UTC): **2026-10-15 13:13:37**
 - Tickers tracked: **20**
-- Average change: **+12.28%**
-- Median change: **-1.39%**
-- Top gainer: **JBDI (+261.05%)**
-- Top loser: **VSTM (-9.70%)**
+- Average change: **+0.30%**
+- Median change: **-0.61%**
+- Top gainer: **BSP (+41.20%)**
+- Top loser: **CRWV (-15.46%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| JBDI | JBDI Holdings Limited | 3.43 | +261.05% |
-| RGC | Regencell Bioscience Holdings L | 8.19 | +14.87% |
-| FRMI | Fermi Inc. | 3.72 | +14.46% |
-| SKYD | Skydance Corporation | 9.27 | +1.20% |
-| ASML.AS | ASML HOLDING | 1517.40 | +0.52% |
-| GOOGL | Alphabet Inc. | 353.78 | +0.30% |
-| GOOG | Alphabet Inc. | 349.52 | +0.16% |
-| FAST | Fastenal Company | 51.43 | -0.12% |
-| STT | State Street Corporation | 174.10 | -0.47% |
-| BAC | Bank of America Corporation | 53.96 | -1.14% |
+| BSP | Bending Spoons S.p.A. | 53.46 | +41.20% |
+| OPK | Opko Health, Inc. | 1.37 | +3.79% |
+| WMT | Walmart Inc. | 116.16 | +3.46% |
+| PFE | Pfizer, Inc. | 29.21 | +2.96% |
+| COST | Costco Wholesale Corporation | 982.00 | +2.87% |
+| IBRX | ImmunityBio, Inc. | 9.91 | +1.12% |
+| SCHW | Charles Schwab Corporation (The | 96.80 | +0.90% |
+| MRSH | Marsh | 178.40 | +0.79% |
+| TSMC34.SA | TAIWANSMFAC DRN | 271.45 | +0.00% |
+| PAG | Penske Automotive Group, Inc. | 194.79 | -0.45% |
 
 ### Daily Visuals
 
