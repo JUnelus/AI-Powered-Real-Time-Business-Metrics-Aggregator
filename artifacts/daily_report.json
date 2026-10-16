@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.2995782899999996,
-  "median_change_pct": -0.61111,
-  "gainers": 8,
-  "losers": 11,
+  "avg_change_pct": 5.246124149999999,
+  "median_change_pct": 3.42864,
+  "gainers": 16,
+  "losers": 4,
   "top_gainer": {
-    "symbol": "BSP",
-    "change_pct": 41.204433
+    "symbol": "XLAB",
+    "change_pct": 49.6973
   },
   "top_loser": {
-    "symbol": "CRWV",
-    "change_pct": -15.460737
+    "symbol": "FMC",
+    "change_pct": -30.5315
   },
-  "generated_at": "2026-10-15T13:13:37.928345+00:00"
+  "generated_at": "2026-10-16T13:12:54.974735+00:00"
 }

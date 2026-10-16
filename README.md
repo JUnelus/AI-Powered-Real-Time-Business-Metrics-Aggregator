@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--15%2013%3A13%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--16%2013%3A12%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-15 13:13:37**
+- Last refresh (UTC): **2026-10-16 13:12:54**
 - Tickers tracked: **20**
-- Average change: **+0.30%**
-- Median change: **-0.61%**
-- Top gainer: **BSP (+41.20%)**
-- Top loser: **CRWV (-15.46%)**
+- Average change: **+5.25%**
+- Median change: **+3.43%**
+- Top gainer: **XLAB (+49.70%)**
+- Top loser: **FMC (-30.53%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BSP | Bending Spoons S.p.A. | 53.46 | +41.20% |
-| OPK | Opko Health, Inc. | 1.37 | +3.79% |
-| WMT | Walmart Inc. | 116.16 | +3.46% |
-| PFE | Pfizer, Inc. | 29.21 | +2.96% |
-| COST | Costco Wholesale Corporation | 982.00 | +2.87% |
-| IBRX | ImmunityBio, Inc. | 9.91 | +1.12% |
-| SCHW | Charles Schwab Corporation (The | 96.80 | +0.90% |
-| MRSH | Marsh | 178.40 | +0.79% |
-| TSMC34.SA | TAIWANSMFAC DRN | 271.45 | +0.00% |
-| PAG | Penske Automotive Group, Inc. | 194.79 | -0.45% |
+| XLAB | Exascale Labs Holdings Inc. | 1.36 | +49.70% |
+| RGC | Regencell Bioscience Holdings L | 9.52 | +17.39% |
+| OPEN | Opendoor Technologies Inc | 2.32 | +16.58% |
+| DVLT | Datavault AI Inc. | 0.14 | +12.27% |
+| QS | QuantumScape Corporation | 4.23 | +7.63% |
+| NOW | ServiceNow, Inc. | 148.57 | +6.14% |
+| MSTR | Strategy Inc | 151.29 | +5.62% |
+| NKE | Nike, Inc. | 37.14 | +5.21% |
+| CRM | Salesforce, Inc. | 246.74 | +4.57% |
+| ZETA | Zeta Global Holdings Corp. | 33.55 | +3.97% |
 
 ### Daily Visuals
 
