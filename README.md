@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--16%2013%3A12%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--19%2013%3A15%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-16 13:12:54**
+- Last refresh (UTC): **2026-10-19 13:15:51**
 - Tickers tracked: **20**
-- Average change: **+5.25%**
-- Median change: **+3.43%**
-- Top gainer: **XLAB (+49.70%)**
-- Top loser: **FMC (-30.53%)**
+- Average change: **-1.56%**
+- Median change: **-4.69%**
+- Top gainer: **XLAB (+72.79%)**
+- Top loser: **SAFX (-16.79%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| XLAB | Exascale Labs Holdings Inc. | 1.36 | +49.70% |
-| RGC | Regencell Bioscience Holdings L | 9.52 | +17.39% |
-| OPEN | Opendoor Technologies Inc | 2.32 | +16.58% |
-| DVLT | Datavault AI Inc. | 0.14 | +12.27% |
-| QS | QuantumScape Corporation | 4.23 | +7.63% |
-| NOW | ServiceNow, Inc. | 148.57 | +6.14% |
-| MSTR | Strategy Inc | 151.29 | +5.62% |
-| NKE | Nike, Inc. | 37.14 | +5.21% |
-| CRM | Salesforce, Inc. | 246.74 | +4.57% |
-| ZETA | Zeta Global Holdings Corp. | 33.55 | +3.97% |
+| XLAB | Exascale Labs Holdings Inc. | 2.35 | +72.79% |
+| CRGY | Crescent Energy Company | 13.77 | +10.07% |
+| IRON | Disc Medicine, Inc. | 56.84 | +0.34% |
+| FITB | Fifth Third Bancorp | 50.37 | +0.04% |
+| CLF | Cleveland-Cliffs Inc. | 12.12 | -0.25% |
+| DX | Dynex Capital, Inc. | 10.93 | -1.71% |
+| AMZN | Amazon.com, Inc. | 250.00 | -1.87% |
+| RCAT | Red Cat Holdings, Inc. | 4.72 | -3.67% |
+| AVGO | Broadcom Inc. | 328.75 | -4.52% |
+| ABVX | Abivax SA | 88.13 | -4.60% |
 
 ### Daily Visuals
 

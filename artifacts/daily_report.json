@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 5.246124149999999,
-  "median_change_pct": 3.42864,
-  "gainers": 16,
-  "losers": 4,
+  "avg_change_pct": -1.5576969534999998,
+  "median_change_pct": -4.6888179999999995,
+  "gainers": 4,
+  "losers": 16,
   "top_gainer": {
     "symbol": "XLAB",
-    "change_pct": 49.6973
+    "change_pct": 72.79411
   },
   "top_loser": {
-    "symbol": "FMC",
-    "change_pct": -30.5315
+    "symbol": "SAFX",
+    "change_pct": -16.785284
   },
-  "generated_at": "2026-10-16T13:12:54.974735+00:00"
+  "generated_at": "2026-10-19T13:15:51.624311+00:00"
 }
