@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--19%2013%3A15%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--20%2013%3A14%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-19 13:15:51**
+- Last refresh (UTC): **2026-10-20 13:14:13**
 - Tickers tracked: **20**
-- Average change: **-1.56%**
-- Median change: **-4.69%**
-- Top gainer: **XLAB (+72.79%)**
-- Top loser: **SAFX (-16.79%)**
+- Average change: **+0.24%**
+- Median change: **-0.62%**
+- Top gainer: **SAIQ (+7.91%)**
+- Top loser: **DJT (-8.01%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| XLAB | Exascale Labs Holdings Inc. | 2.35 | +72.79% |
-| CRGY | Crescent Energy Company | 13.77 | +10.07% |
-| IRON | Disc Medicine, Inc. | 56.84 | +0.34% |
-| FITB | Fifth Third Bancorp | 50.37 | +0.04% |
-| CLF | Cleveland-Cliffs Inc. | 12.12 | -0.25% |
-| DX | Dynex Capital, Inc. | 10.93 | -1.71% |
-| AMZN | Amazon.com, Inc. | 250.00 | -1.87% |
-| RCAT | Red Cat Holdings, Inc. | 4.72 | -3.67% |
-| AVGO | Broadcom Inc. | 328.75 | -4.52% |
-| ABVX | Abivax SA | 88.13 | -4.60% |
+| SAIQ | WISeSat.Space Holdings Corp. | 3.41 | +7.91% |
+| HTZ | Hertz Global Holdings, Inc | 1.84 | +6.36% |
+| AMZN | Amazon.com, Inc. | 262.45 | +4.98% |
+| RAPP | Rapport Therapeutics, Inc. | 28.60 | +3.74% |
+| BRZE | Braze, Inc. | 30.04 | +2.39% |
+| CRM | Salesforce, Inc. | 242.45 | +0.73% |
+| WMT | Walmart Inc. | 118.70 | -0.09% |
+| HAS | Hasbro, Inc. | 98.49 | -0.27% |
+| KEY | KeyCorp | 19.92 | -0.35% |
+| VICR | Vicor Corporation | 190.68 | -0.43% |
 
 ### Daily Visuals
 

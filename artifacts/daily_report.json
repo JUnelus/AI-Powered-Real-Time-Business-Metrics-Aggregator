@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -1.5576969534999998,
-  "median_change_pct": -4.6888179999999995,
-  "gainers": 4,
-  "losers": 16,
+  "avg_change_pct": 0.24055143500000006,
+  "median_change_pct": -0.62037,
+  "gainers": 6,
+  "losers": 14,
   "top_gainer": {
-    "symbol": "XLAB",
-    "change_pct": 72.79411
+    "symbol": "SAIQ",
+    "change_pct": 7.91139
   },
   "top_loser": {
-    "symbol": "SAFX",
-    "change_pct": -16.785284
+    "symbol": "DJT",
+    "change_pct": -8.01145
   },
-  "generated_at": "2026-10-19T13:15:51.624311+00:00"
+  "generated_at": "2026-10-20T13:14:13.331888+00:00"
 }
