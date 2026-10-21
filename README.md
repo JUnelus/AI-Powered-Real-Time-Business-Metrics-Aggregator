@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--20%2013%3A14%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--21%2013%3A14%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-20 13:14:13**
+- Last refresh (UTC): **2026-10-21 13:14:24**
 - Tickers tracked: **20**
-- Average change: **+0.24%**
-- Median change: **-0.62%**
-- Top gainer: **SAIQ (+7.91%)**
-- Top loser: **DJT (-8.01%)**
+- Average change: **+0.95%**
+- Median change: **+0.87%**
+- Top gainer: **LION (+14.41%)**
+- Top loser: **NFLX (-1.66%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SAIQ | WISeSat.Space Holdings Corp. | 3.41 | +7.91% |
-| HTZ | Hertz Global Holdings, Inc | 1.84 | +6.36% |
-| AMZN | Amazon.com, Inc. | 262.45 | +4.98% |
-| RAPP | Rapport Therapeutics, Inc. | 28.60 | +3.74% |
-| BRZE | Braze, Inc. | 30.04 | +2.39% |
-| CRM | Salesforce, Inc. | 242.45 | +0.73% |
-| WMT | Walmart Inc. | 118.70 | -0.09% |
-| HAS | Hasbro, Inc. | 98.49 | -0.27% |
-| KEY | KeyCorp | 19.92 | -0.35% |
-| VICR | Vicor Corporation | 190.68 | -0.43% |
+| LION | Lionsgate Studios Corp | 12.15 | +14.41% |
+| ELV | Elevance Health, Inc. | 440.18 | +2.31% |
+| TSLA | Tesla, Inc. | 373.71 | +1.54% |
+| DELL | Dell Technologies Inc. | 461.56 | +1.48% |
+| TMO | Thermo Fisher Scientific Inc | 687.37 | +1.18% |
+| SMCI | Super Micro Computer, Inc. | 32.47 | +1.15% |
+| ISRG | Intuitive Surgical, Inc. | 438.00 | +1.11% |
+| T | AT&T Inc. | 23.42 | +0.95% |
+| VZ | Verizon Communications Inc. | 44.54 | +0.88% |
+| NEE | NextEra Energy, Inc. | 78.86 | +0.88% |
 
 ### Daily Visuals
 
