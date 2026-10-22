@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--21%2013%3A14%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--22%2013%3A13%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-21 13:14:24**
+- Last refresh (UTC): **2026-10-22 13:13:58**
 - Tickers tracked: **20**
-- Average change: **+0.95%**
-- Median change: **+0.87%**
-- Top gainer: **LION (+14.41%)**
-- Top loser: **NFLX (-1.66%)**
+- Average change: **+0.30%**
+- Median change: **+0.05%**
+- Top gainer: **IBM (+3.94%)**
+- Top loser: **NQ=F (-1.70%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| LION | Lionsgate Studios Corp | 12.15 | +14.41% |
-| ELV | Elevance Health, Inc. | 440.18 | +2.31% |
-| TSLA | Tesla, Inc. | 373.71 | +1.54% |
-| DELL | Dell Technologies Inc. | 461.56 | +1.48% |
-| TMO | Thermo Fisher Scientific Inc | 687.37 | +1.18% |
-| SMCI | Super Micro Computer, Inc. | 32.47 | +1.15% |
-| ISRG | Intuitive Surgical, Inc. | 438.00 | +1.11% |
-| T | AT&T Inc. | 23.42 | +0.95% |
-| VZ | Verizon Communications Inc. | 44.54 | +0.88% |
-| NEE | NextEra Energy, Inc. | 78.86 | +0.88% |
+| IBM | International Business Machines | 251.46 | +3.94% |
+| TSLA | Tesla, Inc. | 386.47 | +3.41% |
+| NOK | Nokia Corporation Sponsored | 9.25 | +2.55% |
+| QQQ | Invesco QQQ Trust, Series 1 | 725.20 | +1.05% |
+| AAL | American Airlines Group, Inc. | 12.23 | +1.03% |
+| VLO | Valero Energy Corporation | 436.75 | +0.77% |
+| HON | Honeywell International Inc. | 214.73 | +0.66% |
+| LMT | Lockheed Martin Corporation | 551.51 | +0.51% |
+| META | Meta Platforms, Inc. | 697.52 | +0.47% |
+| UNP | Union Pacific Corporation | 287.87 | +0.09% |
 
 ### Daily Visuals
 
