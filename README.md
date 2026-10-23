@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--22%2013%3A13%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--23%2013%3A12%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-22 13:13:58**
+- Last refresh (UTC): **2026-10-23 13:12:12**
 - Tickers tracked: **20**
-- Average change: **+0.30%**
-- Median change: **+0.05%**
-- Top gainer: **IBM (+3.94%)**
-- Top loser: **NQ=F (-1.70%)**
+- Average change: **-1.81%**
+- Median change: **-0.01%**
+- Top gainer: **T (+3.79%)**
+- Top loser: **MRNA (-17.57%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| IBM | International Business Machines | 251.46 | +3.94% |
-| TSLA | Tesla, Inc. | 386.47 | +3.41% |
-| NOK | Nokia Corporation Sponsored | 9.25 | +2.55% |
-| QQQ | Invesco QQQ Trust, Series 1 | 725.20 | +1.05% |
-| AAL | American Airlines Group, Inc. | 12.23 | +1.03% |
-| VLO | Valero Energy Corporation | 436.75 | +0.77% |
-| HON | Honeywell International Inc. | 214.73 | +0.66% |
-| LMT | Lockheed Martin Corporation | 551.51 | +0.51% |
-| META | Meta Platforms, Inc. | 697.52 | +0.47% |
-| UNP | Union Pacific Corporation | 287.87 | +0.09% |
+| T | AT&T Inc. | 22.74 | +3.79% |
+| VZ | Verizon Communications Inc. | 45.20 | +3.76% |
+| INFY | Infosys Limited | 13.22 | +3.69% |
+| TNGX | Tango Therapeutics, Inc. | 27.93 | +3.52% |
+| FLG | Flagstar Bank, N.A. | 11.44 | +3.34% |
+| TMUS | T-Mobile US, Inc. | 158.79 | +3.28% |
+| AMT | American Tower Corporation (REI | 181.57 | +2.21% |
+| AAPL | Apple Inc. | 348.22 | +1.23% |
+| AXP | American Express Company | 325.17 | +0.48% |
+| CCI | Crown Castle Inc. | 78.83 | +0.23% |
 
 ### Daily Visuals
 

@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 0.297920235,
-  "median_change_pct": 0.0452018,
+  "avg_change_pct": -1.8147646849999997,
+  "median_change_pct": -0.008389999999999995,
   "gainers": 10,
-  "losers": 9,
+  "losers": 10,
   "top_gainer": {
-    "symbol": "IBM",
-    "change_pct": 3.94346
+    "symbol": "T",
+    "change_pct": 3.78822
   },
   "top_loser": {
-    "symbol": "NQ=F",
-    "change_pct": -1.7012839
+    "symbol": "MRNA",
+    "change_pct": -17.5664
   },
-  "generated_at": "2026-10-22T13:13:58.607526+00:00"
+  "generated_at": "2026-10-23T13:12:12.304724+00:00"
 }
