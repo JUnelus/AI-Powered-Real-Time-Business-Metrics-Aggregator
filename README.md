@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--23%2013%3A12%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--26%2014%3A43%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-23 13:12:12**
+- Last refresh (UTC): **2026-10-26 14:43:56**
 - Tickers tracked: **20**
-- Average change: **-1.81%**
-- Median change: **-0.01%**
-- Top gainer: **T (+3.79%)**
-- Top loser: **MRNA (-17.57%)**
+- Average change: **-7.80%**
+- Median change: **-4.38%**
+- Top gainer: **RENT (+29.34%)**
+- Top loser: **XP (-50.81%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| T | AT&T Inc. | 22.74 | +3.79% |
-| VZ | Verizon Communications Inc. | 45.20 | +3.76% |
-| INFY | Infosys Limited | 13.22 | +3.69% |
-| TNGX | Tango Therapeutics, Inc. | 27.93 | +3.52% |
-| FLG | Flagstar Bank, N.A. | 11.44 | +3.34% |
-| TMUS | T-Mobile US, Inc. | 158.79 | +3.28% |
-| AMT | American Tower Corporation (REI | 181.57 | +2.21% |
-| AAPL | Apple Inc. | 348.22 | +1.23% |
-| AXP | American Express Company | 325.17 | +0.48% |
-| CCI | Crown Castle Inc. | 78.83 | +0.23% |
+| RENT | Rent the Runway, Inc. | 2.97 | +29.34% |
+| XNCR | Xencor, Inc. | 30.21 | +19.91% |
+| RRC | Range Resources Corporation | 52.48 | +15.29% |
+| BRL=X | USD/BRL | 5.45 | +9.81% |
+| TSLA | Tesla, Inc. | 394.57 | +6.00% |
+| CRWV | CoreWeave, Inc. | 55.47 | +2.28% |
+| ANTH.PVT | Anthropic | 589.01 | +0.00% |
+| NBIS | Nebius Group N.V. | 155.97 | -1.74% |
+| VZ | Verizon Communications Inc. | 43.80 | -1.93% |
+| EQT | EQT Corporation | 53.59 | -3.67% |
 
 ### Daily Visuals
 
