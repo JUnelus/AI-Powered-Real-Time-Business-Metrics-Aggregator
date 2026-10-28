@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -2.976760724999999,
-  "median_change_pct": -0.647966,
-  "gainers": 7,
-  "losers": 13,
+  "avg_change_pct": 1.8290853500000002,
+  "median_change_pct": 1.88692,
+  "gainers": 14,
+  "losers": 6,
   "top_gainer": {
-    "symbol": "GLXY",
-    "change_pct": 6.81199
+    "symbol": "FLEX",
+    "change_pct": 8.26081
   },
   "top_loser": {
-    "symbol": "BRAI",
-    "change_pct": -43.0092
+    "symbol": "PSX",
+    "change_pct": -7.0348
   },
-  "generated_at": "2026-10-27T13:17:41.595472+00:00"
+  "generated_at": "2026-10-28T13:10:18.363901+00:00"
 }

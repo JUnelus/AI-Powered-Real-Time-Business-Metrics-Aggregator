@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--27%2013%3A17%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--28%2013%3A10%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-27 13:17:41**
+- Last refresh (UTC): **2026-10-28 13:10:18**
 - Tickers tracked: **20**
-- Average change: **-2.98%**
-- Median change: **-0.65%**
-- Top gainer: **GLXY (+6.81%)**
-- Top loser: **BRAI (-43.01%)**
+- Average change: **+1.83%**
+- Median change: **+1.89%**
+- Top gainer: **FLEX (+8.26%)**
+- Top loser: **PSX (-7.03%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| GLXY | Galaxy Digital Inc. | 15.68 | +6.81% |
-| GLW | Corning Incorporated | 127.74 | +3.27% |
-| AVGO | Broadcom Inc. | 329.17 | +2.33% |
-| RCL | Royal Caribbean Cruises Ltd. | 280.60 | +1.49% |
-| INOD | Innodata Inc. | 59.91 | +0.88% |
-| HLT | Hilton Worldwide Holdings Inc. | 351.89 | +0.65% |
-| SPGI | S&P Global Inc. | 450.65 | +0.08% |
-| KO | Coca-Cola Company (The) | 92.70 | -0.01% |
-| BA | Boeing Company (The) | 188.31 | -0.02% |
-| SHW | Sherwin-Williams Company (The) | 335.16 | -0.56% |
+| FLEX | Flex Ltd. | 83.35 | +8.26% |
+| SLS | SELLAS Life Sciences Group, Inc | 12.17 | +7.32% |
+| ULBI | Ultralife Corporation | 6.36 | +5.82% |
+| GEV | GE Vernova Inc. | 895.08 | +4.73% |
+| VRT | Vertiv Holdings, LLC | 208.56 | +4.39% |
+| SNDK | Sandisk Corporation | 1304.84 | +3.92% |
+| APH | Amphenol Corporation | 78.21 | +3.91% |
+| STX | Seagate Technology Holdings PLC | 667.85 | +3.67% |
+| MU | Micron Technology, Inc. | 928.76 | +2.77% |
+| SKHY | SK hynix Inc. | 145.36 | +1.92% |
 
 ### Daily Visuals
 
