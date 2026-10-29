@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 1.8290853500000002,
-  "median_change_pct": 1.88692,
-  "gainers": 14,
-  "losers": 6,
+  "avg_change_pct": 0.6251291914999999,
+  "median_change_pct": 0.286954,
+  "gainers": 12,
+  "losers": 8,
   "top_gainer": {
-    "symbol": "FLEX",
-    "change_pct": 8.26081
+    "symbol": "ORCL",
+    "change_pct": 10.7332
   },
   "top_loser": {
-    "symbol": "PSX",
-    "change_pct": -7.0348
+    "symbol": "FTNT",
+    "change_pct": -5.9027
   },
-  "generated_at": "2026-10-28T13:10:18.363901+00:00"
+  "generated_at": "2026-10-29T13:10:22.788942+00:00"
 }

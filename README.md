@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--28%2013%3A10%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--29%2013%3A10%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-28 13:10:18**
+- Last refresh (UTC): **2026-10-29 13:10:22**
 - Tickers tracked: **20**
-- Average change: **+1.83%**
-- Median change: **+1.89%**
-- Top gainer: **FLEX (+8.26%)**
-- Top loser: **PSX (-7.03%)**
+- Average change: **+0.63%**
+- Median change: **+0.29%**
+- Top gainer: **ORCL (+10.73%)**
+- Top loser: **FTNT (-5.90%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FLEX | Flex Ltd. | 83.35 | +8.26% |
-| SLS | SELLAS Life Sciences Group, Inc | 12.17 | +7.32% |
-| ULBI | Ultralife Corporation | 6.36 | +5.82% |
-| GEV | GE Vernova Inc. | 895.08 | +4.73% |
-| VRT | Vertiv Holdings, LLC | 208.56 | +4.39% |
-| SNDK | Sandisk Corporation | 1304.84 | +3.92% |
-| APH | Amphenol Corporation | 78.21 | +3.91% |
-| STX | Seagate Technology Holdings PLC | 667.85 | +3.67% |
-| MU | Micron Technology, Inc. | 928.76 | +2.77% |
-| SKHY | SK hynix Inc. | 145.36 | +1.92% |
+| ORCL | Oracle Corporation | 144.54 | +10.73% |
+| LITE | Lumentum Holdings Inc. | 913.95 | +5.52% |
+| MRVL | Marvell Technology, Inc. | 251.65 | +3.32% |
+| CMG | Chipotle Mexican Grill, Inc. | 28.73 | +2.68% |
+| NCLH | Norwegian Cruise Line Holdings  | 16.06 | +1.97% |
+| GOOG | Alphabet Inc. | 321.89 | +1.60% |
+| IOVA | Iovance Biotherapeutics, Inc. | 14.81 | +1.58% |
+| GOOGL | Alphabet Inc. | 324.89 | +1.34% |
+| AMZN | Amazon.com, Inc. | 254.60 | +0.59% |
+| LLY | Eli Lilly and Company | 1288.30 | +0.50% |
 
 ### Daily Visuals
 
