@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--29%2013%3A10%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--30%2013%3A09%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-29 13:10:22**
+- Last refresh (UTC): **2026-10-30 13:09:57**
 - Tickers tracked: **20**
-- Average change: **+0.63%**
-- Median change: **+0.29%**
-- Top gainer: **ORCL (+10.73%)**
-- Top loser: **FTNT (-5.90%)**
+- Average change: **-0.29%**
+- Median change: **-1.98%**
+- Top gainer: **ADT (+33.20%)**
+- Top loser: **SNDK (-5.32%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ORCL | Oracle Corporation | 144.54 | +10.73% |
-| LITE | Lumentum Holdings Inc. | 913.95 | +5.52% |
-| MRVL | Marvell Technology, Inc. | 251.65 | +3.32% |
-| CMG | Chipotle Mexican Grill, Inc. | 28.73 | +2.68% |
-| NCLH | Norwegian Cruise Line Holdings  | 16.06 | +1.97% |
-| GOOG | Alphabet Inc. | 321.89 | +1.60% |
-| IOVA | Iovance Biotherapeutics, Inc. | 14.81 | +1.58% |
-| GOOGL | Alphabet Inc. | 324.89 | +1.34% |
-| AMZN | Amazon.com, Inc. | 254.60 | +0.59% |
-| LLY | Eli Lilly and Company | 1288.30 | +0.50% |
+| ADT | ADT Inc. | 9.87 | +33.20% |
+| AZN | AstraZeneca PLC | 174.40 | +2.88% |
+| ABBV | AbbVie Inc. | 290.79 | +1.68% |
+| CVX | Chevron Corporation | 231.46 | +0.99% |
+| XOM | ExxonMobil Holdings Corporation | 183.29 | +0.70% |
+| NVDA | NVIDIA Corporation | 213.66 | -0.80% |
+| SPCX | Space Exploration Technologies  | 143.89 | -0.92% |
+| QQQ | Invesco QQQ Trust, Series 1 | 715.34 | -1.42% |
+| RBLX | Roblox Corporation | 52.46 | -1.54% |
+| RIVN | Rivian Automotive, Inc. | 11.45 | -1.89% |
 
 ### Daily Visuals
 
