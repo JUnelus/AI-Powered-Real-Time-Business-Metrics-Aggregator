@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--30%2013%3A09%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--02%2013%3A10%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-10-30 13:09:57**
+- Last refresh (UTC): **2026-11-02 13:10:25**
 - Tickers tracked: **20**
-- Average change: **-0.29%**
-- Median change: **-1.98%**
-- Top gainer: **ADT (+33.20%)**
-- Top loser: **SNDK (-5.32%)**
+- Average change: **-4.64%**
+- Median change: **-4.26%**
+- Top gainer: **PGEN (+4.52%)**
+- Top loser: **INO (-21.95%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| ADT | ADT Inc. | 9.87 | +33.20% |
-| AZN | AstraZeneca PLC | 174.40 | +2.88% |
-| ABBV | AbbVie Inc. | 290.79 | +1.68% |
-| CVX | Chevron Corporation | 231.46 | +0.99% |
-| XOM | ExxonMobil Holdings Corporation | 183.29 | +0.70% |
-| NVDA | NVIDIA Corporation | 213.66 | -0.80% |
-| SPCX | Space Exploration Technologies  | 143.89 | -0.92% |
-| QQQ | Invesco QQQ Trust, Series 1 | 715.34 | -1.42% |
-| RBLX | Roblox Corporation | 52.46 | -1.54% |
-| RIVN | Rivian Automotive, Inc. | 11.45 | -1.89% |
+| PGEN | Precigen, Inc. | 6.94 | +4.52% |
+| EVGO | EVgo Inc. | 1.26 | +1.61% |
+| AXSM | Axsome Therapeutics, Inc. | 144.43 | +0.68% |
+| EL | Estee Lauder Companies, Inc. (T | 109.23 | +0.39% |
+| MAR | Marriott International | 399.30 | -0.09% |
+| ECHO | EchoStar Corporation | 96.94 | -0.74% |
+| CHKP | Check Point Software Technologi | 152.11 | -0.91% |
+| BABA | Alibaba Group Holding Limited | 98.04 | -1.51% |
+| QURE | uniQure N.V. | 24.83 | -1.86% |
+| NVDA | NVIDIA Corporation | 204.64 | -4.22% |
 
 ### Daily Visuals
 
