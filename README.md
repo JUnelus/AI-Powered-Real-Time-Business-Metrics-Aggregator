@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--02%2013%3A10%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--03%2013%3A09%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-02 13:10:25**
+- Last refresh (UTC): **2026-11-03 13:09:07**
 - Tickers tracked: **20**
-- Average change: **-4.64%**
-- Median change: **-4.26%**
-- Top gainer: **PGEN (+4.52%)**
-- Top loser: **INO (-21.95%)**
+- Average change: **-3.33%**
+- Median change: **-1.66%**
+- Top gainer: **GRAB (+5.54%)**
+- Top loser: **CMPS (-27.31%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| PGEN | Precigen, Inc. | 6.94 | +4.52% |
-| EVGO | EVgo Inc. | 1.26 | +1.61% |
-| AXSM | Axsome Therapeutics, Inc. | 144.43 | +0.68% |
-| EL | Estee Lauder Companies, Inc. (T | 109.23 | +0.39% |
-| MAR | Marriott International | 399.30 | -0.09% |
-| ECHO | EchoStar Corporation | 96.94 | -0.74% |
-| CHKP | Check Point Software Technologi | 152.11 | -0.91% |
-| BABA | Alibaba Group Holding Limited | 98.04 | -1.51% |
-| QURE | uniQure N.V. | 24.83 | -1.86% |
-| NVDA | NVIDIA Corporation | 204.64 | -4.22% |
+| GRAB | Grab Holdings Limited | 2.86 | +5.54% |
+| FISV | Fiserv, Inc. | 51.93 | +3.82% |
+| LDOS | Leidos Holdings, Inc. | 144.16 | +0.83% |
+| PFE | Pfizer, Inc. | 30.67 | +0.49% |
+| DOCN | DigitalOcean Holdings, Inc. | 89.79 | +0.16% |
+| ZBRA | Zebra Technologies Corporation | 361.13 | -0.04% |
+| YM=F | Mini Dow Jones Indus.-$5 Dec 26 | 51818.00 | -0.60% |
+| SHOP | Shopify Inc. | 156.22 | -0.81% |
+| ETN | Eaton Corporation, PLC | 366.07 | -1.05% |
+| ADM | Archer-Daniels-Midland Company | 75.77 | -1.48% |
 
 ### Daily Visuals
 

@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -4.63707412875,
-  "median_change_pct": -4.26107595,
-  "gainers": 4,
-  "losers": 16,
+  "avg_change_pct": -3.32603944265,
+  "median_change_pct": -1.6566041999999999,
+  "gainers": 5,
+  "losers": 15,
   "top_gainer": {
-    "symbol": "PGEN",
-    "change_pct": 4.5180755
+    "symbol": "GRAB",
+    "change_pct": 5.53505
   },
   "top_loser": {
-    "symbol": "INO",
-    "change_pct": -21.948689
+    "symbol": "CMPS",
+    "change_pct": -27.312014
   },
-  "generated_at": "2026-11-02T13:10:25.269684+00:00"
+  "generated_at": "2026-11-03T13:09:07.777806+00:00"
 }
