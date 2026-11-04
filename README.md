@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--03%2013%3A09%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--04%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-03 13:09:07**
+- Last refresh (UTC): **2026-11-04 13:08:42**
 - Tickers tracked: **20**
-- Average change: **-3.33%**
-- Median change: **-1.66%**
-- Top gainer: **GRAB (+5.54%)**
-- Top loser: **CMPS (-27.31%)**
+- Average change: **+2.14%**
+- Median change: **+2.59%**
+- Top gainer: **NVTS (+7.94%)**
+- Top loser: **DUOL (-5.37%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| GRAB | Grab Holdings Limited | 2.86 | +5.54% |
-| FISV | Fiserv, Inc. | 51.93 | +3.82% |
-| LDOS | Leidos Holdings, Inc. | 144.16 | +0.83% |
-| PFE | Pfizer, Inc. | 30.67 | +0.49% |
-| DOCN | DigitalOcean Holdings, Inc. | 89.79 | +0.16% |
-| ZBRA | Zebra Technologies Corporation | 361.13 | -0.04% |
-| YM=F | Mini Dow Jones Indus.-$5 Dec 26 | 51818.00 | -0.60% |
-| SHOP | Shopify Inc. | 156.22 | -0.81% |
-| ETN | Eaton Corporation, PLC | 366.07 | -1.05% |
-| ADM | Archer-Daniels-Midland Company | 75.77 | -1.48% |
+| NVTS | Navitas Semiconductor Corporati | 8.56 | +7.94% |
+| GEV | GE Vernova Inc. | 918.20 | +6.49% |
+| DJT | Trump Media & Technology Group  | 5.95 | +5.12% |
+| CRCL | Circle Internet Group, Inc. | 75.22 | +4.36% |
+| VST | Vistra Corp. | 139.59 | +3.70% |
+| AMD | Advanced Micro Devices, Inc. | 483.90 | +3.65% |
+| SPCX | Space Exploration Technologies  | 141.31 | +3.62% |
+| ANET | Arista Networks, Inc. | 169.91 | +3.52% |
+| CVS | CVS Health Corporation | 91.41 | +3.28% |
+| SMCI | Super Micro Computer, Inc. | 31.39 | +3.12% |
 
 ### Daily Visuals
 
