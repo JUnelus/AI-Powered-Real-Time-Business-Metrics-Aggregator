@@ -1,9 +1,9 @@
 {
   "status": "pass",
-  "checked_at": "2026-11-04T13:08:41.993683+00:00",
+  "checked_at": "2026-11-05T13:08:56.289138+00:00",
   "freshness_max_age_hours": 36,
-  "latest_market_time": "2026-11-04T12:58:41+00:00",
-  "data_age_hours": 0.167,
+  "latest_market_time": "2026-11-04T21:04:59+00:00",
+  "data_age_hours": 16.066,
   "numeric_columns": {
     "regularMarketPrice": {
       "null_ratio": 0.0,
@@ -14,7 +14,7 @@
       "row_count": 20
     },
     "marketCap": {
-      "null_ratio": 0.15,
+      "null_ratio": 0.05,
       "row_count": 20
     }
   }

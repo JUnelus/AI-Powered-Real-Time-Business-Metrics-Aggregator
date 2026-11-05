@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 2.1384149628999998,
-  "median_change_pct": 2.59045,
-  "gainers": 14,
-  "losers": 6,
+  "avg_change_pct": 3.5236208999999996,
+  "median_change_pct": 4.39978,
+  "gainers": 15,
+  "losers": 5,
   "top_gainer": {
-    "symbol": "NVTS",
-    "change_pct": 7.94452
+    "symbol": "EOSE",
+    "change_pct": 12.6316
   },
   "top_loser": {
-    "symbol": "DUOL",
-    "change_pct": -5.37444
+    "symbol": "SNDK",
+    "change_pct": -7.91109
   },
-  "generated_at": "2026-11-04T13:08:42.346597+00:00"
+  "generated_at": "2026-11-05T13:08:56.535023+00:00"
 }

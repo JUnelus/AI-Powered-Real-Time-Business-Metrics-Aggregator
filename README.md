@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--04%2013%3A08%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--05%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-04 13:08:42**
+- Last refresh (UTC): **2026-11-05 13:08:56**
 - Tickers tracked: **20**
-- Average change: **+2.14%**
-- Median change: **+2.59%**
-- Top gainer: **NVTS (+7.94%)**
-- Top loser: **DUOL (-5.37%)**
+- Average change: **+3.52%**
+- Median change: **+4.40%**
+- Top gainer: **EOSE (+12.63%)**
+- Top loser: **SNDK (-7.91%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| NVTS | Navitas Semiconductor Corporati | 8.56 | +7.94% |
-| GEV | GE Vernova Inc. | 918.20 | +6.49% |
-| DJT | Trump Media & Technology Group  | 5.95 | +5.12% |
-| CRCL | Circle Internet Group, Inc. | 75.22 | +4.36% |
-| VST | Vistra Corp. | 139.59 | +3.70% |
-| AMD | Advanced Micro Devices, Inc. | 483.90 | +3.65% |
-| SPCX | Space Exploration Technologies  | 141.31 | +3.62% |
-| ANET | Arista Networks, Inc. | 169.91 | +3.52% |
-| CVS | CVS Health Corporation | 91.41 | +3.28% |
-| SMCI | Super Micro Computer, Inc. | 31.39 | +3.12% |
+| EOSE | Eos Energy Enterprises, Inc. | 2.14 | +12.63% |
+| SEZL | Sezzle Inc. | 136.69 | +11.65% |
+| LMND | Lemonade, Inc. | 45.90 | +11.03% |
+| APP | Applovin Corporation | 271.75 | +10.69% |
+| Z | Zillow Group, Inc. | 33.90 | +9.43% |
+| PZZA | Papa John's International, Inc. | 19.99 | +7.70% |
+| SNAP | Snap Inc. | 5.92 | +5.90% |
+| QCOM | QUALCOMM Incorporated | 173.19 | +5.33% |
+| U | Unity Software Inc. | 42.46 | +4.89% |
+| MELI | MercadoLibre, Inc. | 1739.88 | +4.68% |
 
 ### Daily Visuals
 
