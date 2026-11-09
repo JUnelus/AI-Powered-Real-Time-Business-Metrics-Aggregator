@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--05%2013%3A08%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--09%2013%3A09%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-05 13:08:56**
+- Last refresh (UTC): **2026-11-09 13:09:54**
 - Tickers tracked: **20**
-- Average change: **+3.52%**
-- Median change: **+4.40%**
-- Top gainer: **EOSE (+12.63%)**
-- Top loser: **SNDK (-7.91%)**
+- Average change: **+6.22%**
+- Median change: **+2.98%**
+- Top gainer: **FLY (+36.80%)**
+- Top loser: **MNDY (-6.30%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| EOSE | Eos Energy Enterprises, Inc. | 2.14 | +12.63% |
-| SEZL | Sezzle Inc. | 136.69 | +11.65% |
-| LMND | Lemonade, Inc. | 45.90 | +11.03% |
-| APP | Applovin Corporation | 271.75 | +10.69% |
-| Z | Zillow Group, Inc. | 33.90 | +9.43% |
-| PZZA | Papa John's International, Inc. | 19.99 | +7.70% |
-| SNAP | Snap Inc. | 5.92 | +5.90% |
-| QCOM | QUALCOMM Incorporated | 173.19 | +5.33% |
-| U | Unity Software Inc. | 42.46 | +4.89% |
-| MELI | MercadoLibre, Inc. | 1739.88 | +4.68% |
+| FLY | Firefly Aerospace Inc. | 20.76 | +36.80% |
+| CECO | CECO Environmental Corp. | 43.71 | +16.06% |
+| RKLB | Rocket Lab Corporation | 53.07 | +15.39% |
+| HUT | Hut 8 Corp. | 52.65 | +14.58% |
+| VIR | Vir Biotechnology, Inc. | 12.21 | +10.80% |
+| ZURA | Zura Bio Limited | 4.09 | +9.95% |
+| IBRX | ImmunityBio, Inc. | 8.63 | +7.80% |
+| PLUG | Plug Power, Inc. | 1.45 | +7.41% |
+| CEG | Constellation Energy Corporatio | 249.95 | +4.30% |
+| TGTX | TG Therapeutics, Inc. | 59.83 | +3.18% |
 
 ### Daily Visuals
 
