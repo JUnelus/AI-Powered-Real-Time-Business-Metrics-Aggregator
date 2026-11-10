@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--09%2013%3A09%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--10%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-09 13:09:54**
+- Last refresh (UTC): **2026-11-10 13:08:48**
 - Tickers tracked: **20**
-- Average change: **+6.22%**
-- Median change: **+2.98%**
-- Top gainer: **FLY (+36.80%)**
-- Top loser: **MNDY (-6.30%)**
+- Average change: **+3.38%**
+- Median change: **+1.61%**
+- Top gainer: **QMCO (+17.42%)**
+- Top loser: **HIMS (-11.77%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FLY | Firefly Aerospace Inc. | 20.76 | +36.80% |
-| CECO | CECO Environmental Corp. | 43.71 | +16.06% |
-| RKLB | Rocket Lab Corporation | 53.07 | +15.39% |
-| HUT | Hut 8 Corp. | 52.65 | +14.58% |
-| VIR | Vir Biotechnology, Inc. | 12.21 | +10.80% |
-| ZURA | Zura Bio Limited | 4.09 | +9.95% |
-| IBRX | ImmunityBio, Inc. | 8.63 | +7.80% |
-| PLUG | Plug Power, Inc. | 1.45 | +7.41% |
-| CEG | Constellation Energy Corporatio | 249.95 | +4.30% |
-| TGTX | TG Therapeutics, Inc. | 59.83 | +3.18% |
+| QMCO | Quantum Corporation | 16.99 | +17.42% |
+| TTD | The Trade Desk, Inc. | 14.93 | +15.47% |
+| SENS | Senseonics Holdings, Inc. | 9.80 | +14.09% |
+| SANM | Sanmina Corporation | 149.64 | +11.11% |
+| AAON | AAON, Inc. | 62.87 | +9.93% |
+| WYFI | WhiteFiber, Inc. | 9.57 | +7.77% |
+| QBTS | D-Wave Quantum Inc. | 11.47 | +7.40% |
+| GEV | GE Vernova Inc. | 829.34 | +7.13% |
+| SE | Sea Limited | 77.96 | +2.94% |
+| VG | Venture Global, Inc. | 11.80 | +2.34% |
 
 ### Daily Visuals
 

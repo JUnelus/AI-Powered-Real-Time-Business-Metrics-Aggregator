@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 6.2246288100000005,
-  "median_change_pct": 2.97873035,
-  "gainers": 16,
-  "losers": 4,
+  "avg_change_pct": 3.3763753000000007,
+  "median_change_pct": 1.6107425,
+  "gainers": 13,
+  "losers": 6,
   "top_gainer": {
-    "symbol": "FLY",
-    "change_pct": 36.803955
+    "symbol": "QMCO",
+    "change_pct": 17.4153
   },
   "top_loser": {
-    "symbol": "MNDY",
-    "change_pct": -6.29795
+    "symbol": "HIMS",
+    "change_pct": -11.7692
   },
-  "generated_at": "2026-11-09T13:09:54.814780+00:00"
+  "generated_at": "2026-11-10T13:08:48.711615+00:00"
 }
