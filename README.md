@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--10%2013%3A08%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--11%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-10 13:08:48**
+- Last refresh (UTC): **2026-11-11 13:08:38**
 - Tickers tracked: **20**
-- Average change: **+3.38%**
-- Median change: **+1.61%**
-- Top gainer: **QMCO (+17.42%)**
-- Top loser: **HIMS (-11.77%)**
+- Average change: **-1.55%**
+- Median change: **-1.30%**
+- Top gainer: **AVGO (+3.91%)**
+- Top loser: **IREN (-7.85%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| QMCO | Quantum Corporation | 16.99 | +17.42% |
-| TTD | The Trade Desk, Inc. | 14.93 | +15.47% |
-| SENS | Senseonics Holdings, Inc. | 9.80 | +14.09% |
-| SANM | Sanmina Corporation | 149.64 | +11.11% |
-| AAON | AAON, Inc. | 62.87 | +9.93% |
-| WYFI | WhiteFiber, Inc. | 9.57 | +7.77% |
-| QBTS | D-Wave Quantum Inc. | 11.47 | +7.40% |
-| GEV | GE Vernova Inc. | 829.34 | +7.13% |
-| SE | Sea Limited | 77.96 | +2.94% |
-| VG | Venture Global, Inc. | 11.80 | +2.34% |
+| AVGO | Broadcom Inc. | 331.98 | +3.91% |
+| TSM | Taiwan Semiconductor Manufactur | 396.48 | +2.02% |
+| AMD | Advanced Micro Devices, Inc. | 515.21 | +1.30% |
+| SPCX | Space Exploration Technologies  | 143.09 | +0.72% |
+| COST | Costco Wholesale Corporation | 1066.14 | -0.00% |
+| MRVL | Marvell Technology, Inc. | 154.39 | -0.14% |
+| APLD | Applied Digital Corporation | 16.68 | -0.24% |
+| SOXL | Direxion Daily Semiconductor Bu | 56.06 | -0.25% |
+| CRWV | CoreWeave, Inc. | 48.73 | -0.51% |
+| MU | Micron Technology, Inc. | 725.11 | -1.10% |
 
 ### Daily Visuals
 
