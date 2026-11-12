@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -1.5457063190000002,
-  "median_change_pct": -1.30381,
-  "gainers": 4,
-  "losers": 16,
+  "avg_change_pct": 2.249430235,
+  "median_change_pct": 1.433815,
+  "gainers": 12,
+  "losers": 8,
   "top_gainer": {
-    "symbol": "AVGO",
-    "change_pct": 3.91261
+    "symbol": "FRMI",
+    "change_pct": 17.5325
   },
   "top_loser": {
-    "symbol": "IREN",
-    "change_pct": -7.8468
+    "symbol": "TTEK",
+    "change_pct": -7.47848
   },
-  "generated_at": "2026-11-11T13:08:38.445283+00:00"
+  "generated_at": "2026-11-12T13:08:38.456695+00:00"
 }

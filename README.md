@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--11%2013%3A08%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--12%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-11 13:08:38**
+- Last refresh (UTC): **2026-11-12 13:08:38**
 - Tickers tracked: **20**
-- Average change: **-1.55%**
-- Median change: **-1.30%**
-- Top gainer: **AVGO (+3.91%)**
-- Top loser: **IREN (-7.85%)**
+- Average change: **+2.25%**
+- Median change: **+1.43%**
+- Top gainer: **FRMI (+17.53%)**
+- Top loser: **TTEK (-7.48%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| AVGO | Broadcom Inc. | 331.98 | +3.91% |
-| TSM | Taiwan Semiconductor Manufactur | 396.48 | +2.02% |
-| AMD | Advanced Micro Devices, Inc. | 515.21 | +1.30% |
-| SPCX | Space Exploration Technologies  | 143.09 | +0.72% |
-| COST | Costco Wholesale Corporation | 1066.14 | -0.00% |
-| MRVL | Marvell Technology, Inc. | 154.39 | -0.14% |
-| APLD | Applied Digital Corporation | 16.68 | -0.24% |
-| SOXL | Direxion Daily Semiconductor Bu | 56.06 | -0.25% |
-| CRWV | CoreWeave, Inc. | 48.73 | -0.51% |
-| MU | Micron Technology, Inc. | 725.11 | -1.10% |
+| FRMI | Fermi Inc. | 1.81 | +17.53% |
+| NBIS | Nebius Group N.V. | 154.69 | +15.44% |
+| FPS | Forgent Power Solutions, Inc. | 24.57 | +14.39% |
+| FIGR | Figure Technology Solutions, In | 24.19 | +3.64% |
+| LUNR | Intuitive Machines, Inc. | 12.18 | +3.13% |
+| NVDA | NVIDIA Corporation | 173.73 | +2.92% |
+| TE | T1 Energy Inc. | 2.13 | +2.90% |
+| ONDS | Ondas Inc | 5.73 | +2.87% |
+| CDNL | Cardinal Infrastructure Group I | 14.99 | +2.67% |
+| GOOGM | Alphabet Inc. - Depositary Shar | 42.74 | +1.81% |
 
 ### Daily Visuals
 
