@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--12%2013%3A08%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--13%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-12 13:08:38**
+- Last refresh (UTC): **2026-11-13 13:08:38**
 - Tickers tracked: **20**
-- Average change: **+2.25%**
-- Median change: **+1.43%**
-- Top gainer: **FRMI (+17.53%)**
-- Top loser: **TTEK (-7.48%)**
+- Average change: **+3.93%**
+- Median change: **-0.20%**
+- Top gainer: **XLAB (+118.27%)**
+- Top loser: **SMCI (-11.30%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| FRMI | Fermi Inc. | 1.81 | +17.53% |
-| NBIS | Nebius Group N.V. | 154.69 | +15.44% |
-| FPS | Forgent Power Solutions, Inc. | 24.57 | +14.39% |
-| FIGR | Figure Technology Solutions, In | 24.19 | +3.64% |
-| LUNR | Intuitive Machines, Inc. | 12.18 | +3.13% |
-| NVDA | NVIDIA Corporation | 173.73 | +2.92% |
-| TE | T1 Energy Inc. | 2.13 | +2.90% |
-| ONDS | Ondas Inc | 5.73 | +2.87% |
-| CDNL | Cardinal Infrastructure Group I | 14.99 | +2.67% |
-| GOOGM | Alphabet Inc. - Depositary Shar | 42.74 | +1.81% |
+| XLAB | Exascale Labs Holdings Inc. | 2.27 | +118.27% |
+| GOOGL | Alphabet Inc. | 298.70 | +1.79% |
+| TSLA | Tesla, Inc. | 397.45 | +1.70% |
+| GOOG | Alphabet Inc. | 295.35 | +1.62% |
+| VRT | Vertiv Holdings, LLC | 209.64 | +1.52% |
+| CSCO | Cisco Systems, Inc. | 102.01 | +1.24% |
+| AMZN | Amazon.com, Inc. | 267.44 | +0.48% |
+| MSFT | Microsoft Corporation | 523.00 | +0.36% |
+| CRWD | CrowdStrike Holdings, Inc. | 229.87 | +0.35% |
+| SPCX | Space Exploration Technologies  | 139.94 | +0.14% |
 
 ### Daily Visuals
 
