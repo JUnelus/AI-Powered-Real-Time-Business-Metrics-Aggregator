@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--13%2013%3A08%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--17%2013%3A09%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-13 13:08:38**
+- Last refresh (UTC): **2026-11-17 13:09:22**
 - Tickers tracked: **20**
-- Average change: **+3.93%**
-- Median change: **-0.20%**
-- Top gainer: **XLAB (+118.27%)**
-- Top loser: **SMCI (-11.30%)**
+- Average change: **+1.13%**
+- Median change: **-2.32%**
+- Top gainer: **GMM (+97.06%)**
+- Top loser: **SPAI (-10.83%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| XLAB | Exascale Labs Holdings Inc. | 2.27 | +118.27% |
-| GOOGL | Alphabet Inc. | 298.70 | +1.79% |
-| TSLA | Tesla, Inc. | 397.45 | +1.70% |
-| GOOG | Alphabet Inc. | 295.35 | +1.62% |
-| VRT | Vertiv Holdings, LLC | 209.64 | +1.52% |
-| CSCO | Cisco Systems, Inc. | 102.01 | +1.24% |
-| AMZN | Amazon.com, Inc. | 267.44 | +0.48% |
-| MSFT | Microsoft Corporation | 523.00 | +0.36% |
-| CRWD | CrowdStrike Holdings, Inc. | 229.87 | +0.35% |
-| SPCX | Space Exploration Technologies  | 139.94 | +0.14% |
+| GMM | Global Mofy AI Limited | 2.01 | +97.06% |
+| VIK | Viking Holdings Ltd | 90.28 | +0.46% |
+| LEN | Lennar Corporation | 83.79 | +0.22% |
+| DIS | Walt Disney Company (The) | 118.70 | -0.23% |
+| BSP | Bending Spoons S.p.A. | 40.98 | -0.24% |
+| HD | Home Depot, Inc. (The) | 347.51 | -0.34% |
+| LOW | Lowe's Companies, Inc. | 224.93 | -1.23% |
+| KLAR | Klarna Group plc | 13.63 | -1.23% |
+| JD | JD.com, Inc. | 27.54 | -1.33% |
+| NFLX | Netflix, Inc. | 60.75 | -2.25% |
 
 ### Daily Visuals
 

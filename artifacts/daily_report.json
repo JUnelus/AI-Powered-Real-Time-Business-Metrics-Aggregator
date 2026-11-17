@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 3.9285452500000004,
-  "median_change_pct": -0.1991995,
-  "gainers": 10,
-  "losers": 10,
+  "avg_change_pct": 1.1304019934999996,
+  "median_change_pct": -2.31521355,
+  "gainers": 3,
+  "losers": 17,
   "top_gainer": {
-    "symbol": "XLAB",
-    "change_pct": 118.269
+    "symbol": "GMM",
+    "change_pct": 97.05883
   },
   "top_loser": {
-    "symbol": "SMCI",
-    "change_pct": -11.3046
+    "symbol": "SPAI",
+    "change_pct": -10.830323
   },
-  "generated_at": "2026-11-13T13:08:38.928864+00:00"
+  "generated_at": "2026-11-17T13:09:22.600090+00:00"
 }

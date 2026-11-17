@@ -1,9 +1,9 @@
 {
   "status": "pass",
-  "checked_at": "2026-11-13T13:08:38.609242+00:00",
+  "checked_at": "2026-11-17T13:09:22.412797+00:00",
   "freshness_max_age_hours": 36,
-  "latest_market_time": "2026-11-13T13:08:32+00:00",
-  "data_age_hours": 0.002,
+  "latest_market_time": "2026-11-16T21:03:58+00:00",
+  "data_age_hours": 16.09,
   "numeric_columns": {
     "regularMarketPrice": {
       "null_ratio": 0.0,
