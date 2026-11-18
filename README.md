@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--17%2013%3A09%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--18%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-17 13:09:22**
-- Tickers tracked: **20**
-- Average change: **+1.13%**
-- Median change: **-2.32%**
-- Top gainer: **GMM (+97.06%)**
-- Top loser: **SPAI (-10.83%)**
+- Last refresh (UTC): **2026-11-18 13:08:20**
+- Tickers tracked: **19**
+- Average change: **+7.38%**
+- Median change: **-1.99%**
+- Top gainer: **SLS (+156.36%)**
+- Top loser: **CRM (-9.45%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| GMM | Global Mofy AI Limited | 2.01 | +97.06% |
-| VIK | Viking Holdings Ltd | 90.28 | +0.46% |
-| LEN | Lennar Corporation | 83.79 | +0.22% |
-| DIS | Walt Disney Company (The) | 118.70 | -0.23% |
-| BSP | Bending Spoons S.p.A. | 40.98 | -0.24% |
-| HD | Home Depot, Inc. (The) | 347.51 | -0.34% |
-| LOW | Lowe's Companies, Inc. | 224.93 | -1.23% |
-| KLAR | Klarna Group plc | 13.63 | -1.23% |
-| JD | JD.com, Inc. | 27.54 | -1.33% |
-| NFLX | Netflix, Inc. | 60.75 | -2.25% |
+| SLS | SELLAS Life Sciences Group, Inc | 19.15 | +156.36% |
+| AZI | Autozi Internet Technology (Glo | 0.73 | +28.72% |
+| AVGO | Broadcom Inc. | 341.60 | +2.46% |
+| ZIM | ZIM Integrated Shipping Service | 29.69 | +1.99% |
+| GLD | SPDR Gold Shares | 352.48 | -0.13% |
+| NVDA | NVIDIA Corporation | 155.46 | -0.44% |
+| TGT | Target Corporation | 159.53 | -0.49% |
+| TJX | TJX Companies, Inc. (The) | 129.85 | -0.95% |
+| RSG | Republic Services, Inc. | 252.93 | -1.03% |
+| LOW | Lowe's Companies, Inc. | 220.46 | -1.99% |
 
 ### Daily Visuals
 
