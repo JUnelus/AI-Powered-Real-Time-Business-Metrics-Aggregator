@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 19,
-  "avg_change_pct": 7.383796242105264,
-  "median_change_pct": -1.98728,
-  "gainers": 4,
-  "losers": 15,
+  "avg_change_pct": 1.5107864842105263,
+  "median_change_pct": 0.799425,
+  "gainers": 13,
+  "losers": 6,
   "top_gainer": {
-    "symbol": "SLS",
-    "change_pct": 156.359
+    "symbol": "OKTA",
+    "change_pct": 12.0717
   },
   "top_loser": {
-    "symbol": "CRM",
-    "change_pct": -9.45399
+    "symbol": "UNH",
+    "change_pct": -10.2058
   },
-  "generated_at": "2026-11-18T13:08:20.785259+00:00"
+  "generated_at": "2026-11-19T13:08:39.671249+00:00"
 }

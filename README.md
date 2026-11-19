@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--18%2013%3A08%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--19%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-18 13:08:20**
+- Last refresh (UTC): **2026-11-19 13:08:39**
 - Tickers tracked: **19**
-- Average change: **+7.38%**
-- Median change: **-1.99%**
-- Top gainer: **SLS (+156.36%)**
-- Top loser: **CRM (-9.45%)**
+- Average change: **+1.51%**
+- Median change: **+0.80%**
+- Top gainer: **OKTA (+12.07%)**
+- Top loser: **UNH (-10.21%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| SLS | SELLAS Life Sciences Group, Inc | 19.15 | +156.36% |
-| AZI | Autozi Internet Technology (Glo | 0.73 | +28.72% |
-| AVGO | Broadcom Inc. | 341.60 | +2.46% |
-| ZIM | ZIM Integrated Shipping Service | 29.69 | +1.99% |
-| GLD | SPDR Gold Shares | 352.48 | -0.13% |
-| NVDA | NVIDIA Corporation | 155.46 | -0.44% |
-| TGT | Target Corporation | 159.53 | -0.49% |
-| TJX | TJX Companies, Inc. (The) | 129.85 | -0.95% |
-| RSG | Republic Services, Inc. | 252.93 | -1.03% |
-| LOW | Lowe's Companies, Inc. | 220.46 | -1.99% |
+| OKTA | Okta, Inc. | 195.61 | +12.07% |
+| PANW | Palo Alto Networks, Inc. | 339.92 | +9.90% |
+| CRWD | CrowdStrike Holdings, Inc. | 237.03 | +7.95% |
+| ZS | Zscaler, Inc. | 197.83 | +6.83% |
+| NET | Cloudflare, Inc. | 300.91 | +5.66% |
+| AMZN | Amazon.com, Inc. | 267.74 | +3.82% |
+| ANTW | Anthropic AI Lab Ecosystem ETF | 20.63 | +1.43% |
+| SPCX | Space Exploration Technologies  | 143.50 | +1.27% |
+| TSLA | Tesla, Inc. | 383.72 | +0.95% |
+| GOOGL | Alphabet Inc. | 282.44 | +0.80% |
 
 ### Daily Visuals
 
