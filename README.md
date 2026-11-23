@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--19%2013%3A08%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23%2013%3A10%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-19 13:08:39**
-- Tickers tracked: **19**
-- Average change: **+1.51%**
-- Median change: **+0.80%**
-- Top gainer: **OKTA (+12.07%)**
-- Top loser: **UNH (-10.21%)**
+- Last refresh (UTC): **2026-11-23 13:10:07**
+- Tickers tracked: **20**
+- Average change: **-6.19%**
+- Median change: **-5.10%**
+- Top gainer: **GPN (+9.95%)**
+- Top loser: **SOXL (-31.83%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| OKTA | Okta, Inc. | 195.61 | +12.07% |
-| PANW | Palo Alto Networks, Inc. | 339.92 | +9.90% |
-| CRWD | CrowdStrike Holdings, Inc. | 237.03 | +7.95% |
-| ZS | Zscaler, Inc. | 197.83 | +6.83% |
-| NET | Cloudflare, Inc. | 300.91 | +5.66% |
-| AMZN | Amazon.com, Inc. | 267.74 | +3.82% |
-| ANTW | Anthropic AI Lab Ecosystem ETF | 20.63 | +1.43% |
-| SPCX | Space Exploration Technologies  | 143.50 | +1.27% |
-| TSLA | Tesla, Inc. | 383.72 | +0.95% |
-| GOOGL | Alphabet Inc. | 282.44 | +0.80% |
+| GPN | Global Payments Inc. | 91.83 | +9.95% |
+| UNH | UnitedHealth Group Incorporated | 339.85 | +2.84% |
+| CVS | CVS Health Corporation | 80.84 | +1.00% |
+| BRL=X | USD/BRL | 6.00 | +0.81% |
+| CAPR | Capricor Therapeutics, Inc. | 7.59 | +0.80% |
+| DWTX | Dogwood Therapeutics, Inc. | 1.03 | -2.36% |
+| GOOG | Alphabet Inc. | 264.00 | -2.59% |
+| GOOGL | Alphabet Inc. | 265.29 | -2.70% |
+| KYMR | Kymera Therapeutics, Inc. | 115.31 | -3.42% |
+| SPXC | SPX Technologies, Inc. | 136.29 | -4.91% |
 
 ### Daily Visuals
 

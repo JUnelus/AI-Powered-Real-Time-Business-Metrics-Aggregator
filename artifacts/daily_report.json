@@ -1,16 +1,16 @@
 {
-  "tickers_tracked": 19,
-  "avg_change_pct": 1.5107864842105263,
-  "median_change_pct": 0.799425,
-  "gainers": 13,
-  "losers": 6,
+  "tickers_tracked": 20,
+  "avg_change_pct": -6.185378030499999,
+  "median_change_pct": -5.102805,
+  "gainers": 5,
+  "losers": 15,
   "top_gainer": {
-    "symbol": "OKTA",
-    "change_pct": 12.0717
+    "symbol": "GPN",
+    "change_pct": 9.94972
   },
   "top_loser": {
-    "symbol": "UNH",
-    "change_pct": -10.2058
+    "symbol": "SOXL",
+    "change_pct": -31.8322
   },
-  "generated_at": "2026-11-19T13:08:39.671249+00:00"
+  "generated_at": "2026-11-23T13:10:07.913674+00:00"
 }
