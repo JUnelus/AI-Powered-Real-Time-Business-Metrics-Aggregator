@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23%2013%3A10%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--24%2013%3A09%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-23 13:10:07**
+- Last refresh (UTC): **2026-11-24 13:09:29**
 - Tickers tracked: **20**
-- Average change: **-6.19%**
-- Median change: **-5.10%**
-- Top gainer: **GPN (+9.95%)**
-- Top loser: **SOXL (-31.83%)**
+- Average change: **+16.00%**
+- Median change: **+1.45%**
+- Top gainer: **BNAI (+117.86%)**
+- Top loser: **KSS (-4.72%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| GPN | Global Payments Inc. | 91.83 | +9.95% |
-| UNH | UnitedHealth Group Incorporated | 339.85 | +2.84% |
-| CVS | CVS Health Corporation | 80.84 | +1.00% |
-| BRL=X | USD/BRL | 6.00 | +0.81% |
-| CAPR | Capricor Therapeutics, Inc. | 7.59 | +0.80% |
-| DWTX | Dogwood Therapeutics, Inc. | 1.03 | -2.36% |
-| GOOG | Alphabet Inc. | 264.00 | -2.59% |
-| GOOGL | Alphabet Inc. | 265.29 | -2.70% |
-| KYMR | Kymera Therapeutics, Inc. | 115.31 | -3.42% |
-| SPXC | SPX Technologies, Inc. | 136.29 | -4.91% |
+| BNAI | Brand Engagement Network Inc. | 7.32 | +117.86% |
+| OTLY | Oatly Group AB | 14.50 | +109.08% |
+| NVDA | NVIDIA Corporation | 165.05 | +31.48% |
+| DELL | Dell Technologies Inc. | 334.91 | +20.46% |
+| HPE | Hewlett Packard Enterprise Comp | 48.02 | +17.38% |
+| FLNC | Fluence Energy, Inc. | 3.80 | +9.83% |
+| ADI | Analog Devices, Inc. | 378.75 | +9.49% |
+| DY | Dycom Industries, Inc. | 218.37 | +6.24% |
+| INSM | Insmed Incorporated | 149.09 | +5.49% |
+| ANF | Abercrombie & Fitch Company | 140.45 | +1.83% |
 
 ### Daily Visuals
 

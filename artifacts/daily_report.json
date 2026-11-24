@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -6.185378030499999,
-  "median_change_pct": -5.102805,
-  "gainers": 5,
-  "losers": 15,
+  "avg_change_pct": 16.00190795,
+  "median_change_pct": 1.4540600000000001,
+  "gainers": 14,
+  "losers": 6,
   "top_gainer": {
-    "symbol": "GPN",
-    "change_pct": 9.94972
+    "symbol": "BNAI",
+    "change_pct": 117.857
   },
   "top_loser": {
-    "symbol": "SOXL",
-    "change_pct": -31.8322
+    "symbol": "KSS",
+    "change_pct": -4.7191
   },
-  "generated_at": "2026-11-23T13:10:07.913674+00:00"
+  "generated_at": "2026-11-24T13:09:29.088800+00:00"
 }
