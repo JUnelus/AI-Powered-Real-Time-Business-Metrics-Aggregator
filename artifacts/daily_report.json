@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 16.00190795,
-  "median_change_pct": 1.4540600000000001,
-  "gainers": 14,
-  "losers": 6,
+  "avg_change_pct": -5.755955671500001,
+  "median_change_pct": -4.29044005,
+  "gainers": 2,
+  "losers": 18,
   "top_gainer": {
-    "symbol": "BNAI",
-    "change_pct": 117.857
+    "symbol": "LI",
+    "change_pct": 1.7757059
   },
   "top_loser": {
-    "symbol": "KSS",
-    "change_pct": -4.7191
+    "symbol": "AMBA",
+    "change_pct": -21.595963
   },
-  "generated_at": "2026-11-24T13:09:29.088800+00:00"
+  "generated_at": "2026-11-25T14:56:55.686338+00:00"
 }

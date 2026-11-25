@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--24%2013%3A09%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--25%2014%3A56%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-24 13:09:29**
+- Last refresh (UTC): **2026-11-25 14:56:55**
 - Tickers tracked: **20**
-- Average change: **+16.00%**
-- Median change: **+1.45%**
-- Top gainer: **BNAI (+117.86%)**
-- Top loser: **KSS (-4.72%)**
+- Average change: **-5.76%**
+- Median change: **-4.29%**
+- Top gainer: **LI (+1.78%)**
+- Top loser: **AMBA (-21.60%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BNAI | Brand Engagement Network Inc. | 7.32 | +117.86% |
-| OTLY | Oatly Group AB | 14.50 | +109.08% |
-| NVDA | NVIDIA Corporation | 165.05 | +31.48% |
-| DELL | Dell Technologies Inc. | 334.91 | +20.46% |
-| HPE | Hewlett Packard Enterprise Comp | 48.02 | +17.38% |
-| FLNC | Fluence Energy, Inc. | 3.80 | +9.83% |
-| ADI | Analog Devices, Inc. | 378.75 | +9.49% |
-| DY | Dycom Industries, Inc. | 218.37 | +6.24% |
-| INSM | Insmed Incorporated | 149.09 | +5.49% |
-| ANF | Abercrombie & Fitch Company | 140.45 | +1.83% |
+| LI | Li Auto Inc. | 10.89 | +1.78% |
+| DE | Deere & Company | 616.83 | +0.47% |
+| WDAY | Workday, Inc. | 178.30 | -0.52% |
+| SPY | State Street SPDR S&P 500 ETF T | 701.35 | -2.40% |
+| GC=F | Gold Dec 26 | 3487.50 | -2.88% |
+| MSFT | Microsoft Corporation | 481.61 | -2.93% |
+| ES=F | E-Mini S&P 500 Dec 26 | 7005.00 | -2.94% |
+| QQQ | Invesco QQQ Trust, Series 1 | 615.29 | -3.57% |
+| DELL | Dell Technologies Inc. | 279.21 | -3.89% |
+| GOOG | Alphabet Inc. | 264.82 | -4.25% |
 
 ### Daily Visuals
 
