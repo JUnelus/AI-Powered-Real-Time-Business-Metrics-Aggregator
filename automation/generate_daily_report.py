@@ -16,6 +16,7 @@ LAST_UPDATED_BADGE_START = "<!-- LAST_UPDATED_BADGE_START -->"
 LAST_UPDATED_BADGE_END = "<!-- LAST_UPDATED_BADGE_END -->"
 FRESHNESS_MAX_AGE_HOURS = 36
 WEEKEND_FRESHNESS_MAX_AGE_HOURS = 84
+REQUIRED_NULL_RATIO_THRESHOLD = 0.2
 
 SOURCE_REQUIRED_COLUMNS = {
     "symbol",
@@ -127,6 +128,7 @@ def run_data_quality_checks(
     numeric_columns_to_check = numeric_columns + [col for col in optional_numeric_columns if col in source_df.columns]
 
     metrics: dict[str, dict[str, float | int]] = {}
+    warnings: list[str] = []
 
     for column in numeric_columns_to_check:
         numeric_series = pd.to_numeric(source_df[column], errors="coerce")
@@ -135,10 +137,22 @@ def run_data_quality_checks(
             "null_ratio": round(null_ratio, 4),
             "row_count": int(len(source_df)),
         }
-        if null_ratio > 0.2:
+        if column in numeric_columns:
+            if null_ratio > REQUIRED_NULL_RATIO_THRESHOLD:
+                raise RuntimeError(
+                    f"Data quality check failed for '{column}': null ratio {null_ratio:.2%} "
+                    f"exceeds {REQUIRED_NULL_RATIO_THRESHOLD:.0%} threshold."
+                )
+        # Optional columns are legitimately absent for some tickers (indices, futures, crypto),
+        # so partial gaps are only warnings; a fully empty column still signals upstream breakage.
+        elif null_ratio >= 1.0:
             raise RuntimeError(
-                f"Data quality check failed for '{column}': null ratio {null_ratio:.2%} exceeds 20% threshold."
+                f"Data quality check failed for '{column}': optional column has no valid values."
             )
+        elif null_ratio > REQUIRED_NULL_RATIO_THRESHOLD:
+            message = f"Optional column '{column}' null ratio {null_ratio:.2%} exceeds {REQUIRED_NULL_RATIO_THRESHOLD:.0%}."
+            warnings.append(message)
+            print(f"WARNING: {message}")
 
     market_time = pd.to_numeric(source_df["regularMarketTime"], errors="coerce").dropna()
     if market_time.empty:
@@ -165,6 +179,7 @@ def run_data_quality_checks(
         "latest_market_time": latest_market_time,
         "data_age_hours": round(data_age_hours, 3) if data_age_hours is not None else None,
         "numeric_columns": metrics,
+        "warnings": warnings,
     }
 
 

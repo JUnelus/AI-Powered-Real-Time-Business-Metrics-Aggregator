@@ -88,6 +88,24 @@ class DataQualityChecksTests(unittest.TestCase):
                 with self.assertRaisesRegex(RuntimeError, f"Data quality check failed for '{column}'"):
                     run_data_quality_checks(source, True, now_utc=MONDAY)
 
+    def test_partial_nulls_in_optional_columns_only_warn(self):
+        for column in ("regularMarketVolume", "marketCap"):
+            with self.subTest(column=column):
+                source = pd.concat([source_data(MONDAY, 65)] * 4, ignore_index=True)
+                source.loc[0, column] = None  # 25% null, as seen in CI
+                report = run_data_quality_checks(source, True, now_utc=MONDAY)
+                self.assertEqual(report["numeric_columns"][column]["null_ratio"], 0.25)
+                self.assertEqual(len(report["warnings"]), 1)
+                self.assertIn(column, report["warnings"][0])
+
+    def test_partial_nulls_in_required_columns_are_rejected(self):
+        for column in ("regularMarketPrice", "regularMarketChangePercent"):
+            with self.subTest(column=column):
+                source = pd.concat([source_data(MONDAY, 65)] * 4, ignore_index=True)
+                source.loc[0, column] = None
+                with self.assertRaisesRegex(RuntimeError, f"Data quality check failed for '{column}'"):
+                    run_data_quality_checks(source, True, now_utc=MONDAY)
+
     def test_missing_valid_timestamps_are_rejected(self):
         source = source_data(MONDAY, 65).assign(regularMarketTime="invalid")
         with self.assertRaisesRegex(RuntimeError, "has no valid timestamps"):
