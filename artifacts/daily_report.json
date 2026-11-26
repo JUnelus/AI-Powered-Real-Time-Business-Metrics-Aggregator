@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": -5.755955671500001,
-  "median_change_pct": -4.29044005,
-  "gainers": 2,
-  "losers": 18,
+  "avg_change_pct": 3.2221714455000003,
+  "median_change_pct": 1.62344205,
+  "gainers": 17,
+  "losers": 3,
   "top_gainer": {
-    "symbol": "LI",
-    "change_pct": 1.7757059
+    "symbol": "BYND",
+    "change_pct": 20.2703
   },
   "top_loser": {
-    "symbol": "AMBA",
-    "change_pct": -21.595963
+    "symbol": "BRL=X",
+    "change_pct": -0.9207302
   },
-  "generated_at": "2026-11-25T14:56:55.686338+00:00"
+  "generated_at": "2026-11-26T13:08:44.964188+00:00"
 }

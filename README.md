@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--25%2014%3A56%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-25 14:56:55**
+- Last refresh (UTC): **2026-11-26 13:08:44**
 - Tickers tracked: **20**
-- Average change: **-5.76%**
-- Median change: **-4.29%**
-- Top gainer: **LI (+1.78%)**
-- Top loser: **AMBA (-21.60%)**
+- Average change: **+3.22%**
+- Median change: **+1.62%**
+- Top gainer: **BYND (+20.27%)**
+- Top loser: **BRL=X (-0.92%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| LI | Li Auto Inc. | 10.89 | +1.78% |
-| DE | Deere & Company | 616.83 | +0.47% |
-| WDAY | Workday, Inc. | 178.30 | -0.52% |
-| SPY | State Street SPDR S&P 500 ETF T | 701.35 | -2.40% |
-| GC=F | Gold Dec 26 | 3487.50 | -2.88% |
-| MSFT | Microsoft Corporation | 481.61 | -2.93% |
-| ES=F | E-Mini S&P 500 Dec 26 | 7005.00 | -2.94% |
-| QQQ | Invesco QQQ Trust, Series 1 | 615.29 | -3.57% |
-| DELL | Dell Technologies Inc. | 279.21 | -3.89% |
-| GOOG | Alphabet Inc. | 264.82 | -4.25% |
+| BYND | Beyond Meat, Inc. | 4.45 | +20.27% |
+| PLUG | Plug Power, Inc. | 1.06 | +14.34% |
+| NOKIA.HE | Nokia Corporation | 6.64 | +5.06% |
+| BTC-USD | Bitcoin USD | 60775.90 | +4.79% |
+| ETH-USD | Ethereum USD | 1705.55 | +4.65% |
+| ASML.AS | ASML HOLDING | 1169.00 | +3.31% |
+| EWZ | iShares MSCI Brazil ETF | 30.16 | +2.94% |
+| ^TWII | TSEC CAPITALIZATION WEIGHTED ST | 39151.81 | +2.50% |
+| 000660.KS | SK hynix | 1053000.00 | +2.23% |
+| ^GDAXI | DAX                           P | 25164.76 | +1.87% |
 
 ### Daily Visuals
 
