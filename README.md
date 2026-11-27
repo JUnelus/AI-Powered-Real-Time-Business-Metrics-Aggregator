@@ -1,7 +1,7 @@
 # AI-Powered Real-Time Business Metrics Aggregator
 
 <!-- LAST_UPDATED_BADGE_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26%2013%3A08%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27%2013%3A08%20UTC-blue)
 <!-- LAST_UPDATED_BADGE_END -->
 
 
@@ -146,27 +146,27 @@ This project demonstrates a full pipeline for ingesting, transforming, and analy
 <!-- DAILY_REPORT_START -->
 ## Daily Automated Market Summary
 
-- Last refresh (UTC): **2026-11-26 13:08:44**
+- Last refresh (UTC): **2026-11-27 13:08:29**
 - Tickers tracked: **20**
-- Average change: **+3.22%**
-- Median change: **+1.62%**
-- Top gainer: **BYND (+20.27%)**
-- Top loser: **BRL=X (-0.92%)**
+- Average change: **-0.90%**
+- Median change: **-0.92%**
+- Top gainer: **META (+3.40%)**
+- Top loser: **SNDK (-5.57%)**
 
 ### Top Movers
 
 | Symbol | Name | Price | Change % |
 |---|---|---:|---:|
-| BYND | Beyond Meat, Inc. | 4.45 | +20.27% |
-| PLUG | Plug Power, Inc. | 1.06 | +14.34% |
-| NOKIA.HE | Nokia Corporation | 6.64 | +5.06% |
-| BTC-USD | Bitcoin USD | 60775.90 | +4.79% |
-| ETH-USD | Ethereum USD | 1705.55 | +4.65% |
-| ASML.AS | ASML HOLDING | 1169.00 | +3.31% |
-| EWZ | iShares MSCI Brazil ETF | 30.16 | +2.94% |
-| ^TWII | TSEC CAPITALIZATION WEIGHTED ST | 39151.81 | +2.50% |
-| 000660.KS | SK hynix | 1053000.00 | +2.23% |
-| ^GDAXI | DAX                           P | 25164.76 | +1.87% |
+| META | Meta Platforms, Inc. | 609.89 | +3.40% |
+| NQ=F | Nasdaq 100 Dec 26 | 26723.00 | +2.39% |
+| ES=F | E-Mini S&P 500 Dec 26 | 7315.50 | +1.66% |
+| YM=F | Mini Dow Jones Indus.-$5 Dec 26 | 50894.00 | +1.33% |
+| SPCX | Space Exploration Technologies  | 127.44 | +1.30% |
+| AAPL | Apple Inc. | 355.58 | +0.43% |
+| AVGO | Broadcom Inc. | 300.86 | -0.07% |
+| CRWV | CoreWeave, Inc. | 42.57 | -0.08% |
+| MRVL | Marvell Technology, Inc. | 130.93 | -0.49% |
+| QQQ | Invesco QQQ Trust, Series 1 | 633.93 | -0.65% |
 
 ### Daily Visuals
 

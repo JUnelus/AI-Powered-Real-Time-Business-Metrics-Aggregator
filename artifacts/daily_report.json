@@ -1,16 +1,16 @@
 {
   "tickers_tracked": 20,
-  "avg_change_pct": 3.2221714455000003,
-  "median_change_pct": 1.62344205,
-  "gainers": 17,
-  "losers": 3,
+  "avg_change_pct": -0.8960309200000001,
+  "median_change_pct": -0.9168499999999999,
+  "gainers": 6,
+  "losers": 14,
   "top_gainer": {
-    "symbol": "BYND",
-    "change_pct": 20.2703
+    "symbol": "META",
+    "change_pct": 3.40273
   },
   "top_loser": {
-    "symbol": "BRL=X",
-    "change_pct": -0.9207302
+    "symbol": "SNDK",
+    "change_pct": -5.56767
   },
-  "generated_at": "2026-11-26T13:08:44.964188+00:00"
+  "generated_at": "2026-11-27T13:08:29.076978+00:00"
 }
